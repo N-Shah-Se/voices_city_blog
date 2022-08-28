@@ -1,0 +1,151 @@
+# Translation of Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release) in Azerbaijani
+# This file is distributed under the same license as the Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-21 17:51:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: az\n"
+"Project-Id-Version: Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release)\n"
+
+#: templates/database/tables-body.php:65 templates/database/tables-body.php:78
+#: templates/database/tables.php:44
+msgid "Type"
+msgstr "Növ"
+
+#: templates/minify/status-tab.php:111 templates/minify/status-tab.php:133
+#: wp-optimize.php:831 wp-optimize.php:851 wp-optimize.php:856
+#: wp-optimize.php:1417 wp-optimize.php:1666 wp-optimize.php:1667
+msgid "Settings"
+msgstr "Parametrlər"
+
+#: templates/cache/browser-cache.php:39 templates/cache/gzip-compression.php:47
+#: templates/settings/settings-trackback-and-comments.php:18
+#: templates/settings/settings-trackback-and-comments.php:49
+#: wp-optimize.php:1284
+msgid "Enable"
+msgstr "Aktivləşdir"
+
+#: templates/database/tables-body.php:86 templates/database/tables-body.php:115
+#: templates/database/tables.php:46 templates/settings/settings-logging.php:25
+msgid "Actions"
+msgstr "Hərəkətlər"
+
+#: templates/database/optimize-table.php:54
+msgid "Warning:"
+msgstr "Xəbərdarlıq:"
+
+#: templates/cache/gzip-compression.php:47
+#: templates/settings/settings-trackback-and-comments.php:20
+#: templates/settings/settings-trackback-and-comments.php:51
+#: wp-optimize.php:1285
+msgid "Disable"
+msgstr "Ləğv et"
+
+#: optimizations/inactive-tags.php:21
+msgid "Remove unused tags"
+msgstr "İstifadə edilməmiş etiketləri sil"
+
+#: optimizations/transient.php:161 optimizations/transient.php:388
+msgid "No transient options found"
+msgstr "Müvəqqəti parametr tapılmadı"
+
+#: optimizations/revisions.php:70 optimizations/revisions.php:165
+msgid "No post revisions found"
+msgstr "Yazı versiyası tapılmadı"
+
+#: optimizations/autodraft.php:74 optimizations/autodraft.php:126
+msgid "No auto draft posts found"
+msgstr "Avtoqaralama yazısı tapılmadı"
+
+#: optimizations/spam.php:185
+msgid "No spam comments found"
+msgstr "Spam şərh tapılmadı"
+
+#: optimizations/unapproved.php:91 optimizations/unapproved.php:144
+msgid "No unapproved comments found"
+msgstr "Təsdiqlənməmiş şərh tapılmadı"
+
+#: optimizations/pingbacks.php:59 optimizations/pingbacks.php:113
+msgid "No pingbacks found"
+msgstr "Geri bildiriş tapılmadı"
+
+#: optimizations/trackbacks.php:60 optimizations/trackbacks.php:115
+msgid "No trackbacks found"
+msgstr "Geri izləmə tapılmadı"
+
+#: optimizations/revisions.php:238 optimizations/revisions.php:242
+msgid "Clean all post revisions"
+msgstr "Bütün yazı versiyalarını təmizlə"
+
+#: optimizations/unapproved.php:178 optimizations/unapproved.php:183
+msgid "Remove unapproved comments"
+msgstr "Təsdiqlənməmiş şərhləri sil"
+
+#: optimizations/pingbacks.php:139
+msgid "Remove pingbacks"
+msgstr "Geri bildirişləri sil"
+
+#: optimizations/trackbacks.php:133
+msgid "Remove trackbacks"
+msgstr "Geri izləmələri sil"
+
+#: optimizations/optimizetables.php:180 optimizations/optimizetables.php:184
+msgid "Optimize database tables"
+msgstr "Verilənlər bazası lövhələrini optimallaşdır"
+
+#: templates/database/status-box-contents.php:74
+msgid "Refresh"
+msgstr "Təzələ"
+
+#: templates/database/tables-body.php:29 templates/database/tables.php:39
+msgid "No."
+msgstr "№."
+
+#: templates/database/tables-body.php:60 templates/database/tables.php:41
+msgid "Records"
+msgstr "Qeydlər"
+
+#: templates/database/tables-body.php:61 templates/database/tables.php:42
+msgid "Data Size"
+msgstr "Məlumat Ölçüsü"
+
+#: templates/database/tables-body.php:62 templates/database/tables.php:43
+msgid "Index Size"
+msgstr "İndeks Ölçüsü"
+
+#: templates/database/tables-body.php:101
+msgid "Total:"
+msgstr "Cəmi:"
+
+#: optimizations/spam.php:181 optimizations/spam.php:194
+msgid "Review"
+msgstr "Baxış"
+
+#: templates/database/status-box-contents.php:78
+msgid "Scheduled cleaning disabled"
+msgstr "Planlanmış təmizləmə ləğv edildi"
+
+#: templates/database/status-box-contents.php:88
+msgid "Not keeping recent data"
+msgstr "Sonuncu məlumatları saxlama"
+
+#: templates/database/settings-auto-cleanup.php:22
+msgid "Select schedule type (default is Weekly)"
+msgstr "Planlama növünü seçin (mövcud olaraq Həftəlik)"
+
+#: optimizations/postmeta.php:131
+msgid "Remove orphaned post meta"
+msgstr "Sahibsiz yazı metasını sil"
+
+#: templates/database/tables.php:13
+msgid "Optimized all the tables found in the database."
+msgstr "Verilənlər bazasında olan bütün lövhələr optimaldır."
+
+#: templates/database/tables-body.php:67 templates/database/tables-body.php:79
+#: templates/database/tables.php:45
+msgid "Overhead"
+msgstr "Əlavə hərəkət"

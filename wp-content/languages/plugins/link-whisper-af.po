@@ -1,0 +1,580 @@
+# Translation of Plugins - Link Whisper Free - Stable (latest release) in Afrikaans
+# This file is distributed under the same license as the Plugins - Link Whisper Free - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-24 19:14:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: af_ZA\n"
+"Project-Id-Version: Plugins - Link Whisper Free - Stable (latest release)\n"
+
+#: templates/wpil_settings_v2.php:17
+msgid "Please contact your hosting provider about enabling the Multibyte String PHP extension."
+msgstr "Kontak asseblief jou gasheerverskaffer oor die aktivering van die Multibyte String PHP-uitbreiding."
+
+#: templates/wpil_settings_v2.php:16
+msgid "The Multibyte String PHP extension is not active on your site. Link Whisper uses this extension to process text when making suggestions. Without this extension, Link Whisper will not be able to make suggestions."
+msgstr "Die Multibyte String PHP-uitbreiding is nie aktief op jou werf nie. Link Whisper gebruik hierdie uitbreiding om teks te verwerk wanneer voorstelle gemaak word. Sonder hierdie uitbreiding sal Link Whisper nie voorstelle kan maak nie."
+
+#: templates/wpil_settings_v2.php:15
+msgid "Dependency Missing: Multibyte String."
+msgstr "Afhanklikheid ontbreek: Multigreep-string."
+
+#: templates/table_suggestions.php:128
+msgid "URL:"
+msgstr "URL:"
+
+#: templates/table_suggestions.php:122
+msgid "Tags: "
+msgstr "Merkers:"
+
+#: templates/table_suggestions.php:122
+msgid "Tag: "
+msgstr "Merker:"
+
+#: templates/table_suggestions.php:121
+msgid "Categories: "
+msgstr "Kategorieë:"
+
+#: templates/table_suggestions.php:121
+msgid "Category: "
+msgstr "Kategorie:"
+
+#: templates/table_suggestions.php:120
+msgid "Published:"
+msgstr "Gepubliseer:"
+
+#: templates/table_suggestions.php:119
+msgid "Type: "
+msgstr "Tipe:"
+
+#: templates/table_suggestions.php:118
+msgid "Title:"
+msgstr "Titel:"
+
+#: templates/linking_data_list_v2.php:67
+msgid "Regenerate Suggestions"
+msgstr "Herwin voorstelle"
+
+#: templates/linking_data_list_v2.php:45
+msgid "Only Show Link Suggestions with the Same Tag as This Post"
+msgstr "Wys slegs skakelvoorstelle met dieselfde merker as hierdie plasing"
+
+#: templates/linking_data_list_v2.php:24
+msgid "Only Show Link Suggestions in the Same Category as This Post"
+msgstr "Wys slegs skakelvoorstelle in dieselfde kategorie as hierdie plasing"
+
+#: core/Wpil/Link.php:293
+msgid "Not Available"
+msgstr "Nie beskikbaar nie"
+
+#: templates/blocks/collapsible_select_keywords.php:24
+msgid "Select All"
+msgstr "Kies Alles"
+
+#: link-whisper.php:82
+msgid "Change Log"
+msgstr "Verander log"
+
+#: templates/wpil_settings_v2.php:10
+msgid "The Link Whisper Settings have been updated successfully!"
+msgstr "Die Link Whisper-instellings is suksesvol opgedateer!"
+
+#: templates/blocks/collapsible_clicks.php:16
+msgid "View Detailed Click Report"
+msgstr "Bekyk gedetailleerde klikverslag"
+
+#: templates/blocks/collapsible_clicks.php:13
+msgid "Most Clicked Link:"
+msgstr "Mees geklikte skakel:"
+
+#: templates/blocks/collapsible_clicks.php:10
+msgid "Clicks Over the Past 30 Days:"
+msgstr "Klik oor die afgelope 30 dae:"
+
+#: templates/blocks/collapsible_clicks.php:7
+msgid "Total Link Clicks:"
+msgstr "Totale skakelklikke:"
+
+#: templates/click_details_page.php:33
+msgid "Link Whisper Click Data Table"
+msgstr "Skakel Fluister Klik Data Tabel"
+
+#: templates/click_details_page.php:21
+msgid "Filter Clicks by Date"
+msgstr "Filter klikke volgens datum"
+
+#: templates/click_details_page.php:11
+msgid "Link Whisper Click Chart"
+msgstr "Skakel Whisper Klik Chart"
+
+#: templates/click_details_page.php:5
+msgid "Showing click details for: %s"
+msgstr "Wys tans klikbesonderhede vir: %s"
+
+#: templates/click_details_page.php:3
+msgid "Click Details"
+msgstr "Klik Besonderhede"
+
+#: templates/report_clicks.php:13
+msgid "Do you really want to delete all the click data in the row?"
+msgstr "Wil jy regtig al die klikdata in die ry uitvee?"
+
+#: core/Wpil/Base.php:583
+msgid "Links: "
+msgstr "Skakels:"
+
+#: core/Wpil/Base.php:565
+msgid "Link Stats"
+msgstr "Skakel statistieke"
+
+#: templates/url_changer.php:3
+msgid "URL Changer"
+msgstr "URL-wisselaar"
+
+#: core/Wpil/Suggestion.php:100
+msgid "Processing Link Suggestions: %d of %d processed"
+msgstr "Verwerk skakelvoorstelle: %d van %d verwerk"
+
+#: templates/link_list_v2.php:4
+msgid "Processing Link Suggestions"
+msgstr "Verwerk skakelvoorstelle"
+
+#: templates/wpil_settings_v2.php:144
+msgid "It is not required to delete the data when upgrading to the Premium version of Link Whisper."
+msgstr "Dit is nie nodig om die data uit te vee wanneer u na die Premium weergawe van Link Whisper opgradeer nie."
+
+#: templates/wpil_settings_v2.php:141
+msgid "Please only activate this option if you're sure you want to delete ALL link Whisper data."
+msgstr "Aktiveer asseblief net hierdie opsie as jy seker is jy wil ALLE skakel Whisper-data uitvee."
+
+#: templates/wpil_settings_v2.php:138
+msgid "Activating this will tell Link Whisper to delete ALL link Whisper related data when the plugin is deleted."
+msgstr "Deur dit te aktiveer sal Link Whisper sê om ALLE skakel Whisper-verwante data uit te vee wanneer die inprop uitgevee word."
+
+#: templates/wpil_settings_v2.php:134
+msgid "Activating this will tell Link Whisper to delete ALL link Whisper related data when the plugin is deleted. %s This will remove all settings and stored data. Links inserted into content by Link Whisper will still exist. %s Please only activate this option if you're sure you want to delete all data."
+msgstr "Deur dit te aktiveer sal Link Whisper sê om ALLE skakel Whisper-verwante data uit te vee wanneer die inprop uitgevee word. %s Dit sal alle instellings en gestoorde data verwyder. Skakels wat deur Link Whisper by inhoud ingevoeg is, sal steeds bestaan. %s Aktiveer asseblief net hierdie opsie as jy seker is jy wil alle data uitvee."
+
+#: templates/wpil_settings_v2.php:129
+msgid "Delete all Link Whisper data"
+msgstr "Vee alle Link Whisper-data uit"
+
+#: templates/blocks/collapsible_select_keywords.php:26
+msgid "Create Links"
+msgstr "Skep skakels"
+
+#: templates/blocks/collapsible_select_keywords.php:13
+msgid "Sentence"
+msgstr "Vonnis"
+
+#: templates/dashboard_review_request_notice.php:9
+msgid "Maybe later."
+msgstr "Miskien later."
+
+#: templates/dashboard_review_request_notice.php:8
+msgid "No, I don't think so."
+msgstr "Nee, ek dink nie so nie."
+
+#: templates/dashboard_review_request_notice.php:7
+msgid "Absolutely!"
+msgstr "Absoluut!"
+
+#: templates/dashboard_review_request_notice.php:5
+msgid "You've been using Link Whisper Free for a while now, would you mind giving us a review? It would mean a lot to us and would encourage us in development."
+msgstr "Jy gebruik Link Whisper Free vir 'n rukkie nou, sal jy omgee om ons 'n resensie te gee? Dit sal baie vir ons beteken en sal ons in ontwikkeling aanmoedig."
+
+#: core/Wpil/Report.php:970
+msgid "Could not retrieve anchor text, link is embedded"
+msgstr "Kon nie ankerteks ophaal nie, skakel is ingebed"
+
+#: templates/wpil_settings_v2.php:62
+msgid "Link Whisper will ignore these words when making linking suggestions. Please enter each word on a new line"
+msgstr "Link Whisper sal hierdie woorde ignoreer wanneer skakelvoorstelle gemaak word. Tik asseblief elke woord op 'n nuwe reël in"
+
+#: core/Wpil/Term.php:35
+msgid "Link Whisper Suggested Links"
+msgstr "Skakel Fluister Voorgestelde skakels"
+
+#: templates/wpil_settings_v2.php:121
+msgid "If you don't see Advanced Custom Fields in your Installed Plugins list, it may be included as a component in a plugin or your theme."
+msgstr "As jy nie Gevorderde pasgemaakte velde in jou lys geïnstalleerde inproppe sien nie, kan dit as 'n komponent in 'n inprop of jou tema ingesluit word."
+
+#: templates/wpil_settings_v2.php:120
+msgid "This will speed up the suggestion making and data saving, but will not update the ACF data."
+msgstr "Dit sal die maak van voorstelle en die stoor van data bespoedig, maar sal nie die ACF-data opdateer nie."
+
+#: templates/wpil_settings_v2.php:119
+msgid "Checking this will tell Link Whisper to not process any data created by Advanced Custom Fields."
+msgstr "Deur dit te merk, sal Link Whisper vertel om nie enige data wat deur Advanced Custom Fields geskep is, te verwerk nie."
+
+#: templates/wpil_settings_v2.php:111
+msgid "Disable Linking for Advanced Custom Fields"
+msgstr "Deaktiveer koppeling vir gevorderde pasgemaakte velde"
+
+#: core/Wpil/Base.php:586 core/Wpil/Table/Report.php:66
+msgid "Outbound Internal Links"
+msgstr "Uitgaande interne skakels"
+
+#: core/Wpil/Base.php:588 core/Wpil/Table/Report.php:60
+msgid "Outbound External Links"
+msgstr "Uitgaande eksterne skakels"
+
+#: core/Wpil/Base.php:584 core/Wpil/Table/Report.php:54
+msgid "Inbound Internal Links"
+msgstr "Inkomende interne skakels"
+
+#: templates/report_options.php:10
+msgid "Show the post publish date"
+msgstr "Wys die plasingspublikasiedatum"
+
+#: templates/url_changer.php:21
+msgid "Refresh Changed URL Report"
+msgstr "Herlaai Veranderde URL-verslag"
+
+#: templates/report_prepare.php:2
+#: templates/report_prepare_link_inserting_into_table.php:2
+#: templates/report_prepare_meta_processing.php:2
+#: templates/report_prepare_process_links.php:2
+msgid "Internal Links Report"
+msgstr "Verslag oor interne skakels"
+
+#: templates/wpil_settings_v2.php:87
+msgid "After changing the term type selection, please go to the Report page and click the \"Run a Link Scan\" button to clear the old link data."
+msgstr "Nadat u die termtipekeuse verander het, gaan asseblief na die Verslagbladsy en klik op die \"Laat 'n skakelskandering\"-knoppie om die ou skakeldata uit te vee."
+
+#: templates/wpil_settings_v2.php:82
+msgid "Term Types to Create Links For"
+msgstr "Termyntipes om skakels voor te skep"
+
+#: core/Wpil/Export.php:181
+msgid "Bad request. Please try again later"
+msgstr "Slegte versoek. Probeer asseblief weer later"
+
+#: core/Wpil/Export.php:180
+msgid "Request Error"
+msgstr "Versoek Fout"
+
+#: templates/post_links_count_update.php:8
+msgid "export"
+msgstr "uitvoer"
+
+#: templates/report_prepare_link_inserting_into_table.php:10
+#: templates/report_prepare_process_links.php:10
+msgid "Please don't close this tab otherwise the process will stop and have to be continued later."
+msgstr "Moet asseblief nie hierdie oortjie toemaak nie anders sal die proses stop en moet later voortgesit word."
+
+#: templates/report_options.php:8
+msgid "Show post type"
+msgstr "Wys plasingstipe"
+
+#: core/Wpil/Table/Report.php:149
+msgid "Type"
+msgstr "Tik"
+
+#: templates/blocks/collapsible_select_keywords.php:11
+msgid "Post"
+msgstr "Post"
+
+#: core/Wpil/Suggestion.php:108
+msgid "The data is incomplete for processing the request, please reload the page and try again."
+msgstr "Die data is onvolledig vir die verwerking van die versoek, herlaai asseblief die bladsy en probeer weer."
+
+#: core/Wpil/Suggestion.php:107
+msgid "Unknown Error"
+msgstr "Onbekende fout"
+
+#: core/Wpil/Suggestion.php:25 core/Wpil/Suggestion.php:128
+msgid "There was some data missing while processing the site content, please refresh the page and try again."
+msgstr "Daar het 'n paar data ontbreek tydens die verwerking van die werf-inhoud, verfris asseblief die bladsy en probeer weer."
+
+#: core/Wpil/Report.php:107
+msgid "There was some data missing from the reset attempt, please refresh the page and try again."
+msgstr "Daar het 'n paar data ontbreek in die terugstelpoging. Herlaai asseblief die bladsy en probeer weer."
+
+#: core/Wpil/Report.php:88
+msgid "There was an error in creating the links database table. The error message was: %s"
+msgstr "Daar was 'n fout met die skep van die skakeldatabasistabel. Die foutboodskap was: %s"
+
+#: core/Wpil/Report.php:87
+msgid "Database Error"
+msgstr "Databasis fout"
+
+#: core/Wpil/Base.php:610
+msgid "There was an error in processing the data, please reload the page and try again."
+msgstr "Daar was 'n fout met die verwerking van die data. Herlaai asseblief die bladsy en probeer weer."
+
+#: core/Wpil/Base.php:609 core/Wpil/Report.php:106 core/Wpil/Suggestion.php:24
+#: core/Wpil/Suggestion.php:127
+msgid "Data Error"
+msgstr "Data fout"
+
+#: core/Wpil/Base.php:296
+msgid "completed"
+msgstr "voltooi"
+
+#: templates/report_prepare_meta_processing.php:9
+msgid "This should only take a few moments."
+msgstr "Dit behoort net 'n paar oomblikke te neem."
+
+#: templates/report_prepare_meta_processing.php:8
+msgid "Searching for links to process..."
+msgstr "Soek tans vir skakels om te verwerk..."
+
+#: templates/report_prepare_process_links.php:8
+msgid "Processing Site Posts..."
+msgstr "Verwerk tans werfplasings..."
+
+#: templates/wpil_settings_v2.php:46
+msgid "If you've added any words to the Words to be Ignored area, this will erase them."
+msgstr "As jy enige woorde by die Woorde wat geïgnoreer moet word gevoeg het, sal dit hulle uitvee."
+
+#: templates/wpil_settings_v2.php:45
+msgid "Changing Link Whisper's language will replace the current Words to be Ignored with a new list of words."
+msgstr "Die verandering van Link Whisper se taal sal die huidige Woorde wat geïgnoreer moet word vervang met 'n nuwe lys woorde."
+
+#: templates/wpil_settings_v2.php:33
+msgid "Selected Language"
+msgstr "Geselekteerde taal"
+
+#: templates/report_prepare_link_inserting_into_table.php:8
+msgid "Processing Site Links..."
+msgstr "Verwerk tans werfskakels..."
+
+#: templates/report_options.php:14
+msgid "Posts per page"
+msgstr "Plasings per bladsy"
+
+#: templates/report_options.php:13
+msgid "Pagination"
+msgstr "Paginering"
+
+#: templates/report_options.php:6
+msgid "Show categories"
+msgstr "Wys kategorieë"
+
+#: templates/report_options.php:4
+msgid "Options"
+msgstr "Opsies"
+
+#: templates/table_suggestions.php:208
+msgid "No suggestions found"
+msgstr "Geen voorstelle gevind nie"
+
+#: templates/table_suggestions.php:18 templates/table_suggestions.php:202
+msgid "Date Published"
+msgstr "Datum gepubliseer"
+
+#: templates/table_suggestions.php:16 templates/table_suggestions.php:200
+msgid "Suggested Posts To Link To"
+msgstr "Voorgestelde plasings om na te skakel"
+
+#: templates/table_suggestions.php:13 templates/table_suggestions.php:197
+msgid "Phrases In This Post To Link From"
+msgstr "Frases in hierdie plasing om van te skakel"
+
+#: templates/post_links_count_update.php:64
+msgid "Outbound external links %slink count: %s%s"
+msgstr "Uitgaande eksterne skakels %slink telling: %s%s"
+
+#: templates/post_links_count_update.php:50
+msgid "Inbound internal links %slink count: %s%s"
+msgstr "Inkomende interne skakels %slink telling: %s%s"
+
+#: templates/post_links_count_update.php:39
+msgid "Outbound internal links %slink count: %s%s"
+msgstr "Uitgaande interne skakels %slink telling: %s%s"
+
+#: templates/post_links_count_update.php:26
+msgid "Time spent: "
+msgstr "Tyd spandeer:"
+
+#: templates/post_links_count_update.php:25
+msgid "Date of analysis: "
+msgstr "Datum van ontleding:"
+
+#: templates/post_links_count_update.php:24
+msgid "New data:"
+msgstr "Nuwe data:"
+
+#: templates/post_links_count_update.php:20
+#: templates/post_links_count_update.php:35
+msgid "Outbound external links:"
+msgstr "Uitgaande eksterne skakels:"
+
+#: templates/post_links_count_update.php:17
+#: templates/post_links_count_update.php:32
+msgid "Inbound internal links:"
+msgstr "Inkomende interne skakels:"
+
+#: templates/post_links_count_update.php:14
+#: templates/post_links_count_update.php:29
+msgid "Outbound internal links:"
+msgstr "Uitgaande interne skakels:"
+
+#: templates/post_links_count_update.php:11
+msgid "Date of previous analysis: "
+msgstr "Datum van vorige ontleding:"
+
+#: templates/post_links_count_update.php:10
+msgid "Previous data:"
+msgstr "Vorige data:"
+
+#: templates/post_links_count_update.php:7
+#: templates/post_links_count_update.php:57
+msgid "view"
+msgstr "beskou"
+
+#: templates/post_links_count_update.php:6
+#: templates/post_links_count_update.php:56
+msgid "edit"
+msgstr "wysig"
+
+#: templates/click_details_page.php:4 templates/post_links_count_update.php:3
+msgid "Return to Report"
+msgstr "Keer terug na Verslag"
+
+#: templates/wpil_settings_v2.php:153
+msgid "Save Settings"
+msgstr "Stoor instellings"
+
+#: templates/wpil_settings_v2.php:105
+msgid "Link Whisper will not suggest links for this number of sentences appearing at the beginning of a post."
+msgstr "Link Whisper sal nie skakels voorstel vir hierdie aantal sinne wat aan die begin van 'n plasing verskyn nie."
+
+#: templates/wpil_settings_v2.php:96
+msgid "Number of Sentences to Skip"
+msgstr "Aantal sinne om oor te slaan"
+
+#: templates/wpil_settings_v2.php:73
+msgid "After changing the post type selection, please go to the Report page and click the \"Run a Link Scan\" button to clear the old link data."
+msgstr "Nadat u die postipe-keuse verander het, gaan asseblief na die Rapport-bladsy en klik die \"Laat 'n skakelskandering\"-knoppie om die ou skakeldata uit te vee."
+
+#: templates/wpil_settings_v2.php:68
+msgid "Post Types to Create Links For"
+msgstr "Postipes om skakels voor te skep"
+
+#: templates/wpil_settings_v2.php:50
+msgid "Words to be Ignored"
+msgstr "Woorde wat geïgnoreer moet word"
+
+#: templates/wpil_settings_v2.php:26
+msgid "Ignore numbers"
+msgstr "Ignoreer getalle"
+
+#: templates/wpil_settings_v2.php:3
+msgid "Link Whisper Settings"
+msgstr "Skakel Whisper-instellings"
+
+#: templates/report_prepare.php:9
+#: templates/report_prepare_link_inserting_into_table.php:14
+#: templates/report_prepare_meta_processing.php:12
+#: templates/report_prepare_process_links.php:14 templates/url_changer.php:28
+msgid "Synchronizing your data.."
+msgstr "Sinkroniseer tans jou data.."
+
+#: templates/report_prepare.php:7
+msgid "Prepare data, completed"
+msgstr "Berei data voor, voltooi"
+
+#: templates/link_report_v2.php:19
+msgid "Internal links report"
+msgstr "Interne skakels verslag"
+
+#: templates/linking_data_list_v2.php:86
+msgid "Read more about upgrading!"
+msgstr "Lees meer oor opgradering!"
+
+#: templates/linking_data_list_v2.php:85
+msgid "Tip: Link Whisper Premium automatically adds the links to the post content. All you have to do is select the links you want to add and click the \"Update\" button!"
+msgstr "Wenk: Skakel Whisper Premium voeg outomaties die skakels by die plasing-inhoud. Al wat jy hoef te doen is om die skakels te kies wat jy wil byvoeg en op die \"Update\"-knoppie te klik!"
+
+#: templates/linking_data_list_v2.php:14 templates/link_report_v2.php:14
+msgid "Get Link Whisper Premium"
+msgstr "Kry Link Whisper Premium"
+
+#: templates/linking_data_list_v2.php:12 templates/link_report_v2.php:12
+msgid "+ Save hours of time and gain more control over your internal links."
+msgstr "+ Spaar ure se tyd en kry meer beheer oor jou interne skakels."
+
+#: templates/linking_data_list_v2.php:11 templates/link_report_v2.php:11
+msgid "+ No more copying and pasting links, just click and done!"
+msgstr "+ Nie meer kopieer en plak skakels nie, klik net en klaar!"
+
+#: templates/linking_data_list_v2.php:10 templates/link_report_v2.php:10
+msgid "+ Customize the anchor text by clicking the words you want."
+msgstr "+ Pas die ankerteks aan deur op die woorde te klik wat jy wil hê."
+
+#: templates/linking_data_list_v2.php:9 templates/link_report_v2.php:9
+msgid "+ Add inbound internal links directly from reports with a single click."
+msgstr "+ Voeg inkomende interne skakels direk vanaf verslae by met 'n enkele klik."
+
+#: templates/linking_data_list_v2.php:8 templates/link_report_v2.php:8
+msgid "+ Get inbound internal link suggestions from the reports screen."
+msgstr "+ Kry inkomende interne skakelvoorstelle vanaf die verslaeskerm."
+
+#: templates/linking_data_list_v2.php:7 templates/link_report_v2.php:7
+msgid "+ Add internal links with a single click!"
+msgstr "+ Voeg interne skakels by met 'n enkele klik!"
+
+#: templates/linking_data_list_v2.php:5 templates/link_report_v2.php:5
+msgid "Upgrade to Link Whisper Premium"
+msgstr "Gradeer op na Link Whisper Premium"
+
+#: templates/dashboard_email_signup_notice.php:35
+msgid "Get the Coupon Code & Tips"
+msgstr "Kry die koeponkode en wenke"
+
+#: templates/dashboard_email_signup_notice.php:19
+msgid "Get a $10 off special coupon code for Link Whisper! You can use it now, or save it in your inbox for later. PLUS get all the best practices, tips, and tricks for using internal links to gain rankings and traffic!"
+msgstr "Kry 'n $10 afslag op spesiale koeponkode vir Link Whisper! Jy kan dit nou gebruik, of dit in jou inkassie stoor vir later. PLUS kry al die beste praktyke, wenke en truuks vir die gebruik van interne skakels om ranglys en verkeer te kry!"
+
+#: core/Wpil/Table/Report.php:155
+#: templates/inbound_suggestions_post_link_stats.php:17
+msgid "Outbound external links"
+msgstr "Uitgaande eksterne skakels"
+
+#: core/Wpil/Table/Report.php:154
+#: templates/inbound_suggestions_post_link_stats.php:14
+msgid "Outbound internal links"
+msgstr "Uitgaande interne skakels"
+
+#: core/Wpil/Table/Report.php:153
+#: templates/inbound_suggestions_post_link_stats.php:11
+msgid "Inbound internal links"
+msgstr "Inkomende interne skakels"
+
+#: core/Wpil/Table/Report.php:145
+msgid "Published"
+msgstr "Gepubliseer"
+
+#: core/Wpil/Table/Report.php:141
+msgid "Title"
+msgstr "Titel"
+
+#: core/Wpil/Table/Report.php:13 core/Wpil/Table/Report.php:14
+msgid "Linking Stats"
+msgstr "Skakelstatistieke"
+
+#: core/Wpil/Report.php:1391
+msgid "Apply"
+msgstr "Doen aansoek"
+
+#. Author URI of the plugin
+msgid "https://linkwhisper.com"
+msgstr "https://linkwhisper.com"
+
+#. Author of the plugin
+msgid "Link Whisper"
+msgstr "Link Whisper"
+
+#. Description of the plugin
+msgid "Quickly build smart internal links both to and from your content. Additionally, gain valuable insights with in-depth internal link reporting."
+msgstr "Bou vinnig slim interne skakels na sowel as van jou inhoud. Kry ook waardevolle insigte met diepgaande interne skakelverslaggewing."
+
+#. Plugin Name of the plugin
+msgid "Link Whisper Free"
+msgstr "Link Whisper Free"

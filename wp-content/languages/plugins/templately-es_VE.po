@@ -1,0 +1,265 @@
+# Translation of Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release) in Spanish (Venezuela)
+# This file is distributed under the same license as the Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-18 18:57:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: es_VE\n"
+"Project-Id-Version: Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release)\n"
+
+#: core/api/class-rest-api.php:148
+msgid "400 Bad Request."
+msgstr "400 Solicitud incorrecta."
+
+#: core/api/class-rest-api.php:145
+msgid "Unathorized Access: You have to logged in first."
+msgstr "Acceso no autorizado: tienes que acceder primero."
+
+#: core/api/class-api.php:1352
+msgid "You have no items in your cloud."
+msgstr "No tienes elementos en tu nube."
+
+#. Description of the plugin
+msgid "The Best Templates Cloud for Elementor & Gutenberg. Get access to stunning templates, WorkSpace, Cloud Library & many more."
+msgstr "La mejor nube de plantillas para Elementor y Gutenberg. Accede a impresionantes plantillas, espacio de trabajo, biblioteca en la nube y mucho más."
+
+#: core/api/class-api.php:431 core/api/class-api.php:946
+msgid "Something went wrong with fetching dependencies data."
+msgstr "Algo ha ido mal al obtener los datos de las dependencias."
+
+#: core/api/class-requirement-installer.php:99
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No se ha podido conectar al sistema de archivos. Por favor, confirma tus credenciales."
+
+#: core/api/class-api.php:1106
+msgid "Something went wrong. Maybe Invalid Credentials."
+msgstr "Algo salió mal. Tal vez las credenciales no son válidas."
+
+#: core/api/class-api.php:856
+msgid "You have the plugin installed."
+msgstr "Tienes el plugin instalado."
+
+#: core/admin/class-admin.php:66
+msgid "plugin to be installed and activated. Please install Elementor to continue."
+msgstr "para ser instalado y activado. Por favor, instala Elementor para continuar."
+
+#: core/admin/class-admin.php:65 core/api/class-api.php:839
+msgid "Elementor"
+msgstr "Elementor"
+
+#: core/admin/class-admin.php:64
+msgid "requires"
+msgstr "requiere"
+
+#: core/admin/views/header.php:6
+msgid "Version"
+msgstr "Versión"
+
+#: core/api/class-api.php:1760
+msgid "Something went wrong regarding adding files to your Workspace. Try again or contact with Templately Support."
+msgstr "Algo ha ido mal al añadir archivos a tu espacio de trabajo. Inténtalo de nuevo o ponte en contacto con el servicio de asistencia de Templately."
+
+#: core/api/class-api.php:1741 core/api/class-api.php:1745
+msgid "Workspace Not Found."
+msgstr "Espacio de trabajo no encontrado."
+
+#: core/api/class-api.php:1730
+msgid "Something went wrong regarding collecting your usage limit. Try again or contact with Templately Support."
+msgstr "Algo ha salido mal al consultar tu límite de uso. Inténtalo de nuevo o ponte en contacto con el servicio de asistencia de Templately."
+
+#: core/api/class-api.php:1710
+msgid "Something went wrong regarding loading your WorkSpace. Try again or contact with Templately Support."
+msgstr "Algo ha salido mal al cargar tu espacio de trabajo. Inténtalo de nuevo o ponte en contacto con el servicio de asistencia de Templately."
+
+#: core/api/class-api.php:1682
+msgid "Slug can't be empty."
+msgstr "El slug no puede estar vacío."
+
+#: core/api/class-api.php:1655
+msgid "No WorkSpace is selected, where the item will "
+msgstr "No se ha seleccionado ningún espacio de trabajo, donde el elemento "
+
+#: core/api/class-api.php:1651
+msgid "No Cloud Item is selected to"
+msgstr "No se ha seleccionado ningún elemento de la nube para"
+
+#: core/api/class-api.php:1640
+msgid "Something went wrong regarding delete WorkSpace. Try again or contact with Templately Support."
+msgstr "Algo ha salido mal con respecto a la eliminación del espacio de trabajo. Inténtalo de nuevo o ponte en contacto con el soporte de Templately."
+
+#: core/api/class-api.php:1589 core/api/class-api.php:1623
+msgid "Workspace not found."
+msgstr "Espacio de trabajo no encontrado."
+
+#: core/api/class-api.php:1563
+msgid "Something went wrong regarding create WorkSpace. Try again or contact with Templately Support."
+msgstr "Algo ha salido mal en la creación del espacio de trabajo. Inténtalo de nuevo o ponte en contacto con el servicio de asistencia de Templately."
+
+#: core/api/class-api.php:1545 core/api/class-api.php:1573
+msgid "You have to give title at least."
+msgstr "Tienes que darle un título, por lo menos."
+
+#: core/api/class-api.php:1535
+msgid "Something went wrong loading WorkSpace. Try again or contact with Templately Support."
+msgstr "Algo ha salido mal al cargar el espacio de trabajo. Inténtalo de nuevo o ponte en contacto con el soporte de Templately."
+
+#: core/api/class-api.php:1505 core/api/class-api.php:1541
+#: core/api/class-api.php:1569 core/api/class-api.php:1619
+#: core/api/class-api.php:1646 core/api/class-api.php:1678
+#: core/api/class-api.php:1716 core/api/class-api.php:1736
+msgid "You need to re-logged in."
+msgstr "Tienes que volver a conectarte."
+
+#: core/api/class-api.php:1449
+msgid "Item ID or Item Type is not found."
+msgstr "No se encuentra el ID o el tipo de elemento."
+
+#: core/api/class-api.php:1444
+msgid "Something went wrong. Please, try logged in again."
+msgstr "Algo ha salido mal. Por favor, intenta conectarte de nuevo."
+
+#: core/api/class-api.php:1380
+msgid "Logged Out"
+msgstr "Desconectado"
+
+#: core/api/class-api.php:1355
+msgid "You have to logged in first via your admin dashboard."
+msgstr "Primero, tienes que conectarte a través de tu escritorio."
+
+#: core/api/class-api.php:1312
+msgid "Successfully Deleted."
+msgstr "Borrado correctamente."
+
+#: core/api/class-api.php:1300
+msgid "Template ID is not found to delete"
+msgstr "No se ha encontrado el ID de la plantilla a eliminar"
+
+#: core/api/class-api.php:1287
+msgid "Successfully Connected"
+msgstr "Conectado correctamente"
+
+#: core/api/class-api.php:1271
+msgid "API Key is not found"
+msgstr "La clave de la API no se ha encontrado"
+
+#: core/api/class-api.php:1152
+msgid "Password Field Can't be Empty."
+msgstr "El campo de la contraseña no puede estar vacío."
+
+#: core/api/class-api.php:1145
+msgid "Email Field Can't be Empty."
+msgstr "El campo de correo electrónico no puede estar vacío."
+
+#: core/api/class-api.php:1141
+msgid "Last Name Can't be Empty."
+msgstr "El apellido no puede estar vacío."
+
+#: core/api/class-api.php:1138
+msgid "First Name Can't be Empty."
+msgstr "El nombre no puede estar vacío."
+
+#: core/api/class-api.php:1087
+msgid "Password Field Cannot be Empty."
+msgstr "El campo de la contraseña no puede estar vacío."
+
+#: core/api/class-api.php:1083 core/api/class-api.php:1148
+msgid "Make sure you have given a valid email address."
+msgstr "Asegúrate de haber indicado una dirección de correo electrónico válida."
+
+#: core/api/class-api.php:1072
+msgid "API Key Field Cannot be Empty."
+msgstr "El campo de la clave API no puede estar vacío."
+
+#: core/api/class-api.php:983
+msgid "Something went wrong with Import!"
+msgstr "¡Algo salió mal en la importación!"
+
+#: core/api/class-api.php:765
+msgid "You have no rights to delete file from Cloud. You have to logged in first"
+msgstr "No tienes permisos para eliminar archivos de la nube. Tienes que acceder primero"
+
+#: core/api/class-api.php:761
+msgid "ID not found to remove Template from Cloud."
+msgstr "No se ha encontrado el ID para eliminar la plantilla de la nube."
+
+#: core/api/class-api.php:749 core/api/class-api.php:1123
+msgid "Something went wrong"
+msgstr "Algo salió mal"
+
+#: core/api/class-api.php:730
+msgid "ID not found to push the item in cloud."
+msgstr "No se ha encontrado el ID para enviar el elemento a la nube."
+
+#: core/api/class-api.php:683
+msgid "API Key is not found, try to re-login."
+msgstr "La clave de la API no se encuentra, intenta accediendo de nuevo."
+
+#: core/api/class-api.php:676
+msgid "There is no data to push."
+msgstr "No hay datos que enviar."
+
+#: core/api/class-api.php:673
+msgid "Data has to be an array."
+msgstr "Los datos tienen que ser un array."
+
+#: core/api/class-api.php:669
+msgid "Name can't be empty."
+msgstr "El nombre no puede estar vacío."
+
+#: core/api/class-api.php:664
+msgid "There is no Template Content to be inserted."
+msgstr "No hay ningún contenido de plantilla que se pueda insertar."
+
+#: core/api/class-api.php:639
+msgid "Templates ID Not Found."
+msgstr "No se ha encontrado el ID de las plantillas."
+
+#: core/api/class-api.php:615 core/api/class-api.php:626
+#: core/api/class-api.php:920 core/api/class-api.php:957
+#: core/api/class-api.php:997 core/api/class-api.php:1046
+msgid "Something went wrong!"
+msgstr "¡Algo salió mal!"
+
+#: core/api/class-api.php:570
+msgid "Activate Your Account!"
+msgstr "¡Activa tu cuenta!"
+
+#: core/api/class-api.php:253
+msgid "No ID found to save your template."
+msgstr "No se ha encontrado ningún ID para guardar la plantilla."
+
+#: core/api/class-api.php:250
+msgid "There is nothing to save in your template."
+msgstr "No hay nada que guardar en tu plantilla."
+
+#: core/api/class-api.php:247
+msgid "Something Went Wrong"
+msgstr "Algo salió mal"
+
+#: core/api/class-api.php:81 core/api/class-api.php:562
+#: core/api/class-api.php:782 core/api/class-api.php:819
+#: core/api/class-api.php:879 core/api/class-api.php:1499
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: core/api/class-api.php:77
+msgid "Something went wrong. Nonce Issue."
+msgstr "Algo salió mal. Problema del nonce."
+
+#. Author URI of the plugin
+msgid "https://templately.com/"
+msgstr "https://templately.com/"
+
+#. Plugin URI of the plugin
+msgid "https://templately.com"
+msgstr "https://templately.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: core/admin/class-admin.php:63 core/admin/views/header.php:3
+msgid "Templately"
+msgstr "Templately"

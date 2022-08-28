@@ -1,0 +1,272 @@
+# Translation of Plugins - WP-PostViews - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - WP-PostViews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-26 11:06:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - WP-PostViews - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "https://lesterchan.net"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin
+msgid "Enables you to display how many times a post/page had been viewed."
+msgstr "Σας επιτρέπει να προβάλλετε το πλήθος των επισκέψεων του κάθε άρθρου/σελίδας."
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "https://lesterchan.net/portfolio/programming/php/"
+
+#: wp-postviews.php:962
+msgid "* If you are not using any category statistics, you can ignore it."
+msgstr "* Αν δεν χρησιμοποιείτε στατιστικά ανά κατηγορία, μπορείτε να το αγνοήσετε."
+
+#: wp-postviews.php:959
+msgid "Separate mutiple categories with commas."
+msgstr "Διαχωρίστε τις κατηγορίες με κόμματα."
+
+#: wp-postviews.php:958
+msgid "Category IDs:"
+msgstr "IDs κατηγορίων:"
+
+#: wp-postviews.php:955
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> για απενεργοποίηση."
+
+#: wp-postviews.php:954
+msgid "Maximum Post Title Length (Characters):"
+msgstr "Μέγιστο μήκος τίτλου άρθρου (Σε χαρακτήρες):"
+
+#: wp-postviews.php:951
+msgid "No. Of Records To Show:"
+msgstr "Να εμφανίζονται:"
+
+#: wp-postviews.php:944
+msgid "%s Only"
+msgstr "%s μόνο"
+
+#: wp-postviews.php:941
+msgid "All"
+msgstr "Όλα"
+
+#: wp-postviews.php:939
+msgid "Include Views From:"
+msgstr "Να συμπεριλαμβάνει αναγνώσεις από:"
+
+#: wp-postviews.php:934
+msgid "Most Viewed By Category"
+msgstr "Δημοφιλέστερα ανά κατηγορία"
+
+#: wp-postviews.php:933
+msgid "Most Viewed"
+msgstr "Δημοφιλέστερα"
+
+#: wp-postviews.php:931
+msgid "Least Viewed By Category"
+msgstr "Λιγότερο αναγνωσμένα ανά κατηγορία"
+
+#: wp-postviews.php:930
+msgid "Least Viewed"
+msgstr "Λιγότερο αναγνωσμένα"
+
+#: wp-postviews.php:928
+msgid "Statistics Type:"
+msgstr "Τύπος στατιστικών:"
+
+#: wp-postviews.php:925
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: wp-postviews.php:864
+msgid "WP-PostViews views statistics"
+msgstr "WP-PostViews στατιστικά επισκέψεων "
+
+#: wp-postviews.php:813 wp-postviews.php:865 wp-postviews.php:913
+msgid "Views"
+msgstr "Προβολές"
+
+#: wp-postviews.php:751
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] "Δημιουργήθηκε <strong>%s</strong> προβολή."
+msgstr[1] "Δημιουργήθηκαν <strong>%s</strong> προβολές."
+
+#: wp-postviews.php:737 wp-postviews.php:739 wp-postviews.php:769
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] "%s Πιο δημοφιλή σελίδα"
+msgstr[1] "%s Πιο δημοφιλείς σελίδες"
+
+#: wp-postviews.php:732 wp-postviews.php:734 wp-postviews.php:763
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] "%s Πιο δημοφιλές άρθρο"
+msgstr[1] "%s Πιο δημοφιλή άρθρα"
+
+#. Plugin Name of the plugin
+#: wp-postviews.php:719 wp-postviews.php:721 wp-postviews.php:749
+msgid "WP-PostViews"
+msgstr "WP-PostViews"
+
+#: wp-postviews.php:286 wp-postviews.php:347 wp-postviews.php:409
+#: wp-postviews.php:471 wp-postviews.php:532 wp-postviews.php:594
+msgid "N/A"
+msgstr "Δεν είναι διαθέσιμο"
+
+#: wp-postviews.php:43
+msgid "PostViews"
+msgstr "PostViews"
+
+#: postviews-options.php:204
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: postviews-options.php:198
+msgid "Don't display on other pages"
+msgstr "Να μην εμφανίζεται σε άλλες σελίδες"
+
+#: postviews-options.php:193
+msgid "Other Pages:"
+msgstr "Λοιπές σελίδες:"
+
+#: postviews-options.php:188
+msgid "Don't display on search pages"
+msgstr "Να μην εμφανίζεται σε σελίδες αναζήτησης"
+
+#: postviews-options.php:183
+msgid "Search Pages:"
+msgstr "Αναζήτηση σελίδωνQ"
+
+#: postviews-options.php:178
+msgid "Don't display on archive pages"
+msgstr "Να μην εμφανίζεται σε σελίδες ιστορικού"
+
+#: postviews-options.php:173
+msgid "Archive Pages:"
+msgstr "Σελίδες αρχείου:"
+
+#: postviews-options.php:168
+msgid "Don't display on pages"
+msgstr "Να μην εμφανίζεται στις σελίδες"
+
+#: postviews-options.php:163
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: postviews-options.php:158
+msgid "Don't display on single posts"
+msgstr "Να μην εμφανίζεται σε μεμωνομένα άρθρα"
+
+#: postviews-options.php:153
+msgid "Single Posts:"
+msgstr "Μεμονωμένα άρθρα:"
+
+#: postviews-options.php:148
+msgid "Don't display on home page"
+msgstr "Να μην εμφανίζεται στην αρχική σελίδα"
+
+#: postviews-options.php:147 postviews-options.php:157
+#: postviews-options.php:167 postviews-options.php:177
+#: postviews-options.php:187 postviews-options.php:197
+msgid "Display to registered users only"
+msgstr "Εμφάνιση μόνο σε εγγεγραμμένους χρήστες"
+
+#: postviews-options.php:146 postviews-options.php:156
+#: postviews-options.php:166 postviews-options.php:176
+#: postviews-options.php:186 postviews-options.php:196
+msgid "Display to everyone"
+msgstr "Εμφάνιση σε όλους"
+
+#: postviews-options.php:143
+msgid "Home Page:"
+msgstr "Αρχική σελίδα:"
+
+#: postviews-options.php:140
+msgid "These options specify where the view counts should be displayed and to whom. \tBy default view counts will be displayed to all visitors. Note that the theme files must contain a call to <code>the_views()</code> in order for any view count to be displayed."
+msgstr "Αυτές οι επιλογές καθορίζουν πού πρέπει να εμφανίζονται οι μετρήσεις προβολής και σε ποιον. \tΑπό προεπιλογή, οι μετρήσεις των προβολών θα εμφανίζονται σε όλους τους επισκέπτες. Σημειώστε ότι τα αρχεία θεμάτων πρέπει να περιέχουν μια κλήση προς <code>the_views()</code> , ώστε να εμφανίζεται ο αριθμός των προβολών."
+
+#: postviews-options.php:139
+msgid "Display Options"
+msgstr "Επιλογές προβολής"
+
+#: postviews-options.php:120
+msgid "Most Viewed Template:"
+msgstr "Πρότυπο για δημοφιλέστερο:"
+
+#: postviews-options.php:112 postviews-options.php:132
+msgid "Restore Default Template"
+msgstr "Επαναφορά προκαθορισμένου πρότυπου"
+
+#: postviews-options.php:109 postviews-options.php:121
+msgid "Allowed Variables:"
+msgstr "Επιτρεπόμενες μεταβλητές:"
+
+#: postviews-options.php:108
+msgid "Views Template:"
+msgstr "Πρότυπο προβολών:"
+
+#: postviews-options.php:99
+msgid "You have caching enabled for your WordPress installation, by default WP-PostViews will use AJAX to update the view count. However in some cases, you might not want it."
+msgstr "Έχετε ενεργοποιήσει το caching για την εγκατάσταση του WordPress, από προεπιλογή το WP-PostViews θα χρησιμοποιήσει AJAX για να ενημερώσει τον αριθμό προβολών. Ωστόσο, σε ορισμένες περιπτώσεις, μπορεί να μην το θέλετε."
+
+#: postviews-options.php:92
+msgid "Use AJAX To Update Views:"
+msgstr "Χρήση AJAX για ενημέρωση προβολών:"
+
+#: postviews-options.php:86 postviews-options.php:96
+msgid "Yes"
+msgstr "Ναι"
+
+#: postviews-options.php:85 postviews-options.php:95
+msgid "No"
+msgstr "Όχι"
+
+#: postviews-options.php:82
+msgid "Exclude Bot Views:"
+msgstr "Εξαίρεση προβολών από bot:"
+
+#: postviews-options.php:77
+msgid "Registered Users Only"
+msgstr "Μόνο εγγεγραμμένοι χρήστες"
+
+#: postviews-options.php:76
+msgid "Guests Only"
+msgstr "Μόνο επισκέπτες"
+
+#: postviews-options.php:75
+msgid "Everyone"
+msgstr "Όλοι"
+
+#: postviews-options.php:72
+msgid "Count Views From:"
+msgstr "Να συμπεριλαμβάνει αναγνώσεις από:"
+
+#: postviews-options.php:58 wp-postviews.php:993
+msgid "views"
+msgstr "προβολές"
+
+#: postviews-options.php:55 wp-postviews.php:992
+msgid "%VIEW_COUNT% views"
+msgstr "%VIEW_COUNT% προβολές"
+
+#: postviews-options.php:38
+msgid "No Post Views Option Updated"
+msgstr "Δεν έχει ενημερωθεί καμία επιλογή Post Views"
+
+#: postviews-options.php:33
+msgid "Updated"
+msgstr "Ενημερωμένο"
+
+#: postviews-options.php:28 postviews-options.php:69
+msgid "Post Views Options"
+msgstr "Επιλογές Post Views"

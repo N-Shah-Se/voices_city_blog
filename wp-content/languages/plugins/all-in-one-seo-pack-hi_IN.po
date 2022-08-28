@@ -1,0 +1,175 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Hindi
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-11 18:46:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "साइट भाषा"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:475
+#: app/Common/Utils/Tags.php:487
+msgid "Site Title"
+msgstr "साइट शीर्षक"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "खोज इंजन दृश्यता"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:63
+msgid "Upgrade to Pro"
+msgstr "प्रो में अपग्रेड करें"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "दस्तावेज़ीकरण"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:553 app/Lite/Main/Filters.php:48
+msgid "SEO Settings"
+msgstr "एसईओ सेटिंग"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "गतिशील रूप से "
+
+#: app/Common/Sitemap/Sitemap.php:491
+msgid "Additional Pages"
+msgstr "अतिरिक्त पेज"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+msgid "Post Types"
+msgstr "पोस्ट टाइप"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+msgid "Taxonomies"
+msgstr "टैक्सोनॉमी"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "साइट की यू.आर.एल."
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "मल्टीसाइट"
+
+#: app/Common/Tools/SystemStatus.php:243
+msgid "Active Theme"
+msgstr "सक्रिय थीम"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "होम यूआरएल"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53
+msgid "Support"
+msgstr "सहायता"
+
+#: app/Common/Tools/SystemStatus.php:186
+msgid "N/A"
+msgstr "अनुपलब्ध"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "Yes"
+msgstr "हाँ"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "No"
+msgstr "नहीं"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "संस्करण "
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "सेट नहीं "
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "PHP संस्करण "
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "PHP अधिकतम अपलोड साइज "
+
+#: app/Common/Tools/SystemStatus.php:177
+msgid "Operating System"
+msgstr "ऑपरेटिंग सिस्टम"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "PHP अधि पोस्ट आकार"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "PHP मेमोरी सीमा"
+
+#: app/Common/Admin/Admin.php:200
+msgid "Feature Manager"
+msgstr "विशेषता प्रबंधक"
+
+#: app/Common/Admin/Admin.php:534
+msgid "Edit SEO"
+msgstr "एसईओ संपादित करें "
+
+#: app/Common/Admin/Admin.php:386 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "एसईओ"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: app/Common/Admin/Admin.php:301 app/Common/Models/Post.php:430
+#: app/Common/Views/sitemap/html/widget-options.php:8
+msgid "Title"
+msgstr "शीर्षक"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Description"
+msgstr "विवरण"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Disabled"
+msgstr "अक्षम "
+
+#: app/Common/Admin/Admin.php:162
+msgid "General Settings"
+msgstr "सामान्य सेटिंग"
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "आईपी %1$s के साथ प्रतिबंधित बॉट -- ब्लॉकलिस्ट में मेल करता हुआ उपयोगकर्ता एजेंट %2$s मिला।"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "आईपी %1$s के साथ प्रतिबंधित बॉट -- ब्लॉकलिस्ट में मेल करता हुआ रेफरर %2$s मिला। "

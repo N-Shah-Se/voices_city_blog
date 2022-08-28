@@ -1,0 +1,61 @@
+/*
+	@name Templates
+	@version 1.0.1
+ */
+.widefat td	{
+	vertical-align: top;
+}
+.column-thumbnail {
+	width: 20%;
+}
+.disabled {
+	color: #C5C5C5;
+}
+.right-button {
+	float: right;
+}
+
+
+.name-container {
+	margin-bottom: 0.2em;
+}
+
+/* Make fetched template listing images fit in the container */
+div.amazon_auto_links_columns_col div.amazon_auto_links_item img {    
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+
+/* Get Now tab */
+.amazon_auto_links_item {
+	margin-right: 10px;
+	padding: 20px 20px 20px 20px;
+	background-color: #FAFAFA;
+	border: 1px solid;
+	border-color: #DDD;
+	
+}
+.amazon_auto_links_item h4 {
+	margin: 0.6em 0;	
+}
+.amazon_auto_links_item img {
+	max-width: 150px;
+	max-height: 200px;
+}
+
+/* Warnings */
+div.icon-container {
+	display: inline-block;
+}
+.warning span.dashicons.dashicons-warning {
+	color: red;
+    margin-right: 0.2em;
+    font-size: 16px;
+    vertical-align: text-bottom;
+    display: inline;
+}
+
+/* Tooltips */
+.tooltip-content {
+	display: none;
+}

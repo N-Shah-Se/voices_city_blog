@@ -1,0 +1,53 @@
+/*
+    @name: Log Admin Screen
+    @version: 1.0.3
+*/
+.log {
+    display: none;
+    background-color: #eee;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    height: 920px;
+    width: 100%;
+    border: 1px solid #9a9a9a;
+    border-radius: 0.32em;
+}
+.log .log-item {
+    margin: 0.32em 0 0 0.32em;
+}
+.log .log-item-title {
+    margin: 0;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.4; /* to be same as log-item-message */
+    white-space: nowrap;
+}
+.log .log-item-message {
+    margin: 0;
+    line-height: 1.4; /* to be same as log-item-title */
+    white-space: nowrap;
+}
+
+.log .log-item-body {
+    display: none;
+    white-space: nowrap;
+}
+.log .log-item-body .extra {
+}
+
+.log .log-item-head {
+    display: inline;
+}
+
+
+.log .stack-trace {
+    width: 100%;
+    background-color: inherit;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 0.6em;
+}
+
+.button-secondary.copy-to-clipboard {
+    margin: 0 0 0.4em;
+}

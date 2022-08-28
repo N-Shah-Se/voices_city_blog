@@ -1,0 +1,13 @@
+/* Button Preview Framed Page 1.1.3 */
+(function(){'use strict';if(document.querySelector){if(!window.addEventListener){return}}
+var lastHeight;var lastWidth;document.addEventListener('ReloadButtonPreview',function(e){var _previewInfo=getPreviewInformation();if(lastHeight===_previewInfo.height&&lastWidth===_previewInfo.width){return}
+lastHeight=_previewInfo.height;lastWidth=_previewInfo.width;parent.postMessage({message:'height',height:_previewInfo.height,width:_previewInfo.width,id:_previewInfo.id,nonce:getParameterByName('nonce')},location.protocol+'//'+location.host)});window.addEventListener('message',function(event){if(event.origin!==location.protocol+'//'+location.host){return}
+if(getParameterByName('nonce')!==event.data.nonce){return}
+if('undefined'===typeof event.data.event){return}
+dispatchEvent(event.data.event)},!1);function dispatchEvent(eventName){var _element=document;var _e;if(document.createEvent){_e=document.createEvent('HTMLEvents');_e.initEvent(eventName,!0,!0);_e._eName=eventName;_element.dispatchEvent(_e)}else{_e=document.createEventObject();_e._eName=eventName;_e._eType=eventName;_element.fireEvent('on'+_e._eType,_e)}}
+window.addEventListener('DOMContentLoaded',function(e){setParentButtonPreviewIframeStyle()});function setParentButtonPreviewIframeStyle(){if('undefined'===typeof parent.aalSetButtonPreviewIframeStyle){return}
+var _data=getPreviewInformation();window.parent.aalSetButtonPreviewIframeStyle(_data.width,_data.height,_data.id)}
+function getPreviewInformation(){var _oBodies=document.getElementsByTagName('body');var _oBody=_oBodies.length?_oBodies[0]:null;var _oButton=document.getElementById('preview-button');var _iWidth=0,_iHeight=0,_iButtonID=0;if('undefined'!==typeof _oBody&&null!==_oBody){_iHeight=_oBody.offsetHeight}
+if('undefined'!==typeof _oButton&&null!==_oButton){_iWidth=_oButton.offsetWidth;_iButtonID=_oButton.getAttribute('data-button-id')}
+return{height:Math.ceil(_iHeight),width:Math.ceil(_iWidth),id:_iButtonID}}
+function getParameterByName(name,url=window.location.href){name=name.replace(/[\[\]]/g,'\\$&');var regex=new RegExp('[?&]'+name+'(=([^&#]*)|&|#|$)'),results=regex.exec(url);if(!results)return null;if(!results[2])return'';return decodeURIComponent(results[2].replace(/\+/g,' '))}})()

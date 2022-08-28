@@ -1,0 +1,1110 @@
+# Translation of Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) in English (South Africa)
+# This file is distributed under the same license as the Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-13 06:14:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: en_ZA\n"
+"Project-Id-Version: Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release)\n"
+
+#: includes/Modules/Idea_Hub.php:209
+msgid "inspired by Idea Hub"
+msgstr "inspired by Idea Hub"
+
+#: includes/Core/Authentication/Authentication.php:1466
+msgid "Please try again."
+msgstr "Please try again."
+
+#: includes/Core/Authentication/Authentication.php:1461
+msgid "The link you followed has expired."
+msgstr "The link you followed has expired."
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:100
+msgid "End Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "End Google Tag Manager (noscript) snippet added by Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:96
+msgid "Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "Google Tag Manager (noscript) snippet added by Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:79
+msgid "End Google Tag Manager snippet added by Site Kit"
+msgstr "End Google Tag Manager snippet added by Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:77
+msgid "Google Tag Manager snippet added by Site Kit"
+msgstr "Google Tag Manager snippet added by Site Kit"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:75
+msgid "End Google Tag Manager AMP snippet added by Site Kit"
+msgstr "End Google Tag Manager AMP snippet added by Site Kit"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:66
+msgid "Google Tag Manager AMP snippet added by Site Kit"
+msgstr "Google Tag Manager AMP snippet added by Site Kit"
+
+#: includes/Modules/Subscribe_With_Google.php:112
+msgid "https://publishercenter.google.com/"
+msgstr "https://publishercenter.google.com/"
+
+#: includes/Modules/Subscribe_With_Google.php:110
+msgid "Generate revenue through your content by adding subscriptions or contributions to your publication"
+msgstr "Generate revenue through your content by adding subscriptions or contributions to your publication"
+
+#: includes/Modules/Subscribe_With_Google.php:109
+#: dist/assets/js/googlesitekit-modules-subscribe-with-google-ee152ad35f0a1a40670e.js:7
+msgctxt "Service name"
+msgid "Subscribe with Google"
+msgstr "Subscribe with Google"
+
+#: includes/Modules/Optimize/Web_Tag.php:59
+msgid "End Anti-flicker snippet added by Site Kit"
+msgstr "End Anti-flicker snippet added by Site Kit"
+
+#: includes/Modules/Optimize/Web_Tag.php:56
+msgid "Anti-flicker snippet added by Site Kit"
+msgstr "Anti-flicker snippet added by Site Kit"
+
+#: includes/Modules/Idea_Hub.php:733
+msgid "Idea Hub suggests what you can write about next, from actual questions people asked on Google Search"
+msgstr "Idea Hub suggests what you can write about next, from actual questions people asked on Google Search"
+
+#: includes/Modules/Analytics/Web_Tag.php:176
+msgid "End Google Analytics snippet added by Site Kit"
+msgstr "End Google Analytics snippet added by Site Kit"
+
+#: includes/Modules/Analytics/Web_Tag.php:175
+msgid "Google Analytics snippet added by Site Kit"
+msgstr "Google Analytics snippet added by Site Kit"
+
+#: includes/Modules/Analytics/AMP_Tag.php:163
+msgid "End Google Analytics AMP snippet added by Site Kit"
+msgstr "End Google Analytics AMP snippet added by Site Kit"
+
+#: includes/Modules/Analytics/AMP_Tag.php:155
+msgid "Google Analytics AMP snippet added by Site Kit"
+msgstr "Google Analytics AMP snippet added by Site Kit"
+
+#: includes/Modules/Analytics.php:1247
+msgid "End Google Analytics opt-out snippet added by Site Kit"
+msgstr "End Google Analytics opt-out snippet added by Site Kit"
+
+#: includes/Modules/Analytics.php:1240
+msgid "Google Analytics opt-out snippet added by Site Kit"
+msgstr "Google Analytics opt-out snippet added by Site Kit"
+
+#: includes/Modules/Analytics.php:1238
+msgid "End Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "End Google Analytics AMP opt-out snippet added by Site Kit"
+
+#: includes/Modules/Analytics.php:1236
+msgid "Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "Google Analytics AMP opt-out snippet added by Site Kit"
+
+#: includes/Modules/AdSense.php:903 includes/Modules/AdSense/Web_Tag.php:95
+msgid "End Google AdSense snippet added by Site Kit"
+msgstr "End Google AdSense snippet added by Site Kit"
+
+#: includes/Modules/AdSense.php:899 includes/Modules/AdSense/Web_Tag.php:93
+msgid "Google AdSense snippet added by Site Kit"
+msgstr "Google AdSense snippet added by Site Kit"
+
+#: includes/Modules/AdSense/AMP_Tag.php:123
+#: includes/Modules/AdSense/AMP_Tag.php:143
+#: includes/Modules/AdSense/AMP_Tag.php:188
+msgid "End Google AdSense AMP snippet added by Site Kit"
+msgstr "End Google AdSense AMP snippet added by Site Kit"
+
+#: includes/Modules/AdSense/AMP_Tag.php:115
+#: includes/Modules/AdSense/AMP_Tag.php:142
+#: includes/Modules/AdSense/AMP_Tag.php:184
+msgid "Google AdSense AMP snippet added by Site Kit"
+msgstr "Google AdSense AMP snippet added by Site Kit"
+
+#: includes/Modules/Idea_Hub.php:615
+msgid "Either \"saved\" or \"dismissed\" parameter must be provided."
+msgstr "Either \"saved\" or \"dismissed\" parameter must be provided."
+
+#. translators: %s: URL to new ideas
+#: includes/Modules/Idea_Hub.php:352
+msgid "Want some inspiration for a new post? <a href=\"%s\">Review your new ideas</a> in Site Kit."
+msgstr "Want some inspiration for a new post? <a href=\"%s\">Review your new ideas</a> in Site Kit."
+
+#. translators: %s: URL to saved ideas
+#: includes/Modules/Idea_Hub.php:316
+msgid "Want some inspiration for a new post? <a href=\"%s\">Revisit your saved ideas</a> in Site Kit."
+msgstr "Want some inspiration for a new post? <a href=\"%s\">Revisit your saved ideas</a> in Site Kit."
+
+#: includes/Modules/Analytics_4.php:204
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 Measurement ID for this site on your behalf."
+msgstr "You’ll need to grant Site Kit permission to create a new Analytics 4 Measurement ID for this site on your behalf."
+
+#: includes/Core/Util/Debug_Data.php:316
+msgid "Verified outside of Site Kit"
+msgstr "Verified outside of Site Kit"
+
+#: includes/Core/Util/Debug_Data.php:309
+msgid "Verified through meta tag"
+msgstr "Verified through meta tag"
+
+#: includes/Core/Util/Debug_Data.php:301
+msgid "Verified through file"
+msgstr "Verified through file"
+
+#: includes/Core/Util/Debug_Data.php:293
+msgid "Not verified"
+msgstr "Not verified"
+
+#: includes/Core/Util/Debug_Data.php:284
+msgid "Verification Status"
+msgstr "Verification Status"
+
+#. translators: %s: module name
+#: includes/Core/Modules/Module.php:408
+msgid "Site Kit can’t access the relevant data from %s because you haven’t granted all permissions requested during setup."
+msgstr "Site Kit can’t access the relevant data from %s because you haven’t granted all permissions requested during setup."
+
+#: includes/Modules/Idea_Hub.php:576
+msgid "Unable to draft post."
+msgstr "Unable to draft post."
+
+#. translators: %1$s: parameter name, %2$s expected type, %3$s received type
+#: includes/Modules/Idea_Hub.php:557
+msgid "Wrong parameter type for %1$s, expected %2$s, received %3$s"
+msgstr "Wrong parameter type for %1$s, expected %2$s, received %3$s"
+
+#. translators: %s: Missing parameter name
+#: includes/Modules/Idea_Hub.php:547
+msgid "Request idea parameter is empty: %s."
+msgstr "Request idea parameter is empty: %s."
+
+#. translators: %s: Idea Hub Idea Title
+#: includes/Modules/Idea_Hub.php:207
+msgid "Idea Hub Draft “%s”"
+msgstr "Idea Hub Draft “%s”"
+
+#: includes/Modules/Idea_Hub.php:732
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:37
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:1
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:20
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:22
+msgctxt "Service name"
+msgid "Idea Hub"
+msgstr "Idea Hub"
+
+#. translators: %s: List of invalid parameters.
+#: includes/Modules/Analytics_4.php:421
+msgid "Invalid parameter(s): %s"
+msgstr "Invalid parameter(s): %s"
+
+#: includes/Core/Admin/Available_Tools.php:50
+msgid "Resetting will disconnect all users and remove all Site Kit settings and data within WordPress. You and any other users who wish to use Site Kit will need to reconnect to restore access."
+msgstr "Resetting will disconnect all users and remove all Site Kit settings and data within WordPress. You and any other users who wish to use Site Kit will need to reconnect to restore access."
+
+#: includes/Modules/Analytics_4.php:506
+msgctxt "Service name"
+msgid "Analytics 4 (Alpha)"
+msgstr "Analytics 4 (Alpha)"
+
+#: includes/Modules/Analytics_4.php:199
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 property on your behalf."
+msgstr "You’ll need to grant Site Kit permission to create a new Analytics 4 property on your behalf."
+
+#: includes/Modules/Analytics_4.php:178
+msgid "Analytics 4 snippet placed"
+msgstr "Analytics 4 snippet placed"
+
+#: includes/Modules/Analytics_4.php:173
+msgid "Analytics 4 measurement ID"
+msgstr "Analytics 4 measurement ID"
+
+#: includes/Modules/Analytics_4.php:168
+msgid "Analytics 4 web data stream ID"
+msgstr "Analytics 4 web data stream ID"
+
+#: includes/Modules/Analytics_4.php:163
+msgid "Analytics 4 property ID"
+msgstr "Analytics 4 property ID"
+
+#: includes/Core/Authentication/Google_Proxy.php:286
+msgid "Failed to parse response."
+msgstr "Failed to parse response."
+
+#: includes/Core/Authentication/Google_Proxy.php:241
+#: includes/Core/Authentication/Google_Proxy.php:537
+msgid "OAuth credentials haven't been found."
+msgstr "OAuth credentials haven't been found."
+
+#: includes/Modules/AdSense.php:184
+msgid "Web Stories Ad Unit ID"
+msgstr "Web Stories Ad Unit ID"
+
+#: includes/Core/Util/Debug_Data.php:450
+msgid "Features"
+msgstr "Features"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:51
+msgid "Support"
+msgstr "Support"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:50
+msgid "Rate Site Kit"
+msgstr "Rate Site Kit"
+
+#: includes/Core/Util/Debug_Data.php:403
+msgid "User Capabilities"
+msgstr "User Capabilities"
+
+#: includes/Core/Modules/Module.php:395
+msgid "You’ll need to grant Site Kit permission to do this."
+msgstr "You’ll need to grant Site Kit permission to do this."
+
+#: includes/Core/REST_API/REST_Routes.php:190
+msgid "Missing settings data."
+msgstr "Missing settings data."
+
+#: includes/Core/Authentication/Authentication.php:1468
+#: dist/assets/js/googlesitekit-user-input-88e891adf1ddf6261c81.js:30
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: includes/Core/Authentication/Authentication.php:1315
+msgid "You have insufficient permissions to manage Site Kit permissions."
+msgstr "You have insufficient permissions to manage Site Kit permissions."
+
+#: includes/Core/Admin/Screens.php:469
+msgid "User Input"
+msgstr "User Input"
+
+#: includes/Core/Authentication/Authentication.php:1319
+#: includes/Core/Authentication/Setup.php:123
+msgid "Site Kit is not configured to use the authentication proxy."
+msgstr "Site Kit is not configured to use the authentication proxy."
+
+#: includes/Core/Authentication/Setup.php:119
+msgid "You have insufficient permissions to connect Site Kit."
+msgstr "You have insufficient permissions to connect Site Kit."
+
+#: includes/Core/Authentication/Authentication.php:1048
+msgid "Reconnect"
+msgstr "Reconnect"
+
+#: includes/Core/Authentication/Authentication.php:1046
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:36
+msgid "Looks like the URL of your site has changed. In order to continue using Site Kit, you’ll need to reconnect, so that your plugin settings are updated with the new URL."
+msgstr "Looks like the URL of your site has changed. In order to continue using Site Kit, you’ll need to reconnect, so that your plugin settings are updated with the new URL."
+
+#: includes/Modules/Site_Verification.php:356
+msgctxt "Service name"
+msgid "Site Verification"
+msgstr "Site Verification"
+
+#: includes/Modules/Analytics.php:686
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:47
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:51
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:31
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:35
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:49
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:57
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:61
+msgctxt "default Analytics view name"
+msgid "All Web Site Data"
+msgstr "All Web Site Data"
+
+#: includes/Core/Util/Debug_Data.php:340
+msgid "Connected user count"
+msgstr "Connected user count"
+
+#: includes/Core/Modules/Modules.php:1195
+msgid "Owner login."
+msgstr "Owner login."
+
+#: includes/Core/Modules/Modules.php:1190
+msgid "Owner ID."
+msgstr "Owner ID."
+
+#. translators: 1: Title prefix. 2: Title.
+#: includes/Core/Util/Entity_Factory.php:498
+msgctxt "archive title"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/Core/Util/Entity_Factory.php:408
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: includes/Core/Util/Entity_Factory.php:407
+msgctxt "date archive title prefix"
+msgid "Day:"
+msgstr "Day:"
+
+#: includes/Core/Util/Entity_Factory.php:401
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/Core/Util/Entity_Factory.php:400
+msgctxt "date archive title prefix"
+msgid "Month:"
+msgstr "Month:"
+
+#: includes/Core/Util/Entity_Factory.php:395
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/Core/Util/Entity_Factory.php:394
+msgctxt "date archive title prefix"
+msgid "Year:"
+msgstr "Year:"
+
+#: includes/Core/Util/Entity_Factory.php:366
+msgctxt "post type archive title prefix"
+msgid "Archives:"
+msgstr "Archives:"
+
+#: includes/Core/Util/Entity_Factory.php:341
+msgctxt "author archive title prefix"
+msgid "Author:"
+msgstr "Author:"
+
+#. translators: %s: Taxonomy singular name.
+#: includes/Core/Util/Entity_Factory.php:313
+msgctxt "taxonomy term archive title prefix"
+msgid "%s:"
+msgstr "%s:"
+
+#: includes/Core/Util/Entity_Factory.php:304
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: includes/Core/Util/Entity_Factory.php:301
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/Core/Util/Entity_Factory.php:298
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: includes/Core/Util/Entity_Factory.php:295
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: includes/Core/Util/Entity_Factory.php:292
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: includes/Core/Util/Entity_Factory.php:289
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: includes/Core/Util/Entity_Factory.php:286
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: includes/Core/Util/Entity_Factory.php:283
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: includes/Core/Util/Entity_Factory.php:280
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: includes/Core/Util/Entity_Factory.php:274
+msgctxt "tag archive title prefix"
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/Core/Util/Entity_Factory.php:270
+msgctxt "category archive title prefix"
+msgid "Category:"
+msgstr "Category:"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:301
+msgid "Looks like the verification token for your site is missing."
+msgstr "Looks like the verification token for your site is missing."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:299
+msgid "Looks like there is no Search Console property for your site."
+msgstr "Looks like there is no Search Console property for your site."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:297
+msgid "Looks like your site is not allowed access to Google account data and can’t display stats in the dashboard."
+msgstr "Looks like your site is not allowed access to Google account data and can’t display stats in the dashboard."
+
+#. translators: %s: setup screen URL
+#. translators: %s: Reconnect URL
+#: includes/Core/Authentication/Authentication.php:1190
+#: dist/assets/js/googlesitekit-adminbar-63eba967f9ca9f1a0966.js:54
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:58
+#: dist/assets/js/googlesitekit-dashboard-details-e20775fd71b6c96923fa.js:58
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:56
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:98
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:90
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:28
+#: dist/assets/js/googlesitekit-modules-optimize-625ac976b5e251bc4a6e.js:30
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-613987d7d0cc6de7920f.js:24
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:62
+#: dist/assets/js/googlesitekit-modules-subscribe-with-google-ee152ad35f0a1a40670e.js:24
+#: dist/assets/js/googlesitekit-modules-tagmanager-ab223257935dafefe828.js:35
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:34
+#: dist/assets/js/googlesitekit-user-input-88e891adf1ddf6261c81.js:34
+#: dist/assets/js/googlesitekit-widgets-da23b4745c5b067cd991.js:44
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:84
+msgid "To fix this, <a href=\"%s\">redo the plugin setup</a>."
+msgstr "To fix this, <a href=\"%s\">redo the plugin setup</a>."
+
+#: includes/Core/Util/Entity_Factory.php:250
+msgid "Home"
+msgstr "Home"
+
+#: includes/Modules/Analytics.php:239
+msgid "Analytics view ID"
+msgstr "Analytics view ID"
+
+#: includes/Core/Modules/Module.php:348
+msgid "Invalid datapoint request."
+msgstr "Invalid datapoint request."
+
+#: includes/Modules/Tag_Manager.php:241
+msgid "Additional permissions are required to create a new Tag Manager container on your behalf."
+msgstr "Additional permissions are required to create a new Tag Manager container on your behalf."
+
+#: includes/Modules/Analytics.php:433
+msgid "Analytics provisioning requires connecting via the Site Kit Service."
+msgstr "Analytics provisioning requires connecting via the Site Kit Service."
+
+#: includes/Modules/Analytics.php:362
+msgid "You’ll need to grant Site Kit permission to create a new Analytics view on your behalf."
+msgstr "You’ll need to grant Site Kit permission to create a new Analytics view on your behalf."
+
+#: includes/Modules/Analytics.php:367
+msgid "You’ll need to grant Site Kit permission to create a new Analytics property on your behalf."
+msgstr "You’ll need to grant Site Kit permission to create a new Analytics property on your behalf."
+
+#: includes/Modules/Analytics.php:357
+msgid "You’ll need to grant Site Kit permission to create a new Analytics account on your behalf."
+msgstr "You’ll need to grant Site Kit permission to create a new Analytics account on your behalf."
+
+#: includes/Core/Authentication/Authentication.php:758
+#: includes/Core/Authentication/Authentication.php:778
+#: includes/Core/Authentication/Authentication.php:807
+msgid "You don't have permissions to authenticate with Site Kit."
+msgstr "You don't have permissions to authenticate with Site Kit."
+
+#: includes/Core/Authentication/Setup.php:163
+#: includes/Core/Authentication/Setup.php:220 includes/Core/Util/Reset.php:265
+msgid "You don't have permissions to set up Site Kit."
+msgstr "You don't have permissions to set up Site Kit."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:283
+msgid "The Site Kit setup was interrupted because you did not grant the necessary permissions."
+msgstr "The Site Kit setup was interrupted because you did not grant the necessary permissions."
+
+#: includes/Core/Modules/Modules.php:999
+msgid "Settings to set."
+msgstr "Settings to set."
+
+#: includes/Core/Modules/Modules.php:971 includes/Core/Modules/Modules.php:988
+msgid "Module does not support settings."
+msgstr "Module does not support settings."
+
+#: includes/Core/Util/Requires_Javascript_Trait.php:36
+msgid "The Site Kit by Google plugin requires JavaScript to be enabled in your browser."
+msgstr "The Site Kit by Google plugin requires JavaScript to be enabled in your browser."
+
+#: includes/Core/Util/Debug_Data.php:384
+msgid "Required scopes"
+msgstr "Required scopes"
+
+#: includes/Core/Util/Debug_Data.php:356
+msgid "Active Modules"
+msgstr "Active Modules"
+
+#: includes/Core/Util/Debug_Data.php:271
+msgid "Not authenticated"
+msgstr "Not authenticated"
+
+#: includes/Core/Util/Debug_Data.php:270
+msgid "Authenticated"
+msgstr "Authenticated"
+
+#: includes/Core/Util/Debug_Data.php:268
+msgid "User Status"
+msgstr "User Status"
+
+#. translators: used between list items, there is a space after the comma.
+#: includes/Core/Util/Debug_Data.php:359
+#: dist/assets/js/googlesitekit-activation-6620e8609b640ebfa4cc.js:22
+#: dist/assets/js/googlesitekit-adminbar-63eba967f9ca9f1a0966.js:48
+#: dist/assets/js/googlesitekit-api-d0d3ff4e2d57e116379b.js:14
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:52
+#: dist/assets/js/googlesitekit-dashboard-details-e20775fd71b6c96923fa.js:52
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:32
+#: dist/assets/js/googlesitekit-datastore-forms-b95d853bcd043478a087.js:14
+#: dist/assets/js/googlesitekit-datastore-site-8e3b59fb4eeccaa6dcf4.js:14
+#: dist/assets/js/googlesitekit-datastore-ui-c11af4d1146522973a4d.js:14
+#: dist/assets/js/googlesitekit-datastore-user-8b610b59939d2d8f810f.js:14
+#: dist/assets/js/googlesitekit-idea-hub-post-list-2eef4260ac5234d59e33.js:20
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:50
+#: dist/assets/js/googlesitekit-modules-7816ee4d24b20c643ff4.js:14
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:92
+#: dist/assets/js/googlesitekit-modules-analytics-4-c2c8bb925fd704ab8b20.js:18
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:68
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:20
+#: dist/assets/js/googlesitekit-modules-optimize-625ac976b5e251bc4a6e.js:24
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-613987d7d0cc6de7920f.js:16
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:52
+#: dist/assets/js/googlesitekit-modules-subscribe-with-google-ee152ad35f0a1a40670e.js:18
+#: dist/assets/js/googlesitekit-modules-tagmanager-ab223257935dafefe828.js:29
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:28
+#: dist/assets/js/googlesitekit-user-input-88e891adf1ddf6261c81.js:28
+#: dist/assets/js/googlesitekit-widgets-da23b4745c5b067cd991.js:38
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:78
+msgid ", "
+msgstr ", "
+
+#: includes/Core/Util/Debug_Data.php:251
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:81
+msgid "Site Status"
+msgstr "Site Status"
+
+#: includes/Core/Util/Debug_Data.php:239
+msgid "Not connected"
+msgstr "Not connected"
+
+#: includes/Core/Util/Debug_Data.php:238
+msgid "Connected through OAuth client credentials"
+msgstr "Connected through OAuth client credentials"
+
+#: includes/Core/Util/Debug_Data.php:237
+msgid "Connected through site credentials"
+msgstr "Connected through site credentials"
+
+#: includes/Core/Util/Debug_Data.php:220
+msgid "AMP Mode"
+msgstr "AMP Mode"
+
+#: includes/Core/Util/Debug_Data.php:216
+msgid "Secondary"
+msgstr "Secondary"
+
+#: includes/Core/Util/Debug_Data.php:215
+msgid "Primary"
+msgstr "Primary"
+
+#: includes/Core/Util/Debug_Data.php:190
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:81
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:57
+msgid "None"
+msgstr "None"
+
+#: includes/Core/Util/Debug_Data.php:177
+msgid "Reference Site URL"
+msgstr "Reference Site URL"
+
+#: includes/Core/Util/Debug_Data.php:173
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: includes/Core/Util/Debug_Data.php:169
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: includes/Core/Util/Debug_Data.php:165
+msgid "Version"
+msgstr "Version"
+
+#: includes/Modules/AdSense.php:179
+msgid "AdSense snippet placed"
+msgstr "AdSense snippet placed"
+
+#: includes/Modules/AdSense.php:171
+msgid "AdSense account status"
+msgstr "AdSense account status"
+
+#: includes/Modules/AdSense.php:166
+msgid "AdSense client ID"
+msgstr "AdSense client ID"
+
+#: includes/Modules/AdSense.php:161
+msgid "AdSense account ID"
+msgstr "AdSense account ID"
+
+#: includes/Modules/Tag_Manager.php:193
+msgid "Tag Manager snippet placed"
+msgstr "Tag Manager snippet placed"
+
+#: includes/Modules/Tag_Manager.php:188
+msgid "Tag Manager AMP container ID"
+msgstr "Tag Manager AMP container ID"
+
+#: includes/Modules/Tag_Manager.php:183
+msgid "Tag Manager container ID"
+msgstr "Tag Manager container ID"
+
+#: includes/Modules/Tag_Manager.php:178
+msgid "Tag Manager account ID"
+msgstr "Tag Manager account ID"
+
+#: includes/Modules/Analytics.php:244
+msgid "Analytics snippet placed"
+msgstr "Analytics snippet placed"
+
+#: includes/Modules/Analytics.php:234
+msgid "Analytics property ID"
+msgstr "Analytics property ID"
+
+#: includes/Modules/Analytics.php:229
+msgid "Analytics account ID"
+msgstr "Analytics account ID"
+
+#: includes/Modules/Search_Console.php:151
+msgid "Search Console property"
+msgstr "Search Console property"
+
+#: includes/Modules/Optimize.php:162
+msgid "Optimize ID"
+msgstr "Optimise ID"
+
+#: includes/Modules/Tag_Manager.php:513
+msgid "No account found for given container"
+msgstr "No account found for given container"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:303
+msgid "Unable to authenticate Site Kit, as no client credentials exist."
+msgstr "Unable to authenticate Site Kit, as no client credentials exist."
+
+#: includes/Core/Admin/Dashboard.php:112
+msgid "Site Kit Summary"
+msgstr "Site Kit Summary"
+
+#: includes/Core/Notifications/Notification.php:69
+#: dist/assets/js/googlesitekit-activation-6620e8609b640ebfa4cc.js:11
+#: dist/assets/js/googlesitekit-adminbar-63eba967f9ca9f1a0966.js:37
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:37
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:41
+#: dist/assets/js/googlesitekit-dashboard-details-e20775fd71b6c96923fa.js:39
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:17
+#: dist/assets/js/googlesitekit-idea-hub-post-list-2eef4260ac5234d59e33.js:9
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:39
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:56
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:1
+#: dist/assets/js/googlesitekit-modules-idea-hub-3950c4b0724bcb8c7bc6.js:20
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:17
+#: dist/assets/js/googlesitekit-user-input-88e891adf1ddf6261c81.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:63
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: includes/Core/Util/User_Input_Settings.php:181
+#: includes/Core/Util/User_Input_Settings.php:231
+msgid "Not Connected"
+msgstr "Not Connected"
+
+#: includes/Core/Admin/Available_Tools.php:47
+#: includes/Core/Admin/Available_Tools.php:61
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:13
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:15
+msgid "Reset Site Kit"
+msgstr "Reset Site Kit"
+
+#: includes/Modules/AdSense.php:623
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:58
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:55
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:57
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:67
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:77
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:81
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:92
+msgctxt "Service name"
+msgid "AdSense"
+msgstr "AdSense"
+
+#: includes/Modules/PageSpeed_Insights.php:179
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-613987d7d0cc6de7920f.js:18
+msgctxt "Service name"
+msgid "PageSpeed Insights"
+msgstr "PageSpeed Insights"
+
+#: includes/Modules/Tag_Manager.php:538
+#: dist/assets/js/googlesitekit-modules-tagmanager-ab223257935dafefe828.js:18
+msgctxt "Service name"
+msgid "Tag Manager"
+msgstr "Tag Manager"
+
+#: includes/Modules/Search_Console.php:491
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:21
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:31
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:35
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:52
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:58
+msgctxt "Service name"
+msgid "Search Console"
+msgstr "Search Console"
+
+#: includes/Modules/Analytics.php:1030
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:55
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:81
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:41
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:45
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:49
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:53
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:57
+#: dist/assets/js/googlesitekit-modules-analytics-cf3f92af042d01259f91.js:78
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:58
+msgctxt "Service name"
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/Modules/Optimize.php:197
+#: dist/assets/js/googlesitekit-modules-optimize-625ac976b5e251bc4a6e.js:1
+#: dist/assets/js/googlesitekit-modules-optimize-625ac976b5e251bc4a6e.js:13
+msgctxt "Service name"
+msgid "Optimize"
+msgstr "Optimise"
+
+#: includes/Core/Authentication/Authentication.php:1099
+msgid "Click here"
+msgstr "Click here"
+
+#: includes/Core/Authentication/Authentication.php:1095
+msgid "You need to reauthenticate your Google account."
+msgstr "You need to reauthenticate your Google account."
+
+#. translators: %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:312
+msgid "Unknown Error (code: %s)."
+msgstr "Unknown Error (code: %s)."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:309
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr "Unable to receive access token because of an unsupported grant type."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:307
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr "Unable to receive access token because of an unauthorised client."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:293
+msgid "Unable to receive access token because of an invalid authorization code or refresh token."
+msgstr "Unable to receive access token because of an invalid authorisation code or refresh token."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:289
+msgid "Unable to receive access token because of an invalid client."
+msgstr "Unable to receive access token because of an invalid client."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:295
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr "Unable to receive access token because of an invalid OAuth request."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:285
+msgid "Unable to receive access token because of an unknown error."
+msgstr "Unable to receive access token because of an unknown error."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:291
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr "Unable to receive access token because of an empty authorisation code."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:287
+msgid "Internal error that the Google login redirect failed."
+msgstr "Internal error that the Google login redirect failed."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:305
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr "Unable to refresh access token, as no refresh token exists."
+
+#: includes/Core/Util/Debug_Data.php:221 includes/Modules/AdSense.php:180
+#: includes/Modules/Analytics.php:245 includes/Modules/Analytics_4.php:179
+#: includes/Modules/Tag_Manager.php:194
+msgid "No"
+msgstr "No"
+
+#: includes/Modules/AdSense.php:180 includes/Modules/Analytics.php:245
+#: includes/Modules/Analytics_4.php:179 includes/Modules/Tag_Manager.php:194
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/Core/Modules/Modules.php:1179
+msgid "List of slugs of other modules depending on the module."
+msgstr "List of slugs of other modules depending on the module."
+
+#: includes/Core/Modules/Modules.php:1171
+msgid "List of slugs of other modules that the module depends on."
+msgstr "List of slugs of other modules that the module depends on."
+
+#: includes/Core/Modules/Modules.php:1166
+msgid "Whether the module setup has been completed."
+msgstr "Whether the module setup has been completed."
+
+#: includes/Core/Modules/Modules.php:1162
+msgid "Whether the module is active."
+msgstr "Whether the module is active."
+
+#: includes/Core/Modules/Modules.php:1157
+msgid "Whether the module is internal, thus without any UI."
+msgstr "Whether the module is internal, thus without any UI."
+
+#: includes/Core/Modules/Modules.php:1151
+msgid "The module homepage."
+msgstr "The module homepage."
+
+#: includes/Core/Modules/Modules.php:1146
+msgid "Description of the module."
+msgstr "Description of the module."
+
+#: includes/Core/Modules/Modules.php:1141
+msgid "Name of the module."
+msgstr "Name of the module."
+
+#: includes/Core/Util/REST_Entity_Search_Controller.php:133
+msgid "Text content to search for."
+msgstr "Text content to search for."
+
+#: includes/Core/Modules/Modules.php:1074
+msgid "Module data point to address."
+msgstr "Module data point to address."
+
+#: includes/Core/Modules/Modules.php:1057
+msgid "Data to set."
+msgstr "Data to set."
+
+#: includes/Core/Modules/Modules.php:868 includes/Core/Modules/Modules.php:913
+#: includes/Core/Modules/Modules.php:951 includes/Core/Modules/Modules.php:1011
+#: includes/Core/Modules/Modules.php:1069
+#: includes/Core/Modules/Modules.php:1136
+msgid "Identifier for the module."
+msgstr "Identifier for the module."
+
+#: includes/Core/Modules/Modules.php:831
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr "An internal error occurred while trying to deactivate the module."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:826
+msgid "Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr "Module cannot be deactivated because deactivation of dependant %s failed."
+
+#: includes/Core/Modules/Modules.php:817
+msgid "An internal error occurred while trying to activate the module."
+msgstr "An internal error occurred while trying to activate the module."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:813
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr "Module cannot be activated because of inactive dependency %s."
+
+#: includes/Core/Modules/Modules.php:890 includes/Core/Modules/Modules.php:929
+#: includes/Core/Modules/Modules.php:967 includes/Core/Modules/Modules.php:984
+#: includes/Core/Modules/Modules.php:1027
+#: includes/Core/Modules/Modules.php:1044
+msgid "Invalid module slug."
+msgstr "Invalid module slug."
+
+#. translators: %s: service identifier
+#: includes/Core/Modules/Module.php:613
+msgid "Google service identified by %s does not exist."
+msgstr "Google service identified by %s does not exist."
+
+#: includes/Core/Modules/Module.php:601 includes/Core/Modules/Module.php:605
+msgid "Google services not set up correctly."
+msgstr "Google services not set up correctly."
+
+#: includes/Core/Modules/Module.php:577
+msgid "Google client not set up correctly."
+msgstr "Google client not set up correctly."
+
+#. translators: %s: module slug
+#: includes/Core/Modules/Modules.php:490 includes/Core/Modules/Modules.php:511
+#: includes/Core/Modules/Modules.php:532
+msgid "Invalid module slug %s."
+msgstr "Invalid module slug %s."
+
+#: includes/Core/Admin/Screen.php:129
+#: dist/assets/js/googlesitekit-activation-6620e8609b640ebfa4cc.js:7
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:31
+#: dist/assets/js/googlesitekit-dashboard-details-e20775fd71b6c96923fa.js:31
+#: dist/assets/js/googlesitekit-dashboard-splash-e06ccc4f358e5cc5d17c.js:7
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:31
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:7
+#: dist/assets/js/googlesitekit-user-input-88e891adf1ddf6261c81.js:7
+msgid "Site Kit"
+msgstr "Site Kit"
+
+#: includes/Core/Admin/Plugin_Action_Links.php:61
+#: includes/Core/Admin/Screens.php:397
+#: dist/assets/js/googlesitekit-settings-c9bd6472df7b08a67134.js:34
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/Core/Admin/Screens.php:333 includes/Core/Admin/Screens.php:417
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/Plugin.php:84
+msgid "Meanwhile, we recommend deactivating it in the network and re-activating it for an individual site."
+msgstr "Meanwhile, we recommend deactivating it in the network and re-activating it for an individual site."
+
+#: includes/Plugin.php:76
+msgid "The Site Kit by Google plugin is <strong>not yet compatible</strong> for use in a WordPress multisite network, but we&#8217;re actively working on that."
+msgstr "The Site Kit by Google plugin is <strong>not yet compatible</strong> for use in a WordPress multisite network, but we’re actively working on that."
+
+#: includes/Modules/Analytics.php:1033 includes/Modules/Analytics_4.php:509
+msgid "https://analytics.google.com/analytics/web"
+msgstr "https://analytics.google.com/analytics/web"
+
+#: includes/Modules/Analytics.php:1031 includes/Modules/Analytics_4.php:507
+msgid "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyse data for your business in one place."
+
+#: includes/Modules/Analytics.php:472
+msgid "Analytics module needs to be configured."
+msgstr "Analytics module needs to be configured."
+
+#: includes/Modules/Site_Verification.php:359
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr "https://www.google.com/webmasters/verification/home"
+
+#: includes/Modules/Site_Verification.php:357
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr "Google Site Verification allows you to manage ownership of your site."
+
+#: includes/Modules/Site_Verification.php:180
+msgid "Unknown user."
+msgstr "Unknown user."
+
+#: includes/Modules/AdSense.php:624
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr "Earn money by placing ads on your website. It’s free and easy."
+
+#: includes/Modules/AdSense.php:516
+msgid "Invalid date range."
+msgstr "Invalid date range."
+
+#: includes/Modules/AdSense.php:337
+msgid "Go to AdSense"
+msgstr "Go to AdSense"
+
+#: includes/Modules/AdSense.php:551
+msgid "AdSense account ID not set."
+msgstr "AdSense account ID not set."
+
+#: includes/Modules/Tag_Manager.php:541
+msgid "https://tagmanager.google.com/"
+msgstr "https://tagmanager.google.com/"
+
+#. translators: 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/PageSpeed_Insights.php:113
+#: includes/Modules/Tag_Manager.php:287
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr "Request parameter %1$s is not one of %2$s"
+
+#: includes/Modules/Search_Console.php:494
+msgid "https://search.google.com/search-console"
+msgstr "https://search.google.com/search-console"
+
+#: includes/Modules/Search_Console.php:492
+msgid "Google Search Console and helps you understand how Google views your site and optimize its performance in search results."
+msgstr "Google Search Console and helps you understand how Google views your site and optimise its performance in search results."
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr "Invalid datapoint."
+
+#: includes/Modules/Search_Console.php:253
+msgid "Error adding the site to Search Console."
+msgstr "Error adding the site to Search Console."
+
+#: google-site-kit.php:47
+msgid "Error Activating"
+msgstr "Error Activating"
+
+#. translators: %s: version number
+#: google-site-kit.php:46
+msgid "Site Kit requires PHP version %s"
+msgstr "Site Kit requires PHP version %s"
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr "https://opensource.google.com"
+
+#. Author of the plugin
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin
+msgid "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+msgstr "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+
+#. Plugin URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr "https://sitekit.withgoogle.com"
+
+#. Plugin Name of the plugin
+#: includes/Core/Admin/Screen.php:87 includes/Core/Util/Debug_Data.php:118
+msgid "Site Kit by Google"
+msgstr "Site Kit by Google"
+
+#: includes/Modules/Optimize.php:200
+msgid "https://optimize.google.com/optimize/home/"
+msgstr "https://optimize.google.com/optimize/home/"
+
+#. translators: %s: Missing parameter name
+#: includes/Core/Dismissals/REST_Dismissals_Controller.php:109
+#: includes/Core/Feature_Tours/REST_Feature_Tours_Controller.php:108
+#: includes/Core/Notifications/Notifications.php:285
+#: includes/Modules/AdSense.php:236 includes/Modules/AdSense.php:241
+#: includes/Modules/AdSense.php:252 includes/Modules/AdSense.php:262
+#: includes/Modules/AdSense.php:347 includes/Modules/AdSense.php:359
+#: includes/Modules/AdSense.php:374 includes/Modules/AdSense.php:382
+#: includes/Modules/Analytics.php:417 includes/Modules/Analytics.php:421
+#: includes/Modules/Analytics.php:425 includes/Modules/Analytics.php:429
+#: includes/Modules/Analytics.php:485 includes/Modules/Analytics.php:493
+#: includes/Modules/Analytics.php:504 includes/Modules/Analytics.php:515
+#: includes/Modules/Analytics.php:672 includes/Modules/Analytics.php:680
+#: includes/Modules/Analytics.php:696 includes/Modules/Analytics.php:710
+#: includes/Modules/Analytics_4.php:346 includes/Modules/Analytics_4.php:357
+#: includes/Modules/Analytics_4.php:368 includes/Modules/Analytics_4.php:383
+#: includes/Modules/Analytics_4.php:394 includes/Modules/Analytics_4.php:412
+#: includes/Modules/Idea_Hub.php:537 includes/Modules/Idea_Hub.php:607
+#: includes/Modules/PageSpeed_Insights.php:99
+#: includes/Modules/Search_Console.php:225
+#: includes/Modules/Site_Verification.php:173
+#: includes/Modules/Tag_Manager.php:267 includes/Modules/Tag_Manager.php:275
+#: includes/Modules/Tag_Manager.php:318 includes/Modules/Tag_Manager.php:326
+#: includes/Modules/Tag_Manager.php:342
+msgid "Request parameter is empty: %s."
+msgstr "Request parameter is empty: %s."
+
+#: includes/Modules/Optimize.php:198
+msgid "Create free A/B tests that help you drive metric-based design solutions to your site"
+msgstr "Create free A/B tests that help you drive metric-based design solutions to your site"
+
+#: includes/Modules/Tag_Manager.php:539
+msgid "Tag Manager creates an easy to manage way to create tags on your site without updating code"
+msgstr "Tag Manager creates an easy to manage way to create tags on your site without updating code"
+
+#: includes/Modules/PageSpeed_Insights.php:180
+#: dist/assets/js/googlesitekit-adminbar-63eba967f9ca9f1a0966.js:11
+#: dist/assets/js/googlesitekit-dashboard-983ed43c9c7e228750ef.js:11
+#: dist/assets/js/googlesitekit-dashboard-details-e20775fd71b6c96923fa.js:11
+#: dist/assets/js/googlesitekit-module-dff821dc7b4d641c46a7.js:11
+#: dist/assets/js/googlesitekit-modules-adsense-29048ed85f6d2c1c3437.js:11
+#: dist/assets/js/googlesitekit-modules-search-console-595fb261581130d7a597.js:11
+#: dist/assets/js/googlesitekit-widgets-da23b4745c5b067cd991.js:11
+#: dist/assets/js/googlesitekit-wp-dashboard-864ccd2141643df2745a.js:11
+msgid "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA"
+msgstr "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA"

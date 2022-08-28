@@ -1,0 +1,4143 @@
+# Translation of Plugins - Elementor Website Builder - Stable (latest release) in Bengali (Bangladesh)
+# This file is distributed under the same license as the Plugins - Elementor Website Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-16 13:20:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: bn_BD\n"
+"Project-Id-Version: Plugins - Elementor Website Builder - Stable (latest release)\n"
+
+#: includes/controls/groups/typography.php:226
+msgctxt "Typography Control"
+msgid "Word Spacing"
+msgstr "শব্দের ব্যবধান"
+
+#: includes/widgets/common.php:788
+msgid "Perspective"
+msgstr "পরিপ্রেক্ষিত"
+
+#: includes/widgets/common.php:672
+msgid "Transform"
+msgstr "রূপান্তর"
+
+#: includes/widgets/common.php:728
+msgid "3D Rotate"
+msgstr "3D ঘূর্ণন"
+
+#: includes/widgets/common.php:1147
+msgid "Y Anchor Point"
+msgstr "Y অ্যাঙ্কর পয়েন্ট"
+
+#: includes/widgets/common.php:1119
+msgid "X Anchor Point"
+msgstr "X অ্যাঙ্কর পয়েন্ট"
+
+#: includes/widgets/common.php:1005
+msgid "Skew Y"
+msgstr "তির্যক Y"
+
+#: includes/widgets/common.php:984
+msgid "Skew X"
+msgstr "তির্যক X"
+
+#: includes/widgets/common.php:972
+msgid "Skew"
+msgstr "তির্যক"
+
+#: includes/widgets/common.php:947
+msgid "Scale Y"
+msgstr "স্কেল Y"
+
+#: includes/widgets/common.php:890
+msgid "Keep Proportions"
+msgstr "সমানুপাতে রাখুন"
+
+#: includes/widgets/common.php:850
+msgid "Offset Y"
+msgstr "অফসেট Y"
+
+#: includes/widgets/common.php:824
+msgid "Offset X"
+msgstr "অফসেট X"
+
+#: includes/widgets/common.php:766
+msgid "Rotate Y"
+msgstr "ঘূর্ণন Y"
+
+#: includes/widgets/common.php:744
+msgid "Rotate X"
+msgstr "ঘূর্ণন X"
+
+#: includes/widgets/common.php:924
+msgid "Scale X"
+msgstr "স্কেল X"
+
+#: includes/elements/column.php:416 includes/elements/container.php:715
+#: includes/elements/section.php:707
+msgid "Saturation"
+msgstr "স্যাচুরেশন"
+
+#: includes/elements/column.php:421 includes/elements/container.php:717
+#: includes/elements/section.php:709
+msgid "Luminosity"
+msgstr "ল্যুমিনোসিটি"
+
+#: includes/elements/column.php:414 includes/elements/container.php:713
+#: includes/elements/section.php:705
+msgid "Lighten"
+msgstr "হালকা করা"
+
+#: includes/elements/column.php:413 includes/elements/container.php:712
+#: includes/elements/section.php:704
+msgid "Darken"
+msgstr "গাঢ় করা"
+
+#: includes/elements/column.php:412 includes/elements/container.php:711
+#: includes/elements/section.php:703
+msgid "Overlay"
+msgstr "আস্তরণ"
+
+#: includes/elements/column.php:411 includes/elements/container.php:710
+#: includes/elements/section.php:702
+msgid "Screen"
+msgstr "পর্দা"
+
+#: includes/elements/column.php:410 includes/elements/container.php:709
+#: includes/elements/section.php:701
+msgid "Multiply"
+msgstr "গুণ করুন"
+
+#: includes/elements/column.php:415 includes/elements/container.php:714
+#: includes/elements/section.php:706
+msgid "Color Dodge"
+msgstr "কালার ডজ"
+
+#. translators: %s: Device name.
+#: includes/base/element-base.php:710
+msgid "Hide On %s"
+msgstr "%s -এ আড়াল করুন"
+
+#. translators: 1: Link open tag, 2: Link close tag.
+#: modules/shapes/widgets/text-path.php:132
+msgid "Want to create custom text paths with SVG? %1$sLearn More%2$s"
+msgstr "SVG দিয়ে কাস্টম টেক্সট পাথ তৈরি করতে চান? %1$sআরও জানুন%2$s"
+
+#. translators: 1: Link open tag, 2: Link close tag.
+#: includes/settings/tools.php:373
+msgid "%1$sClick here%2$s to join our first-to-know email updates."
+msgstr "আমাদের ফার্স্ট-টু-নো ইমেইল হালনাগাদে যুক্ত হতে %1$sএখানে ক্লিক করুন%2$s"
+
+#. translators: %1$s Link open tag, %2$s: Link close tag.
+#: includes/editor-templates/panel.php:172
+msgid "You can enable it from the %1$sElementor settings page%2$s."
+msgstr "আপনি এটি  %1$sএলিমেন্টার সেটিং পেজ%2$s থেকে সক্রিয় করতে পারেন"
+
+#: includes/widgets/common.php:1506
+msgid "Bottom Right"
+msgstr "নীচের ডানে"
+
+#: includes/widgets/common.php:1505
+msgid "Bottom Left"
+msgstr "নীচের বামে"
+
+#: includes/widgets/common.php:1504
+msgid "Bottom Center"
+msgstr "নীচের কেন্দ্রে"
+
+#: includes/widgets/common.php:1503
+msgid "Top Right"
+msgstr "উপরের ডানে"
+
+#: includes/widgets/common.php:1502
+msgid "Top Left"
+msgstr "উপরের বামে"
+
+#: includes/widgets/common.php:1501
+msgid "Top Center"
+msgstr "উপরের কেন্দ্রে"
+
+#: includes/widgets/common.php:1598
+msgid "Repeat-Y"
+msgstr "রিপিট-Y"
+
+#: includes/widgets/common.php:1597
+msgid "Repeat-X"
+msgstr "রিপিট-X"
+
+#: includes/widgets/common.php:1599
+msgid "Round"
+msgstr "রাউন্ড"
+
+#: includes/widgets/common.php:1592 includes/widgets/common.php:1596
+msgid "Repeat"
+msgstr "রিপিট"
+
+#: includes/widgets/common.php:1556
+msgid "Y Position"
+msgstr "Y পজিশন"
+
+#: includes/widgets/common.php:1520
+msgid "X Position"
+msgstr "X পজিশন"
+
+#: includes/widgets/common.php:1595
+msgid "No-Repeat"
+msgstr "নো-রিপিট"
+
+#: includes/widgets/common.php:1500
+msgid "Center Right"
+msgstr "কেন্দ্রের ডানে"
+
+#: includes/widgets/common.php:1499
+msgid "Center Left"
+msgstr "কেন্দ্রের বামে"
+
+#: includes/widgets/common.php:1498
+msgid "Center Center"
+msgstr "কেন্দ্রের মাঝে"
+
+#: includes/widgets/common.php:878 includes/widgets/common.php:901
+#: includes/widgets/common.php:1459
+msgid "Scale"
+msgstr "স্কেল"
+
+#: includes/widgets/common.php:1444
+msgid "Fit"
+msgstr "ফিট"
+
+#: includes/widgets/common.php:1370 includes/widgets/common.php:1378
+msgid "Mask"
+msgstr "মাস্ক"
+
+#: includes/widgets/common.php:130
+msgid "Hexagon"
+msgstr "ষড়ভুজ"
+
+#: includes/widgets/common.php:128
+msgid "Triangle"
+msgstr "ত্রিভুজ"
+
+#: includes/widgets/common.php:126
+msgid "Flower"
+msgstr "ফুল"
+
+#: includes/widgets/accordion.php:226 includes/widgets/toggle.php:230
+msgid "FAQ Schema"
+msgstr "FAQ পরিকল্পনা"
+
+#: includes/controls/groups/background.php:625
+msgid "Only works for YouTube videos."
+msgstr "শুধুমাত্র ইউটিউব ভিডিওর ক্ষেত্রে কার্যকরী"
+
+#: includes/controls/groups/background.php:623
+msgid "Privacy mode"
+msgstr "গোপনীয়তা অবস্থা"
+
+#: core/editor/data/globals/endpoints/base.php:34
+msgid "The Global value you are trying to use is not available."
+msgstr "আপনি যেই গ্লোবাল ভেলু ব্যাবহার করতে চাচ্ছেন, সেটি নেই "
+
+#: includes/controls/media.php:194
+msgid "Choose SVG"
+msgstr "SVG নির্ধারণ করুন"
+
+#. Description of the plugin
+msgid "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!"
+msgstr "Elementor Website Builder এ যাকিছু রয়েছেঃ Drag and Drop করে পেইজ বানানো, একদম সুক্ষ ডিজাইন, মোবাইল ডিভাইস এর জন্য ডিজাইন এবং আরো অনেক কিছু। এখনি শুরু করুন। "
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:58
+msgid "Warning: This will reset your current Global Fonts and Colors, and will migrate your previous settings from v2.x versions."
+msgstr "সতর্কতা: এটি আপনার বর্তমান গ্লোবাল ফন্ট এবং কালার পুনরায় সেট করবে এবং v2.x সংস্করণ থেকে আপনার পূর্ববর্তী সেটিংস স্থানান্তর করবে।"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:50
+msgid "Rerun Update Script"
+msgstr "আপডেট স্ক্রিপ্টটি পুনরায় চালু করুন"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:56 assets/js/admin.js:5588
+msgid "Migrate to v3.0"
+msgstr "V3.0 এ স্থানান্তরিত করুন"
+
+#: core/kits/documents/tabs/settings-layout.php:307
+msgid "Breakpoint"
+msgstr "ব্রেকপয়েন্ট"
+
+#: includes/settings/settings.php:290
+msgid "Watch the Full Guide"
+msgstr "সম্পুর্ন নির্দেশিকা দেখুন"
+
+#: includes/controls/media.php:251
+msgid "Click the media icon to upload file"
+msgstr "ফাইল আপলোড করতে মিডিয়াতে ক্লিক করুন"
+
+#: includes/settings/settings.php:548 assets/js/admin.js:867
+#: assets/js/admin.js:874 assets/js/common.js:2572 assets/js/common.js:2579
+#: assets/js/editor.js:34359 assets/js/editor.js:34366
+msgid "Enable Unfiltered File Uploads"
+msgstr "অপরিশুদ্ধ ফাইল আপলোড সক্রিয় করুন"
+
+#: modules/safe-mode/module.php:400
+msgid "If you are experiencing a loading issue, contact your site administrator to troubleshoot the problem using Safe Mode."
+msgstr "যদি তোমার সাইট লোড হতে কোন সমস্যা দেখা দেয়, তাহলে সেফ মোড দিয়ে সমস্যা সমাধান করার জন্য সাইটের এডমিনের সাথে যোগাযোগ কর।"
+
+#: includes/managers/icons.php:497
+msgid "The upgrade process includes a database update"
+msgstr "আপগ্রেড প্রক্রিয়াটিতে ডাটাবেস আপডেটও অন্তর্ভুক্ত রয়েছে"
+
+#: includes/managers/icons.php:498
+msgid "We highly recommend backing up your database before performing this upgrade."
+msgstr "এই আপগ্রেড করার পুর্বে আপনার ডাটাবেজকে ব্যাকআপ করার জন্য আমরা খুব বেশি সুপারিশ করছি। "
+
+#: core/kits/documents/tabs/theme-style-typography.php:49
+msgid "Body"
+msgstr "বডি"
+
+#: core/base/db-upgrades-manager.php:114
+msgid "Click here to run it now"
+msgstr "এটি চালানোর জন্য এখানে ক্লিক করুন"
+
+#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1304
+msgid "Share"
+msgstr "শেয়ার"
+
+#: includes/managers/controls.php:1083
+msgid "Attributes"
+msgstr "এট্রিবিউটস"
+
+#: includes/editor-templates/panel.php:255
+msgid "Dynamic Tags"
+msgstr "ডায়নামিক ট্যাগ"
+
+#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1302
+msgid "Fullscreen"
+msgstr "ফুলস্ক্রিন"
+
+#: core/kits/manager.php:150 core/kits/manager.php:168
+msgid "Default Kit"
+msgstr "পুর্বনির্ধারিত সেট"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:130
+msgid "Focus"
+msgstr "কেন্দ্রবিন্দু"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:100
+msgid "Field"
+msgstr "ক্ষেত্র"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:21
+#: core/kits/documents/tabs/theme-style-form-fields.php:60
+msgid "Form Fields"
+msgstr "ফর্মের ক্ষেত্র"
+
+#: core/kits/documents/tabs/theme-style-typography.php:77
+msgid "Paragraph Spacing"
+msgstr "অনুচ্ছেদের ফাঁকা জায়গা"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:23
+#: core/kits/documents/tabs/theme-style-buttons.php:63
+msgid "Buttons"
+msgstr "বাটনসমূহ "
+
+#: core/kits/documents/kit.php:168
+msgid "Draft"
+msgstr "খসড়া"
+
+#: core/kits/documents/kit.php:44
+msgid "Kit"
+msgstr "সেট"
+
+#: includes/frontend.php:1301
+msgid "Download image"
+msgstr "ছবি ডাউনলোড করুন"
+
+#: includes/frontend.php:1299
+msgid "Pin it"
+msgstr "এটাকে এঁটে দিন"
+
+#: includes/frontend.php:1298
+msgid "Share on Twitter"
+msgstr "টুইটারে প্রচার করুন "
+
+#: includes/frontend.php:1297
+msgid "Share on Facebook"
+msgstr "ফেসবুকে প্রচার করুন"
+
+#: includes/controls/url.php:113
+msgid "Custom Attributes"
+msgstr "নিজের পছন্দমত অ্যাট্রিবিউটসমূহ "
+
+#: includes/editor-templates/panel.php:286
+msgid "See it in action"
+msgstr "এটাকে কাজে দেখুন"
+
+#: includes/controls/groups/background.php:672
+msgid "Duration"
+msgstr "ব্যাপ্তিকাল/স্থিতিকাল"
+
+#: includes/controls/groups/background.php:650
+msgctxt "Background Control"
+msgid "Images"
+msgstr "ছবি"
+
+#: includes/controls/groups/background.php:682
+msgid "Transition"
+msgstr "পরিবৃত্তি"
+
+#: core/logger/log-reporter.php:43
+msgid "Clear Log"
+msgstr "তালিকা পরিষ্কার করুন"
+
+#: includes/frontend.php:1307 includes/widgets/image-carousel.php:832
+#: assets/js/app.js:9819 assets/js/app.js:11647 assets/js/app.js:12601
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:1860
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:1914
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2224
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2525
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: includes/frontend.php:1306 includes/widgets/image-carousel.php:828
+#: assets/js/app.js:10849 assets/js/app.js:11636 assets/js/app.js:12595
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+#: includes/widgets/divider.php:645
+msgid "Amount"
+msgstr "পরিমাণ"
+
+#: includes/widgets/divider.php:318 modules/shapes/module.php:23
+msgid "Line"
+msgstr "লাইন"
+
+#: includes/widgets/divider.php:474
+msgid "Add Element"
+msgstr "এলিমেন্ট যুক্ত করুন"
+
+#: core/document-types/post.php:28
+msgid "Post"
+msgstr "প্রকাশনা"
+
+#: includes/widgets/divider.php:234
+msgctxt "shapes"
+msgid "Half Rounds"
+msgstr "অর্ধ বৃত্ত"
+
+#: includes/widgets/image-gallery.php:44
+msgid "Basic Gallery"
+msgstr "প্রাথমিক গ্যাল্যারি"
+
+#: includes/settings/tools.php:356 includes/settings/tools.php:358
+msgid "Reinstall"
+msgstr "পুনরায় ইন্সটল"
+
+#: includes/controls/media.php:263 assets/js/editor.js:8823
+msgid "Upload"
+msgstr "আপলোড"
+
+#: core/editor/editor.php:199
+msgid "Document not found."
+msgstr "কোন ডকুমেন্ট পাওয়া যায়নি।"
+
+#: core/debug/classes/htaccess.php:11
+msgid "Your site's .htaccess file appears to be missing."
+msgstr "আপনার সাইটের .htaccess ফাইল মিসিং।"
+
+#: core/debug/classes/theme-missing.php:22
+msgid "Some of your theme files are missing."
+msgstr "আপনার থীমের কিছু ফাইল মিসিং।"
+
+#: includes/controls/icons.php:88 includes/controls/icons.php:114
+#: includes/controls/icons.php:198 assets/js/editor.js:9555
+msgid "Icon Library"
+msgstr "আইকোন লাইব্রেরি"
+
+#: core/common/modules/finder/categories/site.php:82
+msgid "Users"
+msgstr "ব্যবহারকারীরা"
+
+#: core/common/modules/finder/categories/site.php:76 assets/js/app.js:13892
+msgid "Plugins"
+msgstr "প্লাগইন গুলো"
+
+#: includes/widgets/video.php:440
+msgid "Any Video"
+msgstr "যে কোন ভিডিও"
+
+#: includes/widgets/video.php:439
+msgid "Current Video Channel"
+msgstr "বর্তমান ভিডিও চ্যানেল"
+
+#: includes/widgets/star-rating.php:95
+msgid "Rating Scale"
+msgstr "নির্ধারণের মাপকাঠি"
+
+#: core/common/modules/connect/apps/base-app.php:83
+msgid "Disconnect"
+msgstr "সংযোগ ছিন্ন করুন"
+
+#: core/common/modules/connect/apps/base-app.php:226
+msgid "Disconnected Successfully."
+msgstr "সফলভাবে সংযোগ বিচ্ছিন্ন হয়েছে।"
+
+#: core/common/modules/connect/apps/base-app.php:214
+msgid "Connected Successfully."
+msgstr "সফলভাবে সংযুক্ত হয়েছে।"
+
+#: core/common/modules/connect/admin.php:24
+#: core/common/modules/connect/admin.php:25
+#: core/common/modules/connect/apps/connect.php:11
+msgid "Connect"
+msgstr "সংযোগ করুন"
+
+#: includes/widgets/image.php:164 includes/widgets/image.php:173
+msgid "Custom Caption"
+msgstr "স্বনির্ধারিত ক্যাপশন"
+
+#: core/common/modules/finder/template.php:13
+msgid "Type to find anything in Elementor"
+msgstr "এলিমেন্টোরের মধ্যে কিছু খুঁজতে টাইপ করুন"
+
+#: includes/editor-templates/hotkeys.php:92 assets/js/admin-top-bar.js:477
+#: assets/js/common.js:5506 assets/js/editor.js:32165
+msgid "Finder"
+msgstr "ফাইন্ডার"
+
+#: core/common/modules/finder/categories/site.php:70
+msgid "Customizer"
+msgstr "কাস্টমাইজার"
+
+#: core/common/modules/finder/categories/site.php:58
+msgid "Menus"
+msgstr "মেনু"
+
+#: core/common/modules/finder/categories/site.php:52
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: core/common/modules/finder/categories/site.php:46
+msgid "Homepage"
+msgstr "হোম পেজ"
+
+#: core/common/modules/finder/categories/create.php:27
+#: assets/js/editor.js:40782
+msgid "Create"
+msgstr "তৈরি করুন"
+
+#: core/admin/admin-notices.php:287
+msgid "Hide Notification"
+msgstr "বিজ্ঞপ্তি আড়াল করুন"
+
+#: core/admin/admin-notices.php:277
+msgid ""
+"You created over 10 pages with Elementor. Great job! If you can spare a minute,\n"
+"\t\t\t\tplease help us by leaving a five star review on WordPress.org."
+msgstr "আপনি এলিমেন্টোর দিয়ে ১০ টির অধিক পৃষ্ঠা তৈরি করেছেন। দারূন কাজ! আপনার যদি কিছু সময় থাকে তবে অনুগ্রহ করে WordPress.org তে পাঁচ-তারকা সহ একটি রিভিউ দিয়ে আমাদের সহায়তা করুন।"
+
+#: core/admin/admin-notices.php:281
+msgid "Happy To Help"
+msgstr "সহায়তা করে আনন্দিত বোধ করব"
+
+#: core/admin/admin-notices.php:276
+msgid "Congrats!"
+msgstr "অভিনন্দন!"
+
+#: includes/editor-templates/navigator.php:52
+msgid "Once you fill your page with content, this window will give you an overview display of all the page elements. This way, you can easily move around any section, column, or widget."
+msgstr "একবার আপনি কন্টেন্ট সহ আপনার পৃষ্ঠাটি পূরণ করলে, এই উইন্ডোটি আপনাকে সব পৃষ্ঠার উপাদানের সংক্ষিপ্ত বিবরণ প্রদর্শন করবে। এই ভাবে, আপনি সহজেই যেকোনো সেকশন, কলাম বা উইজেটের অবস্থান সরাতে পারবেন।"
+
+#: includes/widgets/video.php:135 includes/widgets/video.php:157
+#: includes/widgets/video.php:178 includes/widgets/video.php:234
+msgid "Enter your URL"
+msgstr "আপনার ইউআরএল লিখুন"
+
+#: includes/widgets/inner-section.php:35 assets/js/editor.js:23150
+msgid "Inner Section"
+msgstr "ভিতরের সেকশন"
+
+#: includes/editor-templates/library-layout.php:13
+#: includes/settings/settings.php:271 includes/settings/settings.php:272
+#: assets/js/app-packages.js:3787 assets/js/app.js:5273
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:1485
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:1756
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2020
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2214
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2563
+msgid "Skip"
+msgstr "এড়িয়ে যান"
+
+#: core/admin/admin.php:174 assets/js/admin.js:5400 assets/js/gutenberg.js:796
+msgid "Back to WordPress Editor"
+msgstr "ওয়ার্ডপ্রেস এডিটর এ ফিরুন"
+
+#. translators: %s: Document title.
+#: core/documents-manager.php:367
+msgid "Elementor %s"
+msgstr "এলিমেন্টর %s"
+
+#. translators: %s: Template type label.
+#: core/base/document.php:173
+#: core/common/modules/finder/categories/create.php:86
+#: includes/template-library/sources/local.php:1320
+msgid "Add New %s"
+msgstr "নতুন যুক্ত করুন %s"
+
+#. translators: %d: Number of rows.
+#: includes/utils.php:197
+msgid "%d row affected."
+msgid_plural "%d rows affected."
+msgstr[0] "%d সারি প্রভাবিত ।"
+msgstr[1] "%d সারি প্রভাবিত ।"
+
+#: modules/page-templates/module.php:158
+msgctxt "Page Template"
+msgid "Elementor Full Width"
+msgstr "এলিমেন্টর সম্পূর্ণ প্রস্থ"
+
+#: modules/page-templates/module.php:157
+msgctxt "Page Template"
+msgid "Elementor Canvas"
+msgstr "এলিমেন্টর ক্যানভাস"
+
+#: core/kits/documents/tabs/theme-style-images.php:95
+#: core/kits/documents/tabs/theme-style-images.php:166
+#: includes/elements/column.php:375 includes/elements/column.php:449
+#: includes/elements/container.php:659 includes/elements/container.php:771
+#: includes/elements/section.php:651 includes/elements/section.php:755
+#: includes/widgets/image-box.php:322 includes/widgets/image-box.php:376
+#: includes/widgets/image.php:393 includes/widgets/image.php:427
+msgid "Opacity"
+msgstr "অস্বচ্ছতা"
+
+#: core/base/module.php:130 core/base/module.php:143 includes/plugin.php:579
+#: includes/plugin.php:592 assets/js/app.js:14217
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:1166
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:3875
+msgid "Something went wrong."
+msgstr "কিছু ভুল হয়েছে"
+
+#: includes/widgets/image.php:290
+msgid "Max Width"
+msgstr "সর্বোচ্চ প্রস্থ"
+
+#: includes/elements/container.php:1210 includes/widgets/common.php:345
+#: includes/widgets/common.php:1495 includes/widgets/divider.php:736
+#: includes/widgets/divider.php:876 includes/widgets/image-carousel.php:413
+#: includes/widgets/image-carousel.php:477 includes/widgets/tabs.php:152
+msgid "Position"
+msgstr "অবস্থান"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: core/admin/admin.php:358
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "%1$s উপভোগ করেছেন? দয়া করে আমাদের একটি %2$s রেটিং রেটিং দিন। আমরা সত্যি তোমার সহযোগীতা সমাদর করি!"
+
+#: core/common/modules/finder/categories/general.php:67
+msgid "Knowledge Base"
+msgstr "জ্ঞানভিত্তিক"
+
+#: modules/page-templates/module.php:347
+msgid "This template includes the header, full-width content and footer"
+msgstr "এই টেমপ্লেটে হেডার, পূর্ণ-প্রস্থের সামগ্রী এবং ফুটার অন্তর্ভুক্ত"
+
+#: modules/page-templates/module.php:335
+msgid "No header, no footer, just Elementor"
+msgstr "হেডার নয়, ফুটার নয়, শুধু এলিমেন্টর"
+
+#: modules/page-templates/module.php:292
+msgid "Page Layout"
+msgstr "পৃষ্ঠা বিন্যাস"
+
+#: modules/history/views/revisions-panel-template.php:70
+msgid "Current"
+msgstr "বর্তমান"
+
+#: modules/page-templates/module.php:323
+msgid "Default Page Template from your theme."
+msgstr "আপনার থিম এর পূর্বনির্ধারিত টেমপ্লেট"
+
+#: includes/frontend.php:1305 includes/widgets/video.php:827
+msgid "Play Video"
+msgstr "ভিডিও দেখাও"
+
+#: includes/widgets/common.php:223 includes/widgets/icon-list.php:104
+#: includes/widgets/icon-list.php:196
+msgid "Inline"
+msgstr "সঙ্গতিপূর্ণভাবে"
+
+#: includes/widgets/counter.php:181
+msgid "Separator"
+msgstr "বিভাজক"
+
+#: modules/landing-pages/module.php:285 assets/js/app-packages.js:5919
+msgid "Add New"
+msgstr "নতুন যুক্ত করুন"
+
+#: includes/template-library/sources/local.php:1280
+msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
+msgstr "টেমপ্লেট যোগ করুন এবং আপনার ওয়েবসাইট জুড়ে তাদের পুনঃব্যবহার করুন। অপ্টিমাইজড ওয়ার্কফ্লোর জন্য সহজেই রপ্তানি এবং অন্য কোন প্রকল্পে তাদের আমদানি করুন"
+
+#. translators: %s: Template type label.
+#: includes/template-library/sources/local.php:1313
+msgid "Create Your First %s"
+msgstr "আপনার প্রথম %s তৈরি করুন"
+
+#: includes/template-library/sources/local.php:1186
+msgid "All"
+msgstr "সব"
+
+#: includes/admin-templates/new-template.php:97
+msgid "Create Template"
+msgstr "টেমপ্লেট তৈরি করুন"
+
+#: includes/admin-templates/new-template.php:94
+msgid "Enter template name (optional)"
+msgstr "টেমপ্লেট নাম লিখুন (ঐচ্ছিক)"
+
+#: includes/admin-templates/new-template.php:91
+msgid "Name your template"
+msgstr "আপনার টেমপ্লেট এর নাম দিন"
+
+#: includes/admin-templates/new-template.php:66
+msgid "Select the type of template you want to work on"
+msgstr "আপনি কোন ধরনের টেম্পলেট এ কাজ করবেন তা নির্বাচন করুন"
+
+#: includes/admin-templates/new-template.php:64
+msgid "Choose Template Type"
+msgstr "টেমপ্লেট এর প্রকার নির্বাচন করুন"
+
+#: includes/admin-templates/new-template.php:49
+msgid "Use templates to create the different pieces of your site, and reuse them with one click whenever needed."
+msgstr "আপনার সাইটের বিভিন্ন টুকরা তৈরি করতে টেমপ্লেট ব্যবহার করুন এবং প্রয়োজন হলে এক ক্লিকের মাধ্যমে তাদের পুনঃব্যবহার করুন।"
+
+#: includes/settings/settings.php:314
+msgid "Custom Fonts allows you to add your self-hosted fonts and use them on your Elementor projects to create a unique brand language."
+msgstr ""
+"কাস্টম ফন্টগুলি আপনাকে আপনার নিজের ফন্ট যুক্ত করতে এবং এলিমেন্টর প্রকল্পে তাদের ব্যবহার করতে দেয় একটি অনন্য নির্দিষ্ট ব্যবসায়িক ছাপ\n"
+" তৈরি করতে ।"
+
+#: includes/settings/settings.php:313
+msgid "Add Your Custom Fonts"
+msgstr "আপনার কাস্টম ফন্ট যোগ করুন"
+
+#: core/kits/documents/tabs/global-typography.php:177
+#: includes/settings/settings.php:147 includes/settings/settings.php:148
+msgid "Custom Fonts"
+msgstr "কাস্টম ফন্ট"
+
+#: includes/editor-templates/templates.php:180
+msgid "More actions"
+msgstr "আরও কাজ"
+
+#: includes/editor-templates/templates.php:100
+msgid "Search Templates:"
+msgstr "টেমপ্লেট সন্ধান করুন:"
+
+#: includes/template-library/sources/local.php:223
+msgctxt "Template Library"
+msgid "My Templates"
+msgstr "আমার টেমপ্লেটগুলি"
+
+#: core/document-types/page.php:41 modules/library/documents/page.php:61
+#: assets/js/editor.js:10814
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:2135
+msgid "Pages"
+msgstr "পৃষ্ঠাসমূহ"
+
+#: includes/editor-templates/global.php:69
+msgid "This tag has no settings."
+msgstr ""
+"এই ট্যাগে কোন নির্দিষ্টকরণ নেই।\n"
+" "
+
+#: includes/controls/groups/border.php:68
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "খাঁজ"
+
+#. translators: %s: Document title.
+#: core/base/document.php:1040 core/settings/page/model.php:126
+#: includes/editor-templates/panel.php:67
+msgid "%s Settings"
+msgstr "%s নির্দিষ্টকরণ"
+
+#: core/role-manager/role-manager.php:170
+msgid "Want to give access only to content?"
+msgstr "কেবল সামগ্রীতে প্রবেশ অধিকার দিতে চান?"
+
+#: core/role-manager/role-manager.php:135
+msgid "No access to editor"
+msgstr "এডিটর এ কোন অ্যাক্সেস নেই"
+
+#: core/role-manager/role-manager.php:128
+msgid "Role Excluded"
+msgstr "ভূমিকা বাদে"
+
+#: core/role-manager/role-manager.php:92
+msgid "Manage What Your Users Can Edit In Elementor"
+msgstr "এলিমেন্টর এ আপনার ব্যবহারকারীরা কি সম্পাদনা করতে পারে তা পরিচালনা করুন"
+
+#: core/common/modules/finder/categories/general.php:61
+#: core/role-manager/role-manager.php:32
+msgid "Role Manager"
+msgstr "ভূমিকা পরিচালক"
+
+#: core/common/modules/ajax/module.php:161
+msgid "Action not found."
+msgstr "অ্যাকশান খুঁজে পাওয়া যায়নি"
+
+#: includes/template-library/manager.php:565
+msgid "Post not found."
+msgstr "পোষ্ট খুঁজে পাওয়া যায়নি"
+
+#: core/common/modules/ajax/module.php:130
+msgid "Token Expired."
+msgstr "মেয়াদোত্তীর্ণ টোকেন"
+
+#: core/dynamic-tags/tag.php:109 includes/settings/settings.php:568
+msgid "Fallback"
+msgstr "ফলব্যাক"
+
+#: core/document-types/page-base.php:175
+msgid "Featured Image"
+msgstr "ফিচার ইমেজ"
+
+#: core/document-types/page-base.php:109
+msgid "Body Style"
+msgstr "বডির ডিজাইন"
+
+#: core/base/document.php:165
+msgid "Document"
+msgstr "ডকুমেন্ট"
+
+#: includes/widgets/image-carousel.php:137
+msgid "Set how many slides are scrolled per swipe."
+msgstr "প্রতি সোয়াইপে কত গুলো স্লাইডে স্ক্রোল হবে তা সেট করুন।"
+
+#: includes/controls/groups/background.php:447
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr "দ্রষ্টব্য: এটাচমেন্ট নির্দিষ্ট শুধুমাত্র ডেস্কটপে কাজ করে।"
+
+#: core/admin/admin.php:409
+msgid "Create New Post"
+msgstr "নতুন পোস্ট তৈরী"
+
+#: includes/fonts.php:69
+msgid "Google Early Access"
+msgstr "গুগল দ্রুত প্রবেশ"
+
+#: modules/history/revisions-manager.php:157
+msgid "Current Version"
+msgstr "বর্তমান ভার্সন"
+
+#: includes/widgets/video.php:391
+msgid "When you turn on privacy mode, YouTube won't store information about visitors on your website unless they play the video."
+msgstr "যখন আপনি গোপনীয়তা মোডটি চালু করবেন, তখনই YouTube আপনার ওয়েবসাইটে দর্শকদের তথ্য সংরক্ষণ করবে না, যদি না তারা ভিডিওটি চালায়।"
+
+#: includes/widgets/video.php:389
+msgid "Privacy Mode"
+msgstr "গোপনীয়তা মোড"
+
+#: includes/widgets/html.php:95
+msgid "Enter your code"
+msgstr "আপনার কোড লিখুন"
+
+#: includes/widgets/alert.php:330 includes/widgets/alert.php:362
+msgid "Dismiss alert"
+msgstr "সতর্কতা খারিজ করুন"
+
+#: includes/widgets/alert.php:127 includes/widgets/icon-box.php:161
+#: includes/widgets/image-box.php:138
+msgid "Enter your description"
+msgstr "আপনার বিবরণ লিখুন"
+
+#: includes/widgets/alert.php:114
+msgid "This is an Alert"
+msgstr "এটি একটি সতর্কতা"
+
+#: core/common/modules/finder/template.php:19 assets/js/editor.js:11946
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:1828
+msgid "No Results Found"
+msgstr "কোন ফলাফল পাওয়া যায়নি"
+
+#: includes/widgets/accordion.php:177 includes/widgets/toggle.php:181
+msgid "Active Icon"
+msgstr "সক্রিয় আইকন"
+
+#: core/admin/admin-notices.php:538
+msgid "Dismiss"
+msgstr "খারিজ করা"
+
+#. translators: %s: Document title.
+#: core/base/document.php:148
+msgid "Hurray! Your %s is live."
+msgstr "হুররে! আপনার %s লাইভ ।"
+
+#: core/kits/documents/kit.php:169
+msgid "Published"
+msgstr "প্রকাশিত"
+
+#: includes/editor-templates/templates.php:246 assets/js/app-packages.js:3444
+#: assets/js/app.js:4930
+msgid "Select File"
+msgstr "নথি নির্বাচন"
+
+#: includes/editor-templates/templates.php:245
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2399
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2784
+msgid "or"
+msgstr "অথবা"
+
+#: includes/editor-templates/templates.php:244
+msgid "Drag & drop your .JSON or .zip template file"
+msgstr "আপনার .JSON বা .zip টেমপ্লেট ফাইল টেনে আনুন এবং ড্রপ করুন"
+
+#: includes/editor-templates/templates.php:243
+msgid "Import Template to Your Library"
+msgstr "আপনার লাইব্রেরীতে টেমপ্লেট আমদানি করুন"
+
+#: includes/editor-templates/templates.php:234
+#: includes/editor-templates/templates.php:250
+#: includes/editor-templates/templates.php:263
+#: includes/widgets/traits/button-trait.php:58
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:2796
+msgid "Click here"
+msgstr "এখানে ক্লিক করুন"
+
+#: includes/editor-templates/templates.php:233
+#: includes/editor-templates/templates.php:249
+#: includes/editor-templates/templates.php:262
+msgid "Want to learn more about the Elementor library?"
+msgstr "এলিমেন্টর লাইব্রেরি সম্পর্কে আরও জানতে চান?"
+
+#: includes/editor-templates/templates.php:158
+msgid "Favorite"
+msgstr "প্রিয়"
+
+#: includes/editor-templates/templates.php:121
+msgid "Creation Date"
+msgstr "তৈরির তারিখ"
+
+#: includes/editor-templates/templates.php:117
+msgid "Created By"
+msgstr "নির্মিত হয়েছে"
+
+#: includes/editor-templates/templates.php:101
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: includes/editor-templates/templates.php:92
+msgid "My Favorites"
+msgstr "আমার পছন্দ"
+
+#: includes/editor-templates/panel-elements.php:39
+msgid "Search Widget:"
+msgstr "উইজেট অনুসন্ধান করুন"
+
+#: includes/controls/popover-toggle.php:71
+#: includes/controls/popover-toggle.php:73
+msgid "Back to default"
+msgstr "ডিফল্টে ফিরে যান"
+
+#: includes/controls/groups/typography.php:184
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "মাধ্যমে লাইন"
+
+#: includes/controls/groups/typography.php:183
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "ঊর্ধ্বরেখা"
+
+#: includes/controls/groups/typography.php:182
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "নিম্নরেখা"
+
+#: includes/controls/groups/typography.php:177
+msgctxt "Typography Control"
+msgid "Decoration"
+msgstr "প্রসাধন"
+
+#: includes/controls/dimensions.php:142
+msgid "Unlinked values"
+msgstr "লিঙ্কমুক্ত মান"
+
+#: core/admin/admin.php:493
+msgid "Blog"
+msgstr "ব্লগ"
+
+#: core/admin/admin.php:474
+msgid "(opens in a new window)"
+msgstr "(একটি নতুন উইন্ডোতে খোল)"
+
+#: core/admin/admin.php:455
+msgid "News & Updates"
+msgstr "খবর & আপডেট"
+
+#: core/admin/admin.php:437
+msgid "Recently Edited"
+msgstr "সম্প্রতি সম্পাদিত"
+
+#: core/admin/admin.php:406
+msgid "Create New Page"
+msgstr "নতুন পৃষ্ঠা তৈরি করুন"
+
+#: core/admin/admin.php:378
+msgid "Elementor Overview"
+msgstr "এলিমেন্টর এর সংক্ষিপ্ত বিবরণ"
+
+#: includes/widgets/shortcode.php:106
+msgid "Enter your shortcode"
+msgstr "আপনার শটকোর্ড প্রবেশ করুন"
+
+#: includes/widgets/image.php:176
+msgid "Enter your image caption"
+msgstr "আপনার চিত্রের ক্যাপশন দিন"
+
+#. translators: 1: Editing date, 2: Author display name.
+#: core/base/document.php:1311
+msgid "Last edited on %1$s by %2$s"
+msgstr "সর্বশেষ সম্পাদিত %1$s দ্বারা %2$s"
+
+#. translators: 1: Saving date, 2: Author display name.
+#: core/base/document.php:1308
+msgid "Draft saved on %1$s by %2$s"
+msgstr "খসড়া সংরক্ষিত %1$s দ্বারা %2$s"
+
+#: includes/editor-templates/panel.php:115
+msgid "Save Draft"
+msgstr "খসড়া সংরক্ষণ"
+
+#: core/admin/admin-notices.php:144
+msgid "Update Elementor Now"
+msgstr "এলিমেন্টার এখন আপডেট করুন"
+
+#: includes/widgets/heading.php:117
+msgid "Add Your Heading Text Here"
+msgstr "আপনার শিরোনামের লেখা এখানে যোগ করুন"
+
+#: includes/editor-templates/templates.php:70
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:3858
+msgid "Popular"
+msgstr "জনপ্রিয়"
+
+#: includes/editor-templates/templates.php:66
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:3855
+msgid "New"
+msgstr "নতুন"
+
+#: core/kits/views/panel.php:44 includes/controls/icons.php:82
+#: includes/controls/media.php:214 includes/controls/media.php:260
+#: includes/editor-templates/repeater.php:27
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:986
+msgid "Remove"
+msgstr "অপসারণ"
+
+#: core/base/document.php:1303
+msgctxt "revision date format"
+msgid "M j, H:i"
+msgstr "M j, H:i"
+
+#: includes/editor-templates/hotkeys.php:67
+#: includes/editor-templates/repeater.php:21 assets/js/editor-document.js:14763
+#: assets/js/editor.js:24997 assets/js/editor.js:46044
+msgid "Duplicate"
+msgstr "প্রতিলিপি"
+
+#: includes/editor-templates/templates.php:68
+msgid "Trend"
+msgstr "প্রবণতা"
+
+#: includes/editor-templates/panel.php:129
+#: includes/editor-templates/panel.php:130
+msgid "Hide Panel"
+msgstr "প্যানেল লুকান"
+
+#: includes/editor-templates/templates.php:10
+#: includes/editor-templates/templates.php:11
+msgid "Import Template"
+msgstr "টেমপ্লেট আমদানি করুন"
+
+#: core/admin/admin.php:444
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr "M jS"
+
+#: includes/editor-templates/panel.php:83
+#: includes/editor-templates/panel.php:86
+msgid "Preview Changes"
+msgstr "পরিবর্তন পূর্বরূপ দেখুন"
+
+#: includes/editor-templates/panel.php:95 assets/js/editor.js:22738
+msgid "Publish"
+msgstr "প্রকাশ করুন"
+
+#: includes/editor-templates/panel.php:100
+#: includes/editor-templates/panel.php:102
+msgid "Save Options"
+msgstr "অপশন সংরক্ষণ করুন"
+
+#: includes/editor-templates/repeater.php:14
+msgid "Drag & Drop"
+msgstr "টানুন এবং ড্রপ করুন"
+
+#: includes/editor-templates/panel.php:119 assets/js/editor-document.js:16733
+#: assets/js/editor-document.js:17004 assets/js/editor.js:27438
+#: assets/js/editor.js:27709
+msgid "Save as Template"
+msgstr "টেমপ্লেট হিসাবে সংরক্ষণ করুন"
+
+#: core/document-types/page-base.php:164
+msgid "Excerpt"
+msgstr "উদ্ধৃতাংশ"
+
+#: includes/template-library/sources/local.php:472
+#: includes/template-library/sources/local.php:550
+#: includes/template-library/sources/local.php:692
+#: modules/history/revisions-manager.php:264
+msgid "Access denied."
+msgstr "অ্যাক্সেস অস্বীকৃত ।"
+
+#: includes/settings/settings.php:477
+msgid "Disable Default Fonts"
+msgstr "পূর্বনির্ধারিত হরফ অক্ষম করুন"
+
+#: includes/elements/column.php:218 includes/widgets/accordion.php:388
+#: includes/widgets/common.php:318 includes/widgets/image-carousel.php:565
+#: includes/widgets/tabs.php:179 includes/widgets/tabs.php:209
+#: includes/widgets/toggle.php:407
+msgid "End"
+msgstr "শেষ"
+
+#: includes/elements/column.php:216 includes/widgets/accordion.php:384
+#: includes/widgets/common.php:310 includes/widgets/image-carousel.php:557
+#: includes/widgets/tabs.php:171 includes/widgets/tabs.php:201
+#: includes/widgets/toggle.php:403
+msgid "Start"
+msgstr "শুরু"
+
+#: core/debug/loading-inspection-manager.php:36
+msgid "We're sorry, but something went wrong. Click on 'Learn more' and follow each of the steps to quickly solve it."
+msgstr "দুঃখিত, কোন একটু সমস্যা হয়েছে। সমস্যাটি দ্রুত সমাধানের জন্য \"আরো জানুন\" লেখাটিতে ক্লিক করুন এবং ধাপ গুলো অনুসরন করুন"
+
+#: core/debug/classes/inspection-base.php:25
+#: core/debug/loading-inspection-manager.php:37
+msgid "The preview could not be loaded"
+msgstr "পূর্বরূপ লোড করা যায়নি"
+
+#: core/admin/admin-notices.php:148 core/admin/admin-notices.php:183
+msgid "Update Notification"
+msgstr "প্রজ্ঞাপন হালনাগাদ"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: modules/history/views/history-panel-template.php:25
+msgid "Once you start working, you'll be able to redo / undo any action you make in the editor."
+msgstr "একবার কাজ শুরু করার পরে, আপনি এডিটরে যেকোনও কাজ পুনরায় করতে / পূর্বাবস্থায় ফেরাতে পারবেন।"
+
+#: modules/history/views/history-panel-template.php:24
+msgid "No History Yet"
+msgstr "এখনো কোন ইতিহাস নেই"
+
+#: modules/history/views/history-panel-template.php:17
+msgid "Switch to Revisions tab for older versions"
+msgstr "পুরোনো সংস্করণের জন্য সংশোধন ট্যাবে পরিবর্তন করুন"
+
+#: modules/history/views/history-panel-template.php:10
+#: modules/history/views/revisions-panel-template.php:26
+#: assets/js/editor.js:45733
+msgid "Revisions"
+msgstr "সংস্করণ"
+
+#: includes/editor-templates/hotkeys.php:14
+#: includes/editor-templates/templates.php:124
+#: modules/history/views/history-panel-template.php:9 assets/js/editor.js:45730
+msgid "Actions"
+msgstr "ক্রিয়াকলাপ"
+
+#: includes/editor-templates/hotkeys.php:117
+#: includes/editor-templates/panel.php:73
+#: includes/editor-templates/panel.php:75 assets/js/editor.js:46418
+msgid "History"
+msgstr "ইতিহাস"
+
+#: core/kits/documents/tabs/settings-lightbox.php:152
+#: includes/widgets/video.php:765
+msgid "UI Hover Color"
+msgstr "ব্যবহারকারী ইন্টারফেস হভার রঙ"
+
+#: core/kits/documents/tabs/settings-lightbox.php:141
+#: includes/widgets/video.php:753
+msgid "UI Color"
+msgstr "ব্যবহারকারী ইন্টারফেস রঙ"
+
+#: includes/widgets/video.php:311
+msgid "Mute"
+msgstr "নীরব"
+
+#: core/kits/documents/tabs/settings-lightbox.php:45
+msgid "Image Lightbox"
+msgstr "ইমেজ লাইটবক্স"
+
+#: includes/template-library/sources/local.php:919
+msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
+msgstr "একটি এলেমেন্টর টেম্পলেট জেসন ফাইল অথবা এলেমেন্টর টেম্পলেট গুলোর একটি .zip আর্কাইভ চয়ন করুন এবং সেগুলিকে প্রাপ্তিসাধ্য টেমপ্লেট লিস্টে যোগ করুন।"
+
+#: includes/controls/groups/text-shadow.php:61
+#: includes/controls/groups/text-shadow.php:85
+msgctxt "Text Shadow Control"
+msgid "Text Shadow"
+msgstr "লেখার ছায়া"
+
+#: core/kits/documents/tabs/settings-lightbox.php:48
+msgid "Open all image links in a lightbox popup window. The lightbox will automatically work on any link that leads to an image file."
+msgstr "একটি লাইটবক্স পপআপ উইন্ডোতে সব ছবি লিংক খুলুন। একটি ইমেজ ফাইল বাড়ে যে কোনো লিঙ্ক স্বয়ংক্রিয়ভাবে লাইটবক্স কাজ করবে।"
+
+#: includes/widgets/video.php:714
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "ছায়া"
+
+#: core/common/modules/finder/categories/tools.php:77
+#: includes/settings/tools.php:336
+msgid "Version Control"
+msgstr "ভার্সন কন্ট্রোল"
+
+#: includes/settings/tools.php:380
+msgid "Beta Tester"
+msgstr "বিটা পরীক্ষক"
+
+#: includes/settings/tools.php:366
+msgid "Become a Beta Tester"
+msgstr "বিটা পরীক্ষক হন"
+
+#: includes/controls/url.php:99
+msgid "Link Options"
+msgstr "লিংক বিকল্প"
+
+#: includes/controls/groups/box-shadow.php:69
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "অবস্থান"
+
+#: includes/controls/url.php:110
+msgid "Add nofollow"
+msgstr " নো - ফলো যোগ করুন"
+
+#. translators: %s: WordPress version.
+#: elementor.php:97
+msgid "Elementor requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "এলিমেন্টোর ওয়ার্ডপ্রেস সংস্করণ %s+ এর প্রয়োজন। আপনি আগের সংস্করণটি ব্যবহার করছেন বলে প্লাগইন বর্তমানে চলছে না।"
+
+#: includes/settings/tools.php:388
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "দয়া করে নোট করুন: আমরা উৎপাদিত সাইটগুলির একটি বিটা সংস্করণ আপডেট করার সুপারিশ করছি না।"
+
+#: includes/settings/tools.php:360
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "সতর্কতা: অনুগ্রহ করে রোলব্যাক করার পূর্বে আপনার ডাটাবেস ব্যাকআপ করুন"
+
+#: includes/settings/tools.php:352
+msgid "Rollback Version"
+msgstr "সংস্করণ রোলব্যাক "
+
+#. translators: %s: Elementor version.
+#: includes/settings/tools.php:343
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr ""
+"এলিমেন্টর সংস্করণ %s এর সাথে একটি সমস্যা হচ্ছে? ইস্যুটি হাজির হওয়ার পূর্বের\n"
+"সংস্করণে রোলব্যাক করুন।"
+
+#: includes/settings/settings.php:536
+msgid "Switch Editor Loader Method"
+msgstr "এডিটর লোডের পদ্ধতি পরিবরতন করুন"
+
+#: includes/settings/settings.php:493
+msgid "Integrations"
+msgstr "ইন্টিগ্রেশন"
+
+#: core/kits/documents/tabs/settings-layout.php:104
+msgid "Sets the default space between widgets (Default: 20)"
+msgstr "উইজেটের মধ্যে পূর্বনির্ধারিত স্থান নির্ধারণ করে (পূুরবনিরধারি: ২০)"
+
+#: includes/rollback.php:165 includes/settings/tools.php:167
+#: includes/settings/tools.php:339 assets/js/admin.js:5572
+msgid "Rollback to Previous Version"
+msgstr "পূর্ববর্তী সংস্করণে রোলব্যাক করুন"
+
+#: includes/elements/column.php:860 includes/elements/container.php:1524
+#: includes/elements/section.php:1296 includes/widgets/common.php:652
+msgid "Animation Delay"
+msgstr "অ্যানিমেশন বিলম্ব"
+
+#: includes/elements/column.php:761 includes/elements/container.php:1438
+#: includes/elements/section.php:1217 includes/widgets/common.php:568
+msgid "Z-Index"
+msgstr "জেড-সূচক"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:139
+#: core/kits/documents/tabs/theme-style-images.php:203
+#: includes/controls/groups/background.php:700 includes/elements/column.php:321
+#: includes/elements/column.php:480 includes/elements/column.php:587
+#: includes/elements/container.php:591 includes/elements/container.php:802
+#: includes/elements/container.php:923 includes/elements/section.php:600
+#: includes/elements/section.php:786 includes/elements/section.php:892
+#: includes/widgets/common.php:1224 includes/widgets/common.php:1338
+#: includes/widgets/google-maps.php:240 includes/widgets/image-box.php:340
+#: includes/widgets/image.php:453 modules/shapes/widgets/text-path.php:454
+#: modules/shapes/widgets/text-path.php:628
+msgid "Transition Duration"
+msgstr "রূপান্তর সময়কাল"
+
+#: core/kits/documents/tabs/settings-layout.php:85
+#: includes/elements/column.php:234
+msgid "Widgets Space"
+msgstr "উইজেট স্পেস"
+
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "রূপরেখা"
+
+#: includes/controls/url.php:106
+msgid "Open in new window"
+msgstr "নতুন উইন্ডোতে খুলুন"
+
+#: includes/settings/settings.php:523
+msgid "CSS Print Method"
+msgstr "সিএসএস মুদ্রণ পদ্ধতি"
+
+#: includes/settings/settings.php:532
+msgid "Use internal CSS that is embedded in the head of the page. For troubleshooting server configuration conflicts and managing development environments."
+msgstr "অভ্যন্তরীণ সিএসএস ব্যবহার করুন যা পৃষ্ঠার শিরোনাম এম্বেড করা হয়। সার্ভার কনফিগারেশন বিরোধ এবং উন্নয়ন পরিবেশ ব্যবস্থাপনার জন্য ব্যবহার করুন ।"
+
+#: includes/settings/settings.php:532
+msgid "Use external CSS files for all generated stylesheets. Choose this setting for better performance (recommended)."
+msgstr "সমস্ত সৃষ্ট স্টাইলশীটগুলির জন্য বাহ্যিক সিএসএস ফাইলগুলি ব্যবহার করুন । ভাল পারফরম্যান্সের জন্য এই সেটিংটি চয়ন করুন (প্রস্তাবিত)।"
+
+#: includes/settings/settings.php:530
+msgid "Internal Embedding"
+msgstr "অভ্যন্তরীণ এম্বেডিং"
+
+#: includes/settings/settings.php:529
+msgid "External File"
+msgstr "বাহ্যিক ফাইল"
+
+#: core/base/document.php:1603
+msgid "Status"
+msgstr "স্ট্যাটাস"
+
+#: core/debug/inspector.php:55 includes/settings/settings.php:542
+#: includes/settings/settings.php:554 includes/settings/tools.php:386
+#: modules/safe-mode/module.php:48 assets/js/admin.js:867
+#: assets/js/app-packages.js:3783 assets/js/app.js:5269
+#: assets/js/common.js:2572 assets/js/editor.js:34359
+msgid "Enable"
+msgstr "এনাবল"
+
+#: core/debug/inspector.php:54 includes/settings/settings.php:541
+#: includes/settings/settings.php:553 includes/settings/tools.php:385
+#: modules/safe-mode/module.php:47
+msgid "Disable"
+msgstr "ডিসএবল"
+
+#: includes/settings/settings.php:544
+msgid "For troubleshooting server configuration conflicts."
+msgstr "ট্রাবলশ্যুটিং সার্ভার কনফিগারেশন কনফ্লিক্টস এর জন্য"
+
+#: includes/widgets/common.php:1600 includes/widgets/spacer.php:108
+#: includes/widgets/text-editor.php:338
+msgid "Space"
+msgstr "স্পেস"
+
+#: includes/widgets/text-editor.php:120 includes/widgets/text-editor.php:252
+msgid "Drop Cap"
+msgstr "ড্রপ ক্যাপ"
+
+#: core/kits/documents/tabs/settings-layout.php:119
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "ইলিমেনটর  আপনার পেজের শিরোনামটি আড়াল করবে। যে থীমে \"h1.entry-title\" সিলেক্টর আছে সেটাতে কাজ করবে। যদি আপনার থীমের সিলেক্টর ভিন্ন হয়, দোয়া করে সেই সিলেক্টরটি নিচে লিখুন।"
+
+#: core/kits/documents/tabs/settings-layout.php:115
+msgid "Page Title Selector"
+msgstr "পেজ শিরোনামের সিলেক্টর"
+
+#: includes/admin-templates/new-template.php:69
+#: includes/settings/controls.php:155
+msgid "Select"
+msgstr "সিলেক্ট"
+
+#: core/common/modules/finder/categories/edit.php:118
+#: assets/js/editor-document.js:5268 assets/js/editor.js:18039
+msgid "Template"
+msgstr "টেমপ্লেট"
+
+#: core/document-types/page-base.php:87
+msgid "Hide Title"
+msgstr "শিরোনাম লুকান"
+
+#: includes/maintenance-mode.php:251
+msgid "Choose Template"
+msgstr "টেমপ্লেট চয়ন করুন"
+
+#: includes/maintenance-mode.php:370
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "মেইনটেনেন্স মোড এনাবল করতে হলে আপনাকে একটি টেমপ্লেট সেট করতে হবে মেইনটেনেন্স মোড পেজের জন্য"
+
+#: includes/maintenance-mode.php:292 includes/maintenance-mode.php:369
+#: assets/js/app.js:12463
+msgid "Edit Template"
+msgstr "টেমপ্লেট সম্পাদনা করুন"
+
+#: includes/maintenance-mode.php:243
+msgid "Roles"
+msgstr "দায়িত্ব-ভার"
+
+#: includes/maintenance-mode.php:237
+msgid "Logged In"
+msgstr "লগড ইন"
+
+#: includes/maintenance-mode.php:231
+msgid "Who Can Access"
+msgstr "কারা প্রবেশ করতে পারবে"
+
+#: includes/maintenance-mode.php:217
+msgid "Maintenance"
+msgstr "রক্ষণাবেক্ষণ"
+
+#: includes/maintenance-mode.php:216
+msgid "Coming Soon"
+msgstr "শীঘ্রই আসছে"
+
+#: core/kits/documents/kit.php:168 includes/maintenance-mode.php:215
+#: assets/js/editor.js:46043
+msgid "Disabled"
+msgstr "অক্ষম"
+
+#: includes/maintenance-mode.php:210
+msgid "Choose Mode"
+msgstr "মোড চয়ন করুন"
+
+#: includes/maintenance-mode.php:283
+msgid "Maintenance Mode ON"
+msgstr "মেইনটেনেন্স মোড চালু"
+
+#: includes/maintenance-mode.php:226
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "শীঘ্রই আসছে HTTP 200 কোড দিবে, অর্থাত সাইট সূচীবদ্ধ হতে প্রস্তুত।"
+
+#: includes/maintenance-mode.php:223
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "রক্ষণাবেক্ষণ মোড HTTP 503 কোড রিটার্ন করে, তাই সার্চ ইঞ্জিনগুলি পরে অল্প সময়ের মধ্যে ফিরে আসতে জানে। কয়েক দিনের বেশি এই মোড ব্যবহার করার জন্য সুপারিশ করা হয় না।"
+
+#: includes/maintenance-mode.php:220
+msgid "Choose between Coming Soon mode (returning HTTP 200 code) or Maintenance Mode (returning HTTP 503 code)."
+msgstr "আসন্ন মোড (HTTP 200 কোড ফেরত) বা রক্ষণাবেক্ষণ মোড (HTTP 503 কোড ফেরত) এর মধ্যে নির্বাচন করুন।"
+
+#: includes/maintenance-mode.php:206
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "আপনার সম্পূর্ণ ওয়েবসাইটটি মেনটেনেন্স মোড হিসেবে সেট করুন, অর্থাত এই সাইটটি অস্থায়ীভাবে রক্ষণাবেক্ষণের জন্য অফলাইনে থাকে, অথবা সেটিকে শীঘ্রই মোড হিসাবে সেট করুন, অর্থাত সাইটটি চালু হওয়া পর্যন্ত অফলাইনে থাকবে।"
+
+#: core/common/modules/finder/categories/tools.php:62
+#: includes/maintenance-mode.php:201 includes/maintenance-mode.php:205
+msgid "Maintenance Mode"
+msgstr "রক্ষণাবেক্ষণ মোড"
+
+#: includes/editor-templates/hotkeys.php:51 assets/js/editor-document.js:14802
+#: assets/js/editor.js:25036
+msgid "Paste Style"
+msgstr "পেজ ষ্টাইল"
+
+#: includes/elements/container.php:1105 includes/elements/section.php:1067
+msgid "Bring to Front"
+msgstr "সামনে আনুন"
+
+#: core/kits/documents/tabs/settings-lightbox.php:18
+#: includes/widgets/image-carousel.php:210
+#: includes/widgets/image-gallery.php:142 includes/widgets/image.php:219
+#: includes/widgets/video.php:605 includes/widgets/video.php:729
+msgid "Lightbox"
+msgstr "লাইটবক্স"
+
+#: includes/elements/column.php:191 includes/elements/column.php:219
+#: includes/elements/section.php:452 includes/widgets/icon-list.php:217
+#: includes/widgets/toggle.php:279
+msgid "Space Between"
+msgstr "দুইের মাঝে ফাঁকা"
+
+#: includes/widgets/icon-list.php:209
+msgid "List"
+msgstr "লিস্ট"
+
+#: includes/shapes.php:209
+msgctxt "Shapes"
+msgid "Book"
+msgstr "বই"
+
+#: includes/shapes.php:205
+msgctxt "Shapes"
+msgid "Split"
+msgstr "ভাগ"
+
+#: includes/shapes.php:201
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "তীর"
+
+#: includes/shapes.php:197
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "তরঙ্গ প্যাটার্ন"
+
+#: includes/shapes.php:193
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "তরঙ্গ ব্রাশ"
+
+#: includes/shapes.php:138
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "ফোঁটা"
+
+#: includes/shapes.php:188
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "ঢেউখেলানো"
+
+#: includes/shapes.php:183
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "কার্ভ অপ্রতিসম"
+
+#: includes/shapes.php:179
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "কার্ভ"
+
+#: includes/shapes.php:176
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "ফ্যান অপাসিটি"
+
+#: includes/shapes.php:172
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "টালি অপাসিটি"
+
+#: includes/shapes.php:167
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "টালি "
+
+#: includes/shapes.php:162
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "ত্রিভুজ অপ্রতিসম"
+
+#: includes/shapes.php:158
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "ত্রিভুজ"
+
+#: includes/shapes.php:153
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "পিরামিড"
+
+#: includes/shapes.php:150
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "আঁকাবাঁকা"
+
+#: includes/shapes.php:144
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "মেঘ"
+
+#: includes/shapes.php:134
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "পর্বতমালা"
+
+#: includes/elements/container.php:1092 includes/elements/section.php:1054
+msgid "Invert"
+msgstr "উল্টে রাখা"
+
+#: includes/elements/container.php:1078 includes/elements/section.php:1040
+msgid "Flip"
+msgstr "ওলটানো"
+
+#: includes/elements/container.php:974 includes/elements/section.php:936
+msgid "Shape Divider"
+msgstr "আকার বিভাজক"
+
+#: includes/elements/column.php:773 includes/elements/container.php:1450
+#: includes/elements/section.php:1229 includes/widgets/common.php:579
+msgid "CSS ID"
+msgstr "সিএসএস আইডি"
+
+#: includes/widgets/tabs.php:237
+msgid "Navigation Width"
+msgstr "ন্যাভিগেশন প্রস্থ"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:167
+#: core/kits/documents/tabs/theme-style-images.php:134
+#: core/kits/documents/tabs/theme-style-typography.php:156
+#: includes/elements/column.php:306 includes/elements/column.php:434
+#: includes/elements/column.php:552 includes/elements/container.php:576
+#: includes/elements/container.php:748 includes/elements/container.php:888
+#: includes/elements/section.php:585 includes/elements/section.php:740
+#: includes/elements/section.php:857 includes/widgets/common.php:688
+#: includes/widgets/common.php:1209 includes/widgets/common.php:1303
+#: includes/widgets/google-maps.php:225 includes/widgets/icon-box.php:301
+#: includes/widgets/icon-list.php:412 includes/widgets/icon-list.php:505
+#: includes/widgets/icon.php:248 includes/widgets/image-box.php:361
+#: includes/widgets/image.php:420 includes/widgets/traits/button-trait.php:309
+#: modules/shapes/widgets/text-path.php:427
+#: modules/shapes/widgets/text-path.php:567
+msgid "Hover"
+msgstr "হভার"
+
+#: includes/elements/column.php:779 includes/elements/container.php:1456
+#: includes/elements/section.php:1235 includes/widgets/common.php:585
+#: includes/widgets/traits/button-trait.php:220
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "# কী ছাড়া আপনার কাস্টম আইডি যোগ করুন যেমন: my-id"
+
+#: includes/controls/groups/background.php:187
+msgctxt "Background Control"
+msgid "Type"
+msgstr "ধরণ"
+
+#: includes/controls/groups/background.php:146
+#: includes/controls/groups/background.php:172
+msgctxt "Background Control"
+msgid "Location"
+msgstr "জায়গা"
+
+#: includes/controls/groups/background.php:161
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "দ্বিতীয় রঙ"
+
+#: includes/controls/groups/background.php:202
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "কোণ"
+
+#: includes/controls/groups/background.php:191
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "রশ্মীয়"
+
+#: includes/controls/groups/background.php:190
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "রৈখিক"
+
+#: includes/controls/groups/background.php:99
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr "গ্রেডিয়েন্ট"
+
+#: includes/settings/settings.php:481
+msgid "Checking this box will disable Elementor's Default Fonts, and make Elementor inherit the fonts from your theme."
+msgstr "এই বাক্সটি চেক করলে এলিমেন্টর এর ডিফল্ট হরফ অক্ষম হবে এবং এলিমেন্টর আপনার থিম থেকে হরফ উত্তোলন করবে।"
+
+#: includes/settings/settings.php:473
+msgid "Checking this box will disable Elementor's Default Colors, and make Elementor inherit the colors from your theme."
+msgstr "এই বাক্সটি চেক করলে এলিমেন্টর এর ডিফল্ট রঙগুলি নিষ্ক্রিয় হবে এবং এলিমেন্টর আপনার থিম থেকে রঙ ব্যবহার করবে ।"
+
+#: core/admin/admin.php:328
+msgid "Video Tutorials"
+msgstr "ভিডিও প্রশিক্ষণগুলো"
+
+#: core/admin/admin.php:328
+msgid "View Elementor Video Tutorials"
+msgstr "এলিমেন্টর এর ভিডিও প্রশিক্ষণগুলো দেখুন"
+
+#: core/admin/admin.php:327
+msgid "Docs & FAQs"
+msgstr "ডক্স & প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী"
+
+#: core/admin/admin.php:327
+msgid "View Elementor Documentation"
+msgstr "এলিমেন্টর নথি দেখুন"
+
+#: includes/utils.php:169
+msgid "The `from` and `to` URL's must be different"
+msgstr "`থেকে` এবং` প্রতি` লিংক আলাদা হতে হবে"
+
+#: includes/settings/tools.php:327
+msgid "Enter your old and new URLs for your WordPress installation, to update all Elementor data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "আপনার ওয়ার্ডপ্রেস ইনস্টলেশনের জন্য আপনার পুরানো ও নতুন লিংক লিখুন, সব এলিমেন্টর ডেটা আপডেট করতে (ডোমেন স্থানান্তরের জন্য বা 'HTTPS' তে গিয়াছেন তার জন্য প্রাসঙ্গিক)।"
+
+#: includes/settings/tools.php:323
+msgid "Update Site Address (URL)"
+msgstr "সাইটের ঠিকানা (URL) হালনাগাদ করুন"
+
+#. translators: %s: WordPress backups documentation.
+#: includes/settings/tools.php:313
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr ""
+"<strong>গুরুত্বপূর্ণঃ</strong> এটি দৃঢ়ভাবে আপনি সুপারিশ করা হয় যে\n"
+" <a target=\"_blank\" href=\"%s\"> আপনার ডাটাবেস ব্যাকআপ করুন\n"
+"</a> URL টি প্রতিস্থাপন করার পূর্বে।"
+
+#: core/common/modules/finder/categories/tools.php:56
+#: includes/settings/tools.php:307 includes/settings/tools.php:318
+#: includes/settings/tools.php:326
+msgid "Replace URL"
+msgstr "URL টি প্রতিস্থাপন করুন"
+
+#. translators: 1: Human readable time difference, 2: Date.
+#: modules/history/revisions-manager.php:179
+msgid "%1$s ago (%2$s)"
+msgstr "%1$s পূর্বে (%2$s)"
+
+#: modules/history/revisions-manager.php:151
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "M j @ H:i"
+
+#: modules/history/revisions-manager.php:160
+msgid "Autosave"
+msgstr "স্বয়ংক্রিয় সংরক্ষণ"
+
+#: modules/history/revisions-manager.php:163
+msgid "Revision"
+msgstr "সংস্করণ"
+
+#: modules/history/views/revisions-panel-template.php:36
+msgid "It looks like the post revision feature is unavailable in your website."
+msgstr "মনে হচ্ছে প্রকাশনা পুনর্বিবেচনা বৈশিষ্ট্যটি আপনার ওয়েবসাইটে অনুপলব্ধ।"
+
+#: modules/history/views/revisions-panel-template.php:34
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "পুনর্বিবেচনা ইতিহাস আপনাকে আপনার কাজের আগের সংস্করণগুলি সংরক্ষণ করতে এবং তাদের যে কোনো সময় পুনরুদ্ধার করতে দেয়।"
+
+#: modules/history/views/revisions-panel-template.php:63
+msgid "By"
+msgstr "দ্বারা"
+
+#: modules/history/views/revisions-panel-template.php:47
+msgid "No Revisions Saved Yet"
+msgstr "এখনও কোন পুনর্বিবেচনা সংরক্ষিত হয়নি"
+
+#: includes/utils.php:174
+msgid "The `from` and `to` URL's must be valid URL's"
+msgstr "`from` এবং `to` URL অবশ্যই বৈধ URL হতে হবে"
+
+#: includes/widgets/counter.php:170
+msgid "Thousand Separator"
+msgstr "হাজার বিভাজক"
+
+#: includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:431
+#: includes/controls/groups/background.php:462
+#: includes/controls/groups/background.php:483
+msgctxt "Background Control"
+msgid "Default"
+msgstr "পূর্বনিরধারিত"
+
+#: includes/widgets/common.php:731 includes/widgets/common.php:893
+#: includes/widgets/common.php:1381 includes/widgets/icon-list.php:263
+#: includes/widgets/text-editor.php:122 includes/widgets/video.php:608
+#: modules/shapes/widgets/text-path.php:204
+msgid "Off"
+msgstr "বন্ধ"
+
+#: includes/widgets/common.php:730 includes/widgets/common.php:892
+#: includes/widgets/common.php:1380 includes/widgets/icon-list.php:264
+#: includes/widgets/text-editor.php:123 includes/widgets/video.php:609
+#: modules/shapes/widgets/text-path.php:203
+msgid "On"
+msgstr "চালু"
+
+#: core/admin/admin.php:302 core/admin/admin.php:504
+#: core/editor/notice-bar.php:29 core/role-manager/role-manager.php:171
+#: includes/editor-templates/panel-elements.php:23
+#: includes/editor-templates/panel-elements.php:63
+#: includes/managers/controls.php:1058 includes/settings/settings.php:177
+#: includes/settings/settings.php:316 includes/settings/settings.php:338
+#: includes/settings/settings.php:360 includes/settings/settings.php:381
+#: includes/settings/settings.php:631 assets/js/app-packages.js:7138
+#: assets/js/app-packages.js:7428 assets/js/app-packages.js:7463
+#: assets/js/app.js:4678 assets/js/editor.js:9022
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:934
+msgid "Go Pro"
+msgstr "প্রোতে যাও"
+
+#: includes/managers/controls.php:978
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "কাস্টম সিএসএস আপনাকে কোনও উইজেটে সিএসএস কোড যোগ করতে দেয়, এবং এটি এডিটরে সরাসরি ডানে দেখতে দেয়।"
+
+#: includes/managers/controls.php:990
+msgid "Meet Our Custom CSS"
+msgstr "আমাদের কাস্টম সিএসএস দেখুন"
+
+#: core/kits/documents/tabs/settings-custom-css.php:17
+#: includes/managers/controls.php:972
+msgid "Custom CSS"
+msgstr "কাস্টম সিএসএস"
+
+#: includes/editor-templates/panel-elements.php:62
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "এই বৈশিষ্ট্যটি দিয়ে, আপনি একটি উইজেটকে বিশ্বব্যাপী সংরক্ষণ করতে পারেন, তারপর এটি একাধিক এলাকার মধ্যে যোগ করুন। সমস্ত এলাকাসমূহ এক একক জায়গা থেকে সম্পাদনাযোগ্য হবে।"
+
+#: includes/editor-templates/panel-elements.php:61
+msgid "Meet Our Global Widget"
+msgstr "আমাদের গ্লোবাল উইজেট দেখুন"
+
+#: includes/editor-templates/panel-elements.php:22
+msgid "Get more with Elementor Pro"
+msgstr "এলিমেন্টর প্রো এর সাথে আরও পান"
+
+#: includes/editor-templates/panel-elements.php:11
+#: assets/js/editor-document.js:6849 assets/js/editor.js:31346
+msgid "Global"
+msgstr "সার্বজনীন"
+
+#: includes/widgets/traits/button-trait.php:37
+msgid "Extra Large"
+msgstr "অতিরিক্ত বড়"
+
+#: includes/widgets/traits/button-trait.php:33
+msgid "Extra Small"
+msgstr "অতিরিক্ত ছোট"
+
+#: includes/settings/settings.php:487
+msgid "Improve Elementor"
+msgstr "এলিমেন্টর উন্নত করুন"
+
+#: includes/frontend.php:1148
+msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
+msgstr "অবৈধ ডেটা: টেমপ্লেট আইডিটি বর্তমানে সম্পাদিত টেমপ্লেট হিসাবে একইরকম হতে পারে না। একটি ভিন্ন এক নির্বাচন করুন।"
+
+#: includes/base/widget-base.php:296 includes/base/widget-base.php:305
+msgid "Skin"
+msgstr "চামড়া"
+
+#: includes/editor-templates/panel.php:168
+msgid "%s are disabled"
+msgstr "%s অক্ষম করা আছে"
+
+#: includes/editor-templates/panel.php:149
+msgid "Update changes to page"
+msgstr "পৃষ্ঠাতে পরিবর্তনগুলি হালনাগাদ করুন"
+
+#: core/admin/admin-notices.php:243
+msgid "No thanks"
+msgstr "না ধন্যবাদ"
+
+#: core/kits/documents/tabs/settings-layout.php:134
+msgid "Enter parent element selector to which stretched sections will fit to (e.g. #primary / .wrapper / main etc). Leave blank to fit to page width."
+msgstr "প্রসারিত বিভাগগুলি (e.g. #primary / .wrapper / main etc) মাপসই করা হবে এমন পিতা বা মাতার উপাদান নির্বাচক লিখুন। পৃষ্ঠা প্রস্থে মাপসই ফাঁকা রাখুন।"
+
+#: core/kits/documents/tabs/settings-layout.php:131
+msgid "Stretched Section Fit To"
+msgstr "প্রসারিত বিভাগ ফিট"
+
+#: core/kits/documents/tabs/settings-layout.php:73
+msgid "Sets the default width of the content area (Default: 1140)"
+msgstr "বিষয়বস্তু এলাকার ডিফল্ট প্রস্থ সেট করে (ডিফল্ট: ১১৪০)"
+
+#: includes/elements/section.php:494
+msgid "Stretch the section to the full width of the page using JS."
+msgstr "JS ব্যবহার করে পৃষ্ঠার পুরো প্রস্থে বিভাগটি প্রসারিত করুন।"
+
+#: includes/elements/section.php:488
+msgid "Stretch Section"
+msgstr "বিভিগ প্রসারিত করুন"
+
+#: core/admin/admin-notices.php:232 includes/elements/section.php:494
+#: includes/settings/settings-page.php:374
+msgid "Learn more."
+msgstr "আরও জানুন।"
+
+#: includes/elements/section.php:1327
+msgid "Reverse Columns"
+msgstr "কলাম বিপরীত"
+
+#: core/breakpoints/manager.php:313
+#: core/settings/editor-preferences/model.php:133
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:4520
+msgid "Mobile"
+msgstr "মোবাইল"
+
+#: includes/controls/dimensions.php:135 includes/controls/dimensions.php:138
+msgid "Link values together"
+msgstr "লিংক মান একসঙ্গে"
+
+#: includes/widgets/shortcode.php:42 includes/widgets/shortcode.php:99
+msgid "Shortcode"
+msgstr "শর্ট কোড"
+
+#: includes/template-library/sources/remote.php:46
+msgid "Remote"
+msgstr "দূরস্থিত"
+
+#: includes/template-library/sources/local.php:926
+msgid "Import Now"
+msgstr "এখন আমদানি করুন"
+
+#: includes/template-library/sources/local.php:917
+msgid "Import Templates"
+msgstr "দটেম্পলেটগুলি আমদানি করুন"
+
+#: includes/template-library/sources/local.php:889
+msgid "Export Template"
+msgstr "টেমপ্লেট রপ্তানি করুন"
+
+#: includes/template-library/sources/local.php:476
+msgid "(no title)"
+msgstr "(কোনো শিরোনাম নেই)"
+
+#: includes/template-library/sources/local.php:277
+msgctxt "Template Library"
+msgid "Type"
+msgstr "রুপ"
+
+#: includes/template-library/sources/local.php:237
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "ট্র্যাশে কোনও টেমপ্লেট পাওয়া যায় নি"
+
+#: includes/template-library/sources/local.php:236
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "কোন টেমপ্লেট পাওয়া যায় নি"
+
+#: includes/template-library/sources/local.php:235
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "টেমপ্লেট অনুসন্ধান করুন"
+
+#: includes/template-library/sources/local.php:234
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "টেমপ্লেট দেখুন"
+
+#: includes/template-library/sources/local.php:233
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "সমস্ত টেমপ্লেট"
+
+#: includes/template-library/sources/local.php:232
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "নতুন টেমপ্লেট"
+
+#: includes/template-library/sources/local.php:231
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "টেমপ্লেট সম্পাদনা করুন"
+
+#: includes/template-library/sources/local.php:230
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "নতুন টেমপ্লেট যোগ করুন"
+
+#: includes/template-library/sources/local.php:229
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "নতুন যুক্ত করুন"
+
+#: includes/template-library/sources/local.php:228
+msgctxt "Template Library"
+msgid "Template"
+msgstr "টেমপ্লেট"
+
+#: includes/template-library/sources/local.php:201
+msgid "Local"
+msgstr "স্থানীয়"
+
+#: includes/settings/tools.php:299
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "এলিমেন্টর লাইব্রেরী স্বয়ংক্রিয়ভাবে একটি দৈনিক ভিত্তিতে আপডেট হয়। আপনি সিঙ্ক বাটনটি ক্লিক করে ম্যানুয়ালি আপডেট করতে পারেন।"
+
+#: includes/editor-templates/templates.php:14
+#: includes/editor-templates/templates.php:15 includes/settings/tools.php:295
+#: includes/settings/tools.php:298
+msgid "Sync Library"
+msgstr "সিঙ্ক লাইব্রেরি"
+
+#: core/common/modules/finder/categories/tools.php:28
+#: core/common/modules/finder/categories/tools.php:50
+#: includes/settings/tools.php:28 includes/settings/tools.php:29
+#: includes/settings/tools.php:49 includes/settings/tools.php:50
+#: includes/settings/tools.php:421
+msgid "Tools"
+msgstr "সরঞ্জামসমূহ"
+
+#: core/document-types/page.php:37 modules/library/documents/page.php:57
+#: assets/js/editor.js:11108
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#: includes/utils.php:187 assets/js/editor.js:11274
+msgid "An error occurred"
+msgstr "একটি ত্রুটি ঘটেছে"
+
+#: includes/editor-templates/templates.php:224
+msgid "Enter Template Name"
+msgstr "টেমপ্লেট নাম লিখুন"
+
+#: includes/editor-templates/templates.php:190
+#: includes/template-library/sources/local.php:1104 assets/js/app.js:14351
+msgid "Export"
+msgstr "রপ্তানি"
+
+#: includes/editor-templates/templates.php:134
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "সাথে থাকুন! আরও অসাধারণ টেমপ্লেট শীঘ্রই আসছে"
+
+#: includes/editor-templates/templates.php:37
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:1437
+msgid "Back to Library"
+msgstr "লাইব্রেরিতে ফিরে যান"
+
+#: includes/editor-templates/templates.php:176
+#: includes/editor-templates/templates.php:200 assets/js/editor.js:9349
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#: core/common/modules/connect/apps/library.php:15 assets/js/editor.js:11494
+msgid "Library"
+msgstr "লাইব্রেরি"
+
+#: includes/editor-templates/global.php:18
+#: includes/editor-templates/library-layout.php:15
+#: includes/editor-templates/library-layout.php:16
+#: includes/editor-templates/responsive-bar.php:65
+#: includes/editor-templates/responsive-bar.php:66 includes/frontend.php:1308
+#: assets/js/app-packages.js:2910 assets/js/app-packages.js:5205
+#: assets/js/app-packages.js:5823 assets/js/app.js:4066 assets/js/app.js:6579
+#: assets/js/app.js:7045 assets/js/app.js:9488 assets/js/app.js:10488
+#: assets/js/app.js:14277 assets/js/editor.js:42815
+msgid "Close"
+msgstr "বন্ধ করুন"
+
+#: includes/editor-templates/global.php:37
+#: includes/editor-templates/global.php:52
+msgid "Select your Structure"
+msgstr "আপনার গঠন নির্বাচন করুন"
+
+#: includes/editor-templates/global.php:31
+msgid "Add Template"
+msgstr "টেমপ্লেট যোগ করুন"
+
+#. translators: %s: WordPress child themes documentation.
+#: modules/system-info/reporters/theme.php:207
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr "আপনি যদি আপনার থিমের কোড পরিবর্তন করতে চান, তাহলে আমরা একটি <a href=\"%s\"> শিশু থিম </a> ব্যবহার করার সুপারিশ করছি।"
+
+#: core/admin/admin-notices.php:329 core/admin/admin-notices.php:370
+#: core/admin/admin-notices.php:412 core/admin/admin-notices.php:454
+#: core/admin/admin-notices.php:496
+#: core/app/modules/import-export/module.php:309
+#: core/app/modules/import-export/module.php:321
+#: core/experiments/manager.php:218 core/experiments/manager.php:231
+#: core/experiments/manager.php:244 core/experiments/manager.php:257
+#: core/experiments/manager.php:267 core/experiments/manager.php:295
+#: includes/controls/url.php:76 includes/settings/settings.php:376
+#: modules/safe-mode/module.php:392 modules/safe-mode/module.php:401
+#: modules/safe-mode/mu-plugin/elementor-safe-mode.php:104
+#: assets/js/app-packages.js:3651 assets/js/app-packages.js:7226
+#: assets/js/app-packages.js:7362 assets/js/app.js:5137 assets/js/app.js:9828
+#: assets/js/app.js:11109 assets/js/app.js:12618 assets/js/app.js:12984
+#: assets/js/app.js:13024 assets/js/app.js:14276 assets/js/editor.js:14952
+#: assets/js/editor.js:23692 assets/js/editor.js:23724
+#: assets/js/editor.js:35001
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:1186
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:3878
+msgid "Learn More"
+msgstr "আরও জানুন"
+
+#: includes/widgets/icon-box.php:337 includes/widgets/icon.php:286
+#: includes/widgets/image-box.php:298 includes/widgets/image.php:470
+#: includes/widgets/social-icons.php:539
+#: includes/widgets/traits/button-trait.php:362
+#: modules/shapes/widgets/text-path.php:446
+msgid "Hover Animation"
+msgstr "হভার অ্যানিমেশন"
+
+#: includes/controls/groups/background.php:486
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "ধারণ করা"
+
+#: includes/elements/column.php:848 includes/elements/container.php:1512
+#: includes/elements/section.php:1284 includes/widgets/common.php:640
+msgid "Fast"
+msgstr "দ্রুত"
+
+#: includes/elements/column.php:846 includes/elements/container.php:1510
+#: includes/elements/section.php:1282 includes/widgets/common.php:638
+msgid "Slow"
+msgstr "ধীরে"
+
+#: includes/settings/settings.php:469
+msgid "Disable Default Colors"
+msgstr "পূর্বনির্ধারিত রং অক্ষম করুন"
+
+#: core/schemes/typography.php:78
+msgid "Default Fonts"
+msgstr "পূর্বনির্ধারিত ফন্ট"
+
+#: core/schemes/color.php:80
+msgid "Color Palettes"
+msgstr "রঙ প্যালেট"
+
+#: includes/elements/column.php:833 includes/elements/container.php:1497
+#: includes/elements/section.php:1269 includes/widgets/common.php:625
+#: includes/widgets/video.php:816
+msgid "Entrance Animation"
+msgstr "প্রবেশ অ্যানিমেশন"
+
+#: includes/controls/groups/box-shadow.php:73
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr "ধুকান"
+
+#: includes/controls/groups/box-shadow.php:61
+#: includes/controls/groups/box-shadow.php:96
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr "বক্স শ্যাডো"
+
+#: includes/controls/box-shadow.php:73 includes/controls/text-shadow.php:76
+#: includes/widgets/tabs.php:157
+msgid "Vertical"
+msgstr "উল্লম্ব"
+
+#: includes/controls/box-shadow.php:68 includes/controls/text-shadow.php:71
+#: includes/widgets/tabs.php:156
+msgid "Horizontal"
+msgstr "অনুভূমিক"
+
+#: includes/controls/box-shadow.php:83
+msgid "Spread"
+msgstr "বিস্তার"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:66
+msgid "Blur"
+msgstr "দাগ"
+
+#: includes/widgets/testimonial.php:171
+msgid "Aside"
+msgstr "পাশে"
+
+#: includes/widgets/testimonial.php:45 includes/widgets/testimonial.php:88
+msgid "Testimonial"
+msgstr "এজাহারনামা"
+
+#: includes/widgets/social-icons.php:189 includes/widgets/social-icons.php:347
+msgid "Official Color"
+msgstr "অফিসিয়াল রঙ"
+
+#: includes/widgets/social-icons.php:261
+msgid "Rounded"
+msgstr "গোলাকৃতি"
+
+#: includes/widgets/social-icons.php:42 includes/widgets/social-icons.php:85
+#: includes/widgets/social-icons.php:227
+msgid "Social Icons"
+msgstr "সামাজিক আইকন"
+
+#: includes/widgets/progress.php:101
+msgid "My Skill"
+msgstr "আমার দক্ষতা"
+
+#: includes/widgets/audio.php:232
+msgid "Username"
+msgstr "ব্যবহারকারীর নাম"
+
+#: includes/widgets/audio.php:221
+msgid "Play Counts"
+msgstr "খেলা গণনা"
+
+#: includes/widgets/audio.php:210
+msgid "Comments"
+msgstr "মন্তব্য"
+
+#: includes/widgets/audio.php:199
+msgid "Share Button"
+msgstr "ভাগ বোতাম"
+
+#: includes/widgets/audio.php:174 includes/widgets/video.php:506
+msgid "Download Button"
+msgstr "ডাউনলোড বোতাম"
+
+#: includes/widgets/audio.php:152
+msgid "Buy Button"
+msgstr "কিনুন বোতাম"
+
+#: includes/elements/column.php:347 includes/elements/container.php:623
+#: includes/elements/section.php:626
+msgid "Background Overlay"
+msgstr "পটভূমি ওভারলে"
+
+#: includes/widgets/audio.php:163
+msgid "Like Button"
+msgstr "লাইক বাটন"
+
+#: includes/elements/section.php:287
+msgid "Extended"
+msgstr "সম্প্রসারিত"
+
+#: includes/widgets/audio.php:122
+msgid "Visual Player"
+msgstr "ভিজুয়াল প্লেয়ার"
+
+#: includes/widgets/audio.php:53 includes/widgets/audio.php:96
+msgid "SoundCloud"
+msgstr "সাউন্ড ক্লাউড"
+
+#: core/admin/feedback.php:134
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "আপনার যদি সময় থাকে, আপনি কেন এলিমেন্টর নিষ্ক্রিয় করছনে তা বলুন:"
+
+#: core/admin/feedback.php:126
+msgid "Quick Feedback"
+msgstr "দ্রুত প্রতিক্রিয়া"
+
+#: core/admin/feedback.php:118
+msgid "Please share the reason"
+msgstr "দয়া করে কারণ শেয়ার করুন"
+
+#: core/admin/feedback.php:117
+msgid "Other"
+msgstr "অন্যান্য"
+
+#: core/admin/feedback.php:108
+msgid "It's a temporary deactivation"
+msgstr "এটি একটি অস্থায়ী নিষ্ক্রিয়তা"
+
+#: core/admin/feedback.php:104
+msgid "I couldn't get the plugin to work"
+msgstr "আমি প্লাগইন কাজ করাতে পারি নি"
+
+#: core/admin/feedback.php:101
+msgid "Please share which plugin"
+msgstr "দয়া করে বলুন কোন প্লাগইন "
+
+#: core/admin/feedback.php:100
+msgid "I found a better plugin"
+msgstr "আমি এর চেয়ে ভাল প্লাগইন পেয়েছি"
+
+#: core/admin/feedback.php:96
+msgid "I no longer need the plugin"
+msgstr "আমার প্লাগইন আর প্রয়োজন নেই"
+
+#: core/admin/admin-notices.php:152 core/base/db-upgrades-manager.php:93
+msgid "Update Now"
+msgstr "এখন হালনাগাদ করুন"
+
+#. translators: %s: Elementor version.
+#: core/admin/admin-notices.php:139
+msgid "View Elementor version %s details"
+msgstr "এলিমেন্টর %s সংস্করণ বিবরণ দেখুন"
+
+#. translators: 1: Details URL, 2: Accessibility text, 3: Version number, 4:
+#. Update URL, 5: Accessibility text.
+#: core/admin/admin-notices.php:135
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "এলিমেন্টর এর একটি নতুন সংস্করণ আছে । <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">%3$s সংস্করণ বিবরণ দেখুন </a> অথবা <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">এখন হালনাগাদ করুন</a>।"
+
+#: includes/widgets/image-carousel.php:186 includes/widgets/image.php:195
+msgid "Custom URL"
+msgstr "কাস্টম URL"
+
+#: core/kits/documents/tabs/settings-background.php:18
+#: includes/elements/column.php:273 includes/elements/container.php:538
+#: includes/elements/section.php:553 includes/widgets/accordion.php:287
+#: includes/widgets/accordion.php:452 includes/widgets/common.php:1182
+#: includes/widgets/toggle.php:314 includes/widgets/toggle.php:471
+#: includes/widgets/traits/button-trait.php:286
+#: includes/widgets/traits/button-trait.php:331
+msgid "Background"
+msgstr "পটভূমি"
+
+#: includes/elements/section.php:289
+msgid "Wider"
+msgstr "বৃহত্তর"
+
+#: core/common/modules/finder/categories/general.php:29
+#: core/role-manager/role-manager.php:60 includes/managers/elements.php:288
+#: includes/settings/settings.php:448 includes/settings/tools.php:282
+msgid "General"
+msgstr "সাধারণ"
+
+#: includes/widgets/video.php:480
+msgid "Intro Byline"
+msgstr "ইন্ট্রো বাইলাইন"
+
+#: includes/widgets/accordion.php:424 includes/widgets/divider.php:760
+#: includes/widgets/divider.php:900 includes/widgets/icon-box.php:349
+#: includes/widgets/icon-box.php:537 includes/widgets/image-box.php:225
+#: includes/widgets/image-box.php:461 includes/widgets/image-carousel.php:581
+#: includes/widgets/image-gallery.php:191 includes/widgets/image.php:602
+#: includes/widgets/social-icons.php:428 includes/widgets/star-rating.php:291
+#: includes/widgets/toggle.php:443
+msgid "Spacing"
+msgstr "ব্যবধান"
+
+#: includes/widgets/image-carousel.php:418
+#: includes/widgets/image-carousel.php:481
+msgid "Outside"
+msgstr "বাহিরে"
+
+#: includes/widgets/image-carousel.php:417
+#: includes/widgets/image-carousel.php:482
+msgid "Inside"
+msgstr "ভিতরে"
+
+#: includes/controls/groups/background.php:776
+#: includes/widgets/image-carousel.php:375
+msgid "Direction"
+msgstr "অভিমুখ"
+
+#: includes/widgets/audio.php:135 includes/widgets/image-carousel.php:253
+msgid "Additional Options"
+msgstr "অতিরিক্ত অপশন"
+
+#: includes/widgets/image-carousel.php:168
+msgid "Arrows and Dots"
+msgstr "তীর এবং বিন্দু"
+
+#: includes/widgets/alert.php:194
+msgid "Left Border Width"
+msgstr "বাম সীমানা প্রস্থ"
+
+#: includes/elements/column.php:842 includes/elements/container.php:1506
+#: includes/elements/section.php:1278 includes/widgets/common.php:634
+#: includes/widgets/counter.php:159
+msgid "Animation Duration"
+msgstr "অ্যানিমেশন সময়কাল"
+
+#: includes/widgets/image-carousel.php:151
+msgid "Image Stretch"
+msgstr "চিত্র বিস্তার"
+
+#: includes/widgets/image-carousel.php:45
+#: includes/widgets/image-carousel.php:88
+msgid "Image Carousel"
+msgstr "চিত্র ক্যারোজেল"
+
+#: includes/widgets/image-carousel.php:364
+msgid "Animation Speed"
+msgstr "অ্যানিমেশনের গতি"
+
+#: includes/controls/groups/image-size.php:297
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "আপনি যেকোন কাস্টম আকারে মূল চিত্রটি কাটাতে পারেন। আপনি মূল আকার অনুপাত রাখতে উচ্চতা বা প্রস্থের যেকোনো একটি মান সেট করতে পারেন।"
+
+#: includes/widgets/audio.php:243 includes/widgets/video.php:494
+msgid "Controls Color"
+msgstr "রঙ নিয়ন্ত্রণ"
+
+#: includes/widgets/video.php:466
+msgid "Intro Portrait"
+msgstr "ইন্ট্রো পোর্ট্রেট"
+
+#: includes/widgets/video.php:452
+msgid "Intro Title"
+msgstr "ইন্ট্রো শিরোনাম"
+
+#: includes/widgets/video.php:320
+msgid "Loop"
+msgstr "লুপ"
+
+#: includes/widgets/video.php:268
+msgid "Video Options"
+msgstr "ভিডিও অপশন্‌স"
+
+#: includes/widgets/video.php:115
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:44 includes/widgets/video.php:103
+#: includes/widgets/video.php:623
+msgid "Video"
+msgstr "ভিডিও"
+
+#: includes/widgets/image-gallery.php:263
+msgid "Display"
+msgstr "প্রদর্শন"
+
+#: includes/controls/image-dimensions.php:81
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "সার্ভারে ImageMagick বা GD ইনস্টল এবং / বা সক্ষম নেই! ইমেজ আকার পরিবর্তন করতে সক্ষম হতে জন্য এই লাইব্রেরি প্রয়োজন হয় ওয়ার্ডপ্রেস এর। চালিয়ে যাওয়ার আগে এটি সক্রিয় করতে আপনার সার্ভার প্রশাসকের সাথে যোগাযোগ করুন।"
+
+#: includes/controls/groups/image-size.php:295
+msgctxt "Image Size Control"
+msgid "Image Dimension"
+msgstr "চিত্র মাত্রা"
+
+#: includes/controls/groups/image-size.php:378
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "প্রথা"
+
+#: includes/controls/groups/border.php:67
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "ড্যাশ"
+
+#: includes/controls/groups/border.php:66
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "ফুটকিত্তয়ালা"
+
+#: includes/controls/groups/border.php:65
+msgctxt "Border Control"
+msgid "Double"
+msgstr "ডবল"
+
+#: includes/controls/groups/border.php:64
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "কঠিন"
+
+#: includes/widgets/image-carousel.php:352
+msgid "Fade"
+msgstr "বিলীন"
+
+#: includes/widgets/image-carousel.php:347
+msgid "Effect"
+msgstr "প্রভাব"
+
+#: includes/controls/groups/image-size.php:375
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "সম্পূর্ণ"
+
+#: includes/widgets/icon-box.php:513 includes/widgets/image-box.php:437
+msgid "Vertical Alignment"
+msgstr "উল্লম্ব প্রান্তিককরণ"
+
+#: includes/controls/groups/background.php:661
+#: includes/widgets/image-carousel.php:333
+msgid "Infinite Loop"
+msgstr "অগণিত চক্র"
+
+#: includes/widgets/image-carousel.php:170
+msgid "Dots"
+msgstr "বিন্দু"
+
+#: includes/controls/groups/image-size.php:290
+msgctxt "Image Size Control"
+msgid "Image Size"
+msgstr "ছবির আকার"
+
+#: includes/controls/groups/typography.php:185
+msgctxt "Typography Control"
+msgid "None"
+msgstr "কিছুনা"
+
+#: includes/widgets/accordion.php:207 includes/widgets/icon-box.php:218
+#: includes/widgets/image-box.php:186 includes/widgets/toggle.php:211
+msgid "Title HTML Tag"
+msgstr "শিরোনাম এইচটিএমএল ট্যাগ"
+
+#: includes/widgets/icon-box.php:146 includes/widgets/image-box.php:123
+msgid "This is the heading"
+msgstr "এটি শিরোনাম"
+
+#: includes/elements/column.php:795 includes/elements/container.php:1472
+#: includes/elements/section.php:1251 includes/widgets/common.php:600
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "ডট ছাড়া আপনার কাস্টম বর্গ যোগ করুন যেমন:my-class"
+
+#: core/kits/documents/tabs/global-typography.php:195
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "নির্বাচিত ফন্ট উপলব্ধ না হলে ফন্টের তালিকা।"
+
+#: includes/managers/elements.php:329
+msgid "Pojo Themes"
+msgstr "পোজো থিমগুলি"
+
+#: includes/widgets/wordpress.php:234
+msgid "Form"
+msgstr "ফর্ম"
+
+#: modules/system-info/reporters/server.php:122
+msgctxt "System Info"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "আমরা পিএইচপি 5.4 বা উচ্চতর ব্যবহার করার সুপারিশ করি"
+
+#: includes/editor-templates/panel-elements.php:10
+#: assets/js/editor-document.js:5857 assets/js/editor-document.js:8038
+#: assets/js/editor-document.js:8569 assets/js/editor.js:18628
+#: assets/js/editor.js:31343
+msgid "Elements"
+msgstr "উপাদানসমূহ"
+
+#: core/admin/admin.php:298 core/admin/menu/main.php:75
+#: core/common/modules/finder/categories/settings.php:28
+#: core/dynamic-tags/base-tag.php:171 includes/editor-templates/panel.php:65
+#: includes/editor-templates/responsive-bar.php:61
+#: includes/managers/controls.php:304 includes/settings/settings.php:414
+#: includes/settings/settings.php:593 assets/js/editor.js:10300
+#: assets/js/editor.js:32149 assets/js/editor.js:42965
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: includes/controls/groups/typography.php:172
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "তেরছা"
+
+#: includes/controls/groups/typography.php:171
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "ইট্যালিক"
+
+#: includes/controls/groups/typography.php:160
+#: includes/controls/groups/typography.php:170
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "সাধারণ"
+
+#: includes/controls/groups/typography.php:159
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "বড় করুন"
+
+#: includes/controls/groups/typography.php:158
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "ছোট হাতের"
+
+#: includes/controls/groups/typography.php:157
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "আপারকেস"
+
+#: includes/controls/dimensions.php:88 includes/elements/column.php:188
+#: includes/elements/container.php:990 includes/elements/container.php:1344
+#: includes/elements/section.php:426 includes/elements/section.php:449
+#: includes/elements/section.php:952 includes/widgets/common.php:474
+#: includes/widgets/common.php:1151 includes/widgets/icon-box.php:193
+#: includes/widgets/icon-box.php:516 includes/widgets/image-box.php:170
+#: includes/widgets/image-box.php:440 includes/widgets/testimonial.php:172
+#: includes/widgets/video.php:802
+msgid "Top"
+msgstr "উপরে"
+
+#: includes/fonts.php:68
+msgid "Google"
+msgstr "গুগল"
+
+#: includes/controls/dimensions.php:90 includes/elements/column.php:190
+#: includes/elements/container.php:991 includes/elements/container.php:1348
+#: includes/elements/section.php:428 includes/elements/section.php:451
+#: includes/elements/section.php:953 includes/widgets/common.php:478
+#: includes/widgets/common.php:1159 includes/widgets/icon-box.php:518
+#: includes/widgets/image-box.php:442
+msgid "Bottom"
+msgstr "নিচে"
+
+#: includes/controls/dimensions.php:89 includes/elements/column.php:701
+#: includes/elements/container.php:1227 includes/elements/section.php:1158
+#: includes/widgets/common.php:359 includes/widgets/common.php:360
+#: includes/widgets/common.php:1131 includes/widgets/divider.php:460
+#: includes/widgets/divider.php:748 includes/widgets/divider.php:888
+#: includes/widgets/heading.php:188 includes/widgets/icon-box.php:197
+#: includes/widgets/icon-box.php:496 includes/widgets/icon-list.php:250
+#: includes/widgets/icon-list.php:461 includes/widgets/icon.php:179
+#: includes/widgets/image-box.php:174 includes/widgets/image-box.php:420
+#: includes/widgets/image-carousel.php:380
+#: includes/widgets/image-carousel.php:666
+#: includes/widgets/image-gallery.php:291 includes/widgets/image.php:146
+#: includes/widgets/image.php:539 includes/widgets/social-icons.php:309
+#: includes/widgets/star-rating.php:182 includes/widgets/tabs.php:380
+#: includes/widgets/testimonial.php:198 includes/widgets/text-editor.php:200
+#: includes/widgets/traits/button-trait.php:130
+#: modules/shapes/widgets/text-path.php:169
+msgid "Right"
+msgstr "ডান"
+
+#: modules/gutenberg/module.php:97
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; ওয়ার্ডপ্রেস এডিটরে ফিরে যান"
+
+#: includes/fonts.php:67
+msgid "System"
+msgstr "সিষ্টেম"
+
+#: core/kits/documents/tabs/theme-style-typography.php:116
+#: includes/elements/container.php:466 includes/widgets/audio.php:103
+#: includes/widgets/heading.php:124 includes/widgets/icon-box.php:171
+#: includes/widgets/icon-list.php:147 includes/widgets/icon.php:155
+#: includes/widgets/image-box.php:148 includes/widgets/image-carousel.php:180
+#: includes/widgets/image-carousel.php:194
+#: includes/widgets/image-gallery.php:128 includes/widgets/image.php:189
+#: includes/widgets/image.php:203 includes/widgets/social-icons.php:170
+#: includes/widgets/testimonial.php:155
+#: includes/widgets/traits/button-trait.php:102 includes/widgets/video.php:126
+#: includes/widgets/video.php:148 includes/widgets/video.php:169
+#: modules/shapes/widgets/text-path.php:142
+msgid "Link"
+msgstr "লিঙ্ক"
+
+#: includes/controls/dimensions.php:91 includes/elements/column.php:693
+#: includes/elements/container.php:1226 includes/elements/section.php:1150
+#: includes/widgets/common.php:359 includes/widgets/common.php:360
+#: includes/widgets/common.php:1123 includes/widgets/divider.php:452
+#: includes/widgets/divider.php:740 includes/widgets/divider.php:880
+#: includes/widgets/heading.php:180 includes/widgets/icon-box.php:189
+#: includes/widgets/icon-box.php:488 includes/widgets/icon-list.php:242
+#: includes/widgets/icon-list.php:453 includes/widgets/icon.php:171
+#: includes/widgets/image-box.php:166 includes/widgets/image-box.php:412
+#: includes/widgets/image-carousel.php:379
+#: includes/widgets/image-carousel.php:658
+#: includes/widgets/image-gallery.php:283 includes/widgets/image.php:138
+#: includes/widgets/image.php:531 includes/widgets/social-icons.php:301
+#: includes/widgets/star-rating.php:174 includes/widgets/tabs.php:372
+#: includes/widgets/testimonial.php:190 includes/widgets/text-editor.php:192
+#: includes/widgets/traits/button-trait.php:122
+#: modules/shapes/widgets/text-path.php:161
+msgid "Left"
+msgstr "বামে"
+
+#: core/experiments/manager.php:338
+#: core/settings/editor-preferences/model.php:132
+#: includes/base/widget-base.php:281 includes/controls/animation.php:152
+#: includes/controls/font.php:66 includes/controls/groups/background.php:715
+#: includes/controls/groups/background.php:734
+#: includes/controls/groups/typography.php:145
+#: includes/controls/groups/typography.php:156
+#: includes/controls/groups/typography.php:169
+#: includes/controls/groups/typography.php:181
+#: includes/editor-templates/panel.php:213 includes/elements/column.php:187
+#: includes/elements/column.php:215 includes/elements/column.php:255
+#: includes/elements/container.php:428 includes/elements/container.php:451
+#: includes/elements/container.php:1214 includes/elements/section.php:284
+#: includes/elements/section.php:335 includes/elements/section.php:384
+#: includes/elements/section.php:448 includes/elements/section.php:476
+#: includes/elements/section.php:512 includes/settings/settings.php:565
+#: includes/widgets/common.php:221 includes/widgets/common.php:349
+#: includes/widgets/divider.php:793 includes/widgets/heading.php:143
+#: includes/widgets/icon-box.php:111 includes/widgets/icon-list.php:100
+#: includes/widgets/icon.php:126 includes/widgets/image-carousel.php:122
+#: includes/widgets/image-carousel.php:139
+#: includes/widgets/image-carousel.php:214
+#: includes/widgets/image-carousel.php:584
+#: includes/widgets/image-gallery.php:146
+#: includes/widgets/image-gallery.php:162
+#: includes/widgets/image-gallery.php:194 includes/widgets/image.php:223
+#: includes/widgets/image.php:362 includes/widgets/progress.php:113
+#: includes/widgets/text-editor.php:131 includes/widgets/text-editor.php:266
+#: includes/widgets/traits/button-trait.php:74
+#: modules/page-templates/module.php:296
+#: modules/shapes/widgets/text-path.php:187 assets/js/editor.js:40593
+#: assets/js/editor.js:40605
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: core/admin/admin.php:178 core/admin/admin.php:186 core/base/document.php:493
+#: modules/admin-bar/module.php:123 modules/gutenberg/module.php:100
+#: modules/gutenberg/module.php:110
+msgid "Edit with Elementor"
+msgstr "Elementor দিয়ে সম্পাদনা করুন"
+
+#: core/kits/views/trash-kit-confirmation.php:30
+#: includes/editor-templates/hotkeys.php:60
+#: includes/editor-templates/templates.php:185
+#: assets/js/editor-document.js:14844 assets/js/editor.js:11262
+#: assets/js/editor.js:14654 assets/js/editor.js:23385
+#: assets/js/editor.js:25078 assets/js/editor.js:43176
+msgid "Delete"
+msgstr "মুছুন"
+
+#: includes/controls/icon.php:871 includes/controls/icon.php:872
+msgid "Select Icon"
+msgstr "সিলেক্ট আইকন"
+
+#: core/kits/manager.php:133 includes/elements/section.php:290
+#: includes/maintenance-mode.php:238 includes/widgets/common.php:134
+#: includes/widgets/common.php:224 includes/widgets/common.php:1446
+#: includes/widgets/common.php:1507 includes/widgets/image-carousel.php:585
+#: includes/widgets/image-gallery.php:195 includes/widgets/social-icons.php:190
+#: includes/widgets/social-icons.php:348 modules/shapes/module.php:29
+#: assets/js/editor.js:40602
+msgid "Custom"
+msgstr "কাষ্টম"
+
+#: includes/controls/groups/typography.php:331
+msgctxt "Typography Control"
+msgid "Typography"
+msgstr "টাইপোগ্রাফি"
+
+#: includes/editor-templates/hotkeys.php:75
+#: includes/editor-templates/templates.php:18
+#: includes/editor-templates/templates.php:19
+#: includes/editor-templates/templates.php:218
+#: includes/editor-templates/templates.php:229 assets/js/editor.js:5963
+msgid "Save"
+msgstr "সংরক্ষণ"
+
+#: core/admin/admin.php:497 core/admin/menu/main.php:41
+msgid "Help"
+msgstr "সাহায্য"
+
+#: core/breakpoints/manager.php:323
+#: core/settings/editor-preferences/model.php:134
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:4511
+msgid "Tablet"
+msgstr "ট্যাবলেট"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:92
+#: core/kits/documents/tabs/theme-style-form-fields.php:119
+#: core/kits/documents/tabs/theme-style-images.php:63
+#: core/kits/documents/tabs/theme-style-typography.php:126
+#: includes/controls/groups/typography.php:146 includes/elements/column.php:283
+#: includes/elements/column.php:360 includes/elements/column.php:409
+#: includes/elements/column.php:515 includes/elements/column.php:847
+#: includes/elements/container.php:551 includes/elements/container.php:636
+#: includes/elements/container.php:708 includes/elements/container.php:850
+#: includes/elements/container.php:1511 includes/elements/section.php:563
+#: includes/elements/section.php:636 includes/elements/section.php:700
+#: includes/elements/section.php:822 includes/elements/section.php:1283
+#: includes/widgets/common.php:639 includes/widgets/common.php:688
+#: includes/widgets/common.php:1192 includes/widgets/common.php:1266
+#: includes/widgets/google-maps.php:209 includes/widgets/heading.php:269
+#: includes/widgets/icon-box.php:260 includes/widgets/icon.php:205
+#: includes/widgets/image-box.php:307 includes/widgets/image.php:386
+#: includes/widgets/traits/button-trait.php:264
+#: modules/shapes/widgets/text-path.php:403
+#: modules/shapes/widgets/text-path.php:501
+msgid "Normal"
+msgstr "সাধারণ"
+
+#: core/settings/editor-preferences/model.php:135
+#: includes/base/element-base.php:704 includes/editor-templates/panel.php:242
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:4504
+msgid "Desktop"
+msgstr "ডেস্কটপ"
+
+#: includes/editor-templates/hotkeys.php:108
+#: includes/editor-templates/panel.php:78
+#: includes/editor-templates/panel.php:80
+msgid "Responsive Mode"
+msgstr "রেসপন্সিভ ডিভাইস"
+
+#. Plugin Name of the plugin
+#: core/admin/admin.php:247 core/admin/admin.php:359 core/admin/admin.php:417
+#: core/admin/menu/main.php:17 core/admin/menu/main.php:18 core/app/view.php:23
+#: core/documents-manager.php:363 core/upgrade/custom-tasks-manager.php:29
+#: core/upgrade/manager.php:36 includes/editor-templates/editor-wrapper.php:30
+#: includes/plugin.php:871 includes/settings/settings.php:76
+#: includes/settings/settings.php:77 includes/settings/settings.php:596
+#: modules/compatibility-tag/module.php:36 assets/js/app-packages.js:2632
+#: assets/js/app.js:3788
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/controls/groups/background.php:232
+#: includes/controls/groups/background.php:277
+#: includes/controls/groups/background.php:739
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "উপরে বামে"
+
+#: includes/controls/groups/background.php:225
+#: includes/controls/groups/background.php:267
+msgctxt "Background Control"
+msgid "Position"
+msgstr "অবস্থান"
+
+#: includes/controls/groups/background.php:256
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr "পৃষ্ঠভূমি চিত্র"
+
+#: includes/controls/groups/background.php:250
+msgctxt "Background Control"
+msgid "Image"
+msgstr "চিত্র"
+
+#: includes/controls/groups/background.php:136
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "পৃষ্ঠভূমি রঙ"
+
+#: includes/controls/groups/background.php:133
+msgctxt "Background Control"
+msgid "Color"
+msgstr "রঙ"
+
+#: includes/widgets/divider.php:321 includes/widgets/icon-list.php:279
+msgid "Double"
+msgstr "দ্বিগুণ"
+
+#: includes/widgets/divider.php:320 includes/widgets/icon-list.php:278
+#: includes/widgets/star-rating.php:143
+msgid "Solid"
+msgstr "নিরেট"
+
+#: core/kits/documents/tabs/settings-lightbox.php:99
+#: core/kits/documents/tabs/settings-lightbox.php:116
+#: includes/controls/animation.php:153 includes/controls/groups/border.php:63
+#: includes/controls/hover-animation.php:125 includes/controls/icons.php:106
+#: includes/controls/icons.php:190 includes/elements/container.php:982
+#: includes/elements/section.php:944 includes/widgets/divider.php:479
+#: includes/widgets/image-carousel.php:171
+#: includes/widgets/image-carousel.php:184
+#: includes/widgets/image-carousel.php:231
+#: includes/widgets/image-gallery.php:134 includes/widgets/image.php:162
+#: includes/widgets/image.php:193
+msgid "None"
+msgstr "কোনটাই না"
+
+#: includes/controls/groups/border.php:60
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "সীমান্ত প্রকার"
+
+#: includes/controls/groups/background.php:634
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr "পৃষ্ঠভূমি ফালব্যাক"
+
+#: includes/controls/groups/background.php:554
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr "ভিডিও লিঙ্ক"
+
+#: includes/controls/groups/background.php:484
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "স্বয়ংক্রিয়"
+
+#. translators: %s: PHP version.
+#: elementor.php:81
+msgid "Elementor requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "এলেমেনটরের পিএইচপি সংস্করণ %s+ প্রয়োজন, প্লাগইনটি বর্তমানে চলছে না"
+
+#: includes/controls/groups/background.php:127
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "ব্যাকগ্রাউন্ডের প্রকার"
+
+#: includes/widgets/divider.php:322 includes/widgets/icon-list.php:280
+msgid "Dotted"
+msgstr "ডটেড"
+
+#: includes/editor-templates/global.php:24
+msgid "Add New Section"
+msgstr "নতুন অংশ যোগ করুন"
+
+#: core/admin/admin.php:197 includes/editor-templates/editor-wrapper.php:50
+#: includes/editor-templates/templates.php:50 modules/gutenberg/module.php:121
+#: assets/js/app-packages.js:6774
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:243
+#: assets/js/onboarding.a7b6b26c425933f57bce.bundle.js:53
+msgid "Loading"
+msgstr "লোডিং"
+
+#: includes/controls/groups/typography.php:212
+msgctxt "Typography Control"
+msgid "Letter Spacing"
+msgstr "অক্ষর ব্যবধান"
+
+#: includes/controls/groups/typography.php:165
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "ধরন"
+
+#: includes/controls/groups/typography.php:152
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "রুপান্তর"
+
+#: includes/controls/groups/typography.php:132
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "ওজন"
+
+#: includes/controls/groups/border.php:88
+msgctxt "Border Control"
+msgid "Color"
+msgstr "রঙ"
+
+#: core/schemes/base-ui.php:119 includes/controls/image-dimensions.php:102
+#: includes/editor-templates/panel.php:151
+#: modules/history/views/revisions-panel-template.php:18
+#: assets/js/editor.js:11004
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+#: core/schemes/base-ui.php:115
+#: modules/history/views/revisions-panel-template.php:13
+#: assets/js/editor.js:5964
+msgid "Discard"
+msgstr "প্রত্যাখ্যান করুন"
+
+#: includes/editor-templates/panel.php:54
+#: includes/editor-templates/panel.php:55
+msgid "Menu"
+msgstr "মেনু"
+
+#: includes/managers/controls.php:300 includes/widgets/divider.php:363
+#: includes/widgets/icon-list.php:275 assets/js/editor.js:10303
+#: assets/js/editor.js:31145
+msgid "Style"
+msgstr "ধরন"
+
+#: core/common/modules/finder/categories/settings.php:55
+#: core/dynamic-tags/tag.php:88 includes/elements/column.php:721
+#: includes/elements/section.php:1178 includes/managers/controls.php:301
+#: includes/settings/settings.php:518 assets/js/editor.js:10306
+#: assets/js/editor.js:31148
+msgid "Advanced"
+msgstr "অগ্রবর্তী"
+
+#: includes/elements/column.php:730 includes/elements/container.php:1155
+#: includes/elements/section.php:1186 includes/widgets/common.php:190
+msgid "Margin"
+msgstr "প্রান্ত"
+
+#: includes/controls/image-dimensions.php:95
+#: includes/elements/container.php:328 includes/elements/container.php:1030
+#: includes/elements/section.php:259 includes/elements/section.php:992
+#: includes/widgets/common.php:217 includes/widgets/common.php:239
+#: includes/widgets/divider.php:421 includes/widgets/icon-list.php:321
+#: includes/widgets/image-box.php:248 includes/widgets/image.php:255
+#: modules/shapes/widgets/text-path.php:540
+#: modules/shapes/widgets/text-path.php:606
+msgid "Width"
+msgstr "প্রস্থ"
+
+#: includes/elements/column.php:217 includes/elements/column.php:697
+#: includes/elements/section.php:1154 includes/widgets/common.php:314
+#: includes/widgets/common.php:1127 includes/widgets/common.php:1155
+#: includes/widgets/divider.php:456 includes/widgets/divider.php:744
+#: includes/widgets/divider.php:884 includes/widgets/heading.php:184
+#: includes/widgets/icon-box.php:492 includes/widgets/icon-list.php:246
+#: includes/widgets/icon-list.php:457 includes/widgets/icon.php:175
+#: includes/widgets/image-box.php:416 includes/widgets/image-carousel.php:561
+#: includes/widgets/image-carousel.php:662
+#: includes/widgets/image-gallery.php:287 includes/widgets/image.php:142
+#: includes/widgets/image.php:535 includes/widgets/social-icons.php:305
+#: includes/widgets/star-rating.php:178 includes/widgets/tabs.php:175
+#: includes/widgets/tabs.php:205 includes/widgets/tabs.php:376
+#: includes/widgets/testimonial.php:194 includes/widgets/text-editor.php:196
+#: includes/widgets/traits/button-trait.php:126 includes/widgets/video.php:801
+#: modules/shapes/widgets/text-path.php:165
+msgid "Center"
+msgstr "মধ্য"
+
+#: includes/elements/container.php:313 includes/elements/section.php:249
+msgid "Boxed"
+msgstr "বক্সে"
+
+#: includes/elements/container.php:314 includes/elements/section.php:250
+#: includes/widgets/common.php:222 includes/widgets/icon-list.php:195
+msgid "Full Width"
+msgstr "পুরো প্রস্থ"
+
+#: includes/controls/groups/background.php:95
+msgctxt "Background Control"
+msgid "Classic"
+msgstr "ক্লাসিক"
+
+#: includes/widgets/divider.php:323 includes/widgets/icon-list.php:281
+msgid "Dashed"
+msgstr "ড্যাশড"
+
+#: includes/controls/repeater.php:172
+msgid "Add Item"
+msgstr "আইটেম যোগ করুন"
+
+#: includes/controls/groups/typography.php:190
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr "লাইনের উচ্চতা"
+
+#: includes/elements/column.php:878 includes/elements/container.php:1549
+#: includes/elements/section.php:1315 includes/managers/controls.php:302
+#: includes/widgets/common.php:1624
+msgid "Responsive"
+msgstr "রেস্পন্সিভ"
+
+#: includes/managers/controls.php:299 includes/widgets/accordion.php:110
+#: includes/widgets/accordion.php:444 includes/widgets/alert.php:125
+#: includes/widgets/icon-box.php:476 includes/widgets/image-box.php:132
+#: includes/widgets/image-box.php:400 includes/widgets/tabs.php:112
+#: includes/widgets/tabs.php:396 includes/widgets/testimonial.php:95
+#: includes/widgets/testimonial.php:224 includes/widgets/toggle.php:111
+#: includes/widgets/toggle.php:463 assets/js/app.js:13309
+#: assets/js/app.js:13888 assets/js/editor.js:31142
+msgid "Content"
+msgstr "বিষয়বস্তু"
+
+#: includes/widgets/image-gallery.php:118 includes/widgets/social-icons.php:272
+#: includes/widgets/text-editor.php:136
+msgid "Columns"
+msgstr "কলাম"
+
+#: core/schemes/color.php:66
+msgid "Colors"
+msgstr "রং"
+
+#: includes/widgets/text-editor.php:46 includes/widgets/text-editor.php:105
+#: includes/widgets/text-editor.php:180
+msgid "Text Editor"
+msgstr "টেক্সট সম্পাদক"
+
+#: includes/widgets/tabs.php:113 includes/widgets/tabs.php:114
+msgid "Tab Content"
+msgstr "ট্যাব বিষয়বস্তু"
+
+#: includes/widgets/tabs.php:100 includes/widgets/tabs.php:101
+msgid "Tab Title"
+msgstr "ট্যাব শিরোনাম"
+
+#: includes/widgets/tabs.php:132
+msgid "Tab #2"
+msgstr "ট্যাব # ২"
+
+#: core/schemes/color.php:147
+msgid "More Palettes"
+msgstr "আরো প্যালেটস"
+
+#: core/schemes/color.php:134 core/schemes/color.php:289
+msgid "Color Palette"
+msgstr "রঙের প্যালেটস"
+
+#: core/schemes/base-ui.php:109 includes/controls/structure.php:65
+msgid "Reset"
+msgstr "রিসেট"
+
+#: includes/widgets/tabs.php:128
+msgid "Tab #1"
+msgstr "ট্যাব # ২"
+
+#: includes/editor-templates/templates.php:172 assets/js/editor.js:30502
+msgid "Preview"
+msgstr "প্রিভিউ"
+
+#: includes/editor-templates/panel.php:59
+#: includes/editor-templates/panel.php:60
+msgid "Widgets Panel"
+msgstr "উইজেটস প্যানেল"
+
+#: includes/widgets/tabs.php:123
+msgid "Tabs Items"
+msgstr "ট্যাব আইটেমগুলি"
+
+#: includes/widgets/tabs.php:46 includes/widgets/tabs.php:89
+#: includes/widgets/tabs.php:229
+msgid "Tabs"
+msgstr "ট্যাব"
+
+#: includes/editor-templates/panel-elements.php:40
+msgid "Search Widget..."
+msgstr "উইজেট অনুসন্ধান করুন"
+
+#: includes/widgets/image-carousel.php:283
+msgid "Pause on Hover"
+msgstr "হভারে বিরতি দিন"
+
+#: includes/widgets/image-carousel.php:318
+msgid "Autoplay Speed"
+msgstr "অটোপ্লে গতি"
+
+#: core/document-types/page-base.php:132
+#: core/kits/documents/tabs/theme-style-buttons.php:244
+#: core/kits/documents/tabs/theme-style-form-fields.php:160
+#: includes/elements/column.php:749 includes/elements/container.php:1167
+#: includes/elements/section.php:1205 includes/widgets/accordion.php:355
+#: includes/widgets/accordion.php:496 includes/widgets/common.php:202
+#: includes/widgets/divider.php:822 includes/widgets/icon-box.php:386
+#: includes/widgets/icon.php:316 includes/widgets/social-icons.php:402
+#: includes/widgets/toggle.php:374 includes/widgets/toggle.php:515
+#: includes/widgets/traits/button-trait.php:407
+msgid "Padding"
+msgstr "প্যাডিং"
+
+#: includes/widgets/image-carousel.php:169
+#: includes/widgets/image-carousel.php:401
+msgid "Arrows"
+msgstr "তীর"
+
+#: includes/widgets/image-carousel.php:351
+msgid "Slide"
+msgstr "স্লাইড্"
+
+#: includes/widgets/sidebar.php:89 includes/widgets/sidebar.php:109
+msgid "Choose Sidebar"
+msgstr "সাইডবার নির্বাচন করুন"
+
+#: includes/widgets/sidebar.php:87
+msgid "No sidebars were found"
+msgstr "কোন পার্শ্বদন্ড পাওয়া যায়নি"
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/video.php:592 includes/widgets/video.php:658
+msgid "Play Icon"
+msgstr "প্লে প্রতিমা"
+
+#: includes/widgets/video.php:544 includes/widgets/video.php:551
+msgid "Image Overlay"
+msgstr "চিত্র ওভারলে"
+
+#: includes/elements/column.php:689 includes/elements/section.php:1146
+msgid "Text Align"
+msgstr "টেক্সট সারিবদ্ধ"
+
+#: includes/widgets/video.php:436
+msgid "Suggested Videos"
+msgstr "প্রস্তাবিত ভিডিও"
+
+#: includes/elements/column.php:677 includes/elements/section.php:1134
+msgid "Link Hover Color"
+msgstr "লিংক হভার রঙ"
+
+#: includes/widgets/video.php:631
+msgid "Aspect Ratio"
+msgstr "আনুমানিক অনুপাত"
+
+#: includes/widgets/video.php:114
+msgid "YouTube"
+msgstr "ইউটিউব"
+
+#: includes/widgets/toggle.php:113
+msgid "Toggle Content"
+msgstr "টগল সামগ্রী"
+
+#: includes/widgets/toggle.php:100
+msgid "Toggle Title"
+msgstr "টগল শিরোনাম"
+
+#: includes/elements/column.php:665 includes/elements/section.php:1122
+msgid "Link Color"
+msgstr "লিংক রঙ"
+
+#: includes/widgets/toggle.php:133
+msgid "Toggle #2"
+msgstr "টগল # ২"
+
+#: includes/widgets/toggle.php:129
+msgid "Toggle #1"
+msgstr "টগল # ১"
+
+#: includes/elements/column.php:640 includes/elements/section.php:1097
+msgid "Heading Color"
+msgstr "শিরোনামের রঙ"
+
+#: includes/widgets/toggle.php:124
+msgid "Toggle Items"
+msgstr "টগল আইটেম"
+
+#: includes/widgets/toggle.php:46 includes/widgets/toggle.php:89
+#: includes/widgets/toggle.php:241
+msgid "Toggle"
+msgstr "টগল"
+
+#: core/kits/documents/tabs/settings-lightbox.php:163
+#: core/kits/documents/tabs/theme-style-buttons.php:99
+#: core/kits/documents/tabs/theme-style-buttons.php:174
+#: core/kits/documents/tabs/theme-style-form-fields.php:177
+#: core/kits/documents/tabs/theme-style-typography.php:56
+#: includes/elements/column.php:653 includes/elements/section.php:1110
+#: includes/widgets/alert.php:221 includes/widgets/alert.php:261
+#: includes/widgets/counter.php:230 includes/widgets/counter.php:273
+#: includes/widgets/heading.php:225 includes/widgets/icon-list.php:490
+#: includes/widgets/image-carousel.php:684
+#: includes/widgets/image-gallery.php:312 includes/widgets/image.php:557
+#: includes/widgets/progress.php:283 includes/widgets/star-rating.php:213
+#: includes/widgets/testimonial.php:232 includes/widgets/testimonial.php:330
+#: includes/widgets/testimonial.php:375 includes/widgets/text-editor.php:217
+#: includes/widgets/traits/button-trait.php:272
+#: includes/widgets/traits/button-trait.php:317
+msgid "Text Color"
+msgstr "টেক্সটের রঙ"
+
+#: includes/widgets/sidebar.php:42 includes/widgets/sidebar.php:102
+msgid "Sidebar"
+msgstr "সাইডবার"
+
+#: includes/widgets/progress.php:275
+msgid "Title Style"
+msgstr "শিরোনাম শৈলী"
+
+#: includes/widgets/progress.php:159
+msgid "Web Designer"
+msgstr "ওয়েব ডিজাইনার"
+
+#: includes/widgets/progress.php:158
+msgid "e.g. Web Designer"
+msgstr "উদাহরণস্বরূপ ওয়েব ডিজাইনার"
+
+#: includes/widgets/progress.php:153 includes/widgets/progress.php:234
+msgid "Inner Text"
+msgstr "ভিতরের টেক্সট"
+
+#: includes/widgets/progress.php:140
+msgid "Display Percentage"
+msgstr "প্রদর্শন শতাংশ"
+
+#: includes/widgets/progress.php:125
+msgid "Percentage"
+msgstr "শতাংশ"
+
+#: includes/widgets/progress.php:45 includes/widgets/progress.php:88
+#: includes/widgets/progress.php:178
+msgid "Progress Bar"
+msgstr "অগ্রগতি বার"
+
+#: includes/widgets/menu-anchor.php:95
+msgid "For Example: About"
+msgstr "উদাহরণ: সম্পর্কিত"
+
+#: includes/widgets/menu-anchor.php:93
+msgid "The ID of Menu Anchor."
+msgstr "মেনু অ্যাঙ্কর আইডি"
+
+#: includes/elements/column.php:60
+msgid "Column"
+msgstr "কলাম"
+
+#: includes/widgets/menu-anchor.php:96
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "এই আইডিটি আপনার পেজে সিএসএস আইডি হবে, # ছাড়া।"
+
+#: includes/elements/section.php:78 modules/library/documents/section.php:43
+#: assets/js/container-converter.js:942 assets/js/editor.js:11109
+msgid "Section"
+msgstr "অনুচ্ছেদ"
+
+#: includes/widgets/menu-anchor.php:86
+msgid "Anchor"
+msgstr "নোঙ্গর"
+
+#: includes/widgets/menu-anchor.php:43
+msgid "Menu Anchor"
+msgstr "মেনু অ্যাঙ্কর"
+
+#: includes/widgets/image-box.php:161 includes/widgets/testimonial.php:167
+msgid "Image Position"
+msgstr "চিত্র অবস্থান"
+
+#: includes/widgets/image-carousel.php:597
+#: includes/widgets/image-gallery.php:208
+msgid "Image Spacing"
+msgstr "চিত্র ব্যবধান"
+
+#: includes/widgets/testimonial.php:280
+msgid "Image Size"
+msgstr "ছবির আকার"
+
+#: includes/widgets/image-box.php:45 includes/widgets/image-box.php:88
+msgid "Image Box"
+msgstr "চিত্র বাক্স"
+
+#: includes/widgets/social-icons.php:485
+msgid "Icon Hover"
+msgstr "আইকন হভার"
+
+#: includes/widgets/accordion.php:245 includes/widgets/divider.php:939
+#: includes/widgets/icon-box.php:445 includes/widgets/icon.php:358
+#: includes/widgets/tabs.php:260 includes/widgets/text-editor.php:377
+#: includes/widgets/toggle.php:249
+msgid "Border Width"
+msgstr "সীমানার প্রশস্থতা"
+
+#: includes/widgets/common.php:695 includes/widgets/common.php:707
+#: includes/widgets/divider.php:917 includes/widgets/icon-box.php:421
+#: includes/widgets/icon.php:336 modules/shapes/widgets/text-path.php:271
+msgid "Rotate"
+msgstr "ঘুরান"
+
+#: includes/widgets/traits/button-trait.php:186
+msgid "Icon Spacing"
+msgstr "আইকন ব্যবধান"
+
+#: includes/widgets/icon-box.php:45 includes/widgets/icon-box.php:88
+msgid "Icon Box"
+msgstr "আইকন বক্স"
+
+#: includes/widgets/divider.php:859 includes/widgets/icon-box.php:283
+#: includes/widgets/icon-box.php:321 includes/widgets/icon.php:229
+#: includes/widgets/icon.php:269 includes/widgets/social-icons.php:212
+#: includes/widgets/social-icons.php:370 includes/widgets/social-icons.php:508
+#: includes/widgets/text-editor.php:293
+msgid "Secondary Color"
+msgstr "মাধ্যমিক রঙ"
+
+#: includes/widgets/html.php:85
+msgid "HTML Code"
+msgstr "এইচটিএমএল কোড"
+
+#: includes/widgets/html.php:42
+msgid "HTML"
+msgstr "এইচটিএমএল"
+
+#: includes/elements/column.php:261 includes/elements/container.php:457
+#: includes/elements/section.php:518 includes/widgets/divider.php:525
+#: includes/widgets/heading.php:156
+msgid "HTML Tag"
+msgstr "এইচটিএমএল ট্যাগ"
+
+#: includes/widgets/divider.php:842 includes/widgets/icon-box.php:267
+#: includes/widgets/icon-box.php:308 includes/widgets/icon.php:212
+#: includes/widgets/icon.php:255 includes/widgets/social-icons.php:198
+#: includes/widgets/social-icons.php:356 includes/widgets/social-icons.php:493
+#: includes/widgets/text-editor.php:278
+msgid "Primary Color"
+msgstr "মৌলিক রঙ"
+
+#: includes/widgets/icon-box.php:127 includes/widgets/icon.php:142
+#: includes/widgets/social-icons.php:262
+msgid "Square"
+msgstr "বর্গক্ষেত্র"
+
+#: includes/widgets/alert.php:113 includes/widgets/heading.php:116
+#: includes/widgets/icon-box.php:147 includes/widgets/image-box.php:124
+#: includes/widgets/progress.php:100
+msgid "Enter your title"
+msgstr "আপনার শিরোনাম লিখুন"
+
+#: includes/widgets/common.php:125 includes/widgets/icon-box.php:126
+#: includes/widgets/icon.php:141 includes/widgets/social-icons.php:263
+#: modules/shapes/module.php:22
+msgid "Circle"
+msgstr "বৃত্ত"
+
+#: includes/widgets/heading.php:45
+msgid "Heading"
+msgstr "শিরোনাম"
+
+#: includes/widgets/google-maps.php:128
+msgid "London Eye, London, United Kingdom"
+msgstr "লন্ডন আই, লন্ডন, যুক্তরাজ্য"
+
+#: includes/widgets/common.php:1389 includes/widgets/icon-box.php:123
+#: includes/widgets/icon.php:138 includes/widgets/social-icons.php:257
+msgid "Shape"
+msgstr "আকৃতি"
+
+#: includes/widgets/google-maps.php:103 includes/widgets/google-maps.php:200
+msgid "Map"
+msgstr "মানচিত্র"
+
+#: includes/widgets/google-maps.php:44
+msgid "Google Maps"
+msgstr "গুগল মানচিত্র"
+
+#: includes/widgets/divider.php:795 includes/widgets/icon-box.php:113
+#: includes/widgets/icon.php:128 includes/widgets/text-editor.php:268
+msgid "Framed"
+msgstr "ফ্রেমে"
+
+#: includes/widgets/divider.php:794 includes/widgets/icon-box.php:112
+#: includes/widgets/icon.php:127 includes/widgets/text-editor.php:267
+msgid "Stacked"
+msgstr "সারিবদ্ধ"
+
+#: core/kits/documents/tabs/settings-lightbox.php:101
+#: core/kits/documents/tabs/settings-lightbox.php:118
+#: includes/widgets/image-carousel.php:227
+#: includes/widgets/image-carousel.php:233
+#: includes/widgets/image-carousel.php:643
+#: includes/widgets/image-gallery.php:255 includes/widgets/image.php:159
+#: includes/widgets/image.php:516
+msgid "Caption"
+msgstr "শিরোনামা"
+
+#: includes/widgets/icon-list.php:517
+msgid "Text Indent"
+msgstr "টেক্সট ইন্ডেন্ট"
+
+#: includes/widgets/icon-list.php:123 includes/widgets/icon-list.php:124
+msgid "List Item"
+msgstr "তালিকাবদ্ধ"
+
+#: core/kits/documents/tabs/theme-style-images.php:21
+#: core/kits/documents/tabs/theme-style-images.php:51
+#: includes/widgets/image-gallery.php:183
+msgid "Images"
+msgstr "ছবিগুলো"
+
+#: includes/widgets/icon-list.php:178
+msgid "List Item #3"
+msgstr "তালিকা আইটেম # ৩"
+
+#: includes/widgets/icon-list.php:171
+msgid "List Item #2"
+msgstr "তালিকা আইটেম # ২"
+
+#: includes/widgets/icon-list.php:164
+msgid "List Item #1"
+msgstr "তালিকা আইটেম # ১"
+
+#: includes/widgets/icon-list.php:45 includes/widgets/icon-list.php:88
+msgid "Icon List"
+msgstr "আইকন তালিকা"
+
+#: includes/controls/image-dimensions.php:100
+#: includes/elements/container.php:1059 includes/elements/section.php:331
+#: includes/elements/section.php:380 includes/elements/section.php:1021
+#: includes/widgets/google-maps.php:167 includes/widgets/icon-list.php:339
+#: includes/widgets/image.php:325 includes/widgets/progress.php:211
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: includes/elements/section.php:288
+msgid "Wide"
+msgstr "প্রশস্ত"
+
+#: includes/elements/section.php:286
+msgid "Narrow"
+msgstr "সংকীর্ণ"
+
+#: includes/elements/section.php:285
+msgid "No Gap"
+msgstr "কোন দূরত্ব নেই"
+
+#: includes/elements/container.php:471 includes/widgets/icon-box.php:176
+#: includes/widgets/icon-list.php:152 includes/widgets/icon.php:160
+#: includes/widgets/image-box.php:153 includes/widgets/image-carousel.php:196
+#: includes/widgets/image.php:208 includes/widgets/social-icons.php:178
+#: includes/widgets/testimonial.php:160
+#: includes/widgets/traits/button-trait.php:107
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: includes/elements/section.php:280 includes/widgets/text-editor.php:149
+msgid "Columns Gap"
+msgstr "কলামের দূরত্ব"
+
+#: core/kits/documents/tabs/settings-layout.php:55
+#: includes/elements/container.php:309 includes/elements/section.php:245
+#: includes/widgets/video.php:778
+msgid "Content Width"
+msgstr "কনটেন্টের প্রস্থ"
+
+#: core/kits/documents/tabs/settings-layout.php:24
+#: includes/elements/column.php:113 includes/elements/container.php:1147
+#: includes/elements/section.php:227 includes/managers/controls.php:303
+#: includes/widgets/common.php:172 includes/widgets/icon-list.php:95
+#: assets/js/editor.js:31151
+msgid "Layout"
+msgstr "বিন্যাস"
+
+#: includes/elements/column.php:156
+msgid "Column Width"
+msgstr "কলামের প্রস্থ"
+
+#: includes/elements/column.php:788 includes/elements/container.php:1465
+#: includes/elements/section.php:1244 includes/widgets/common.php:594
+msgid "CSS Classes"
+msgstr "সি এস এস ক্লাসেস"
+
+#: includes/widgets/image-gallery.php:163
+msgid "Random"
+msgstr "এলোমেলো"
+
+#: includes/widgets/image-carousel.php:185
+#: includes/widgets/image-gallery.php:132 includes/widgets/image.php:194
+msgid "Media File"
+msgstr "মিডিয়া ফাইল"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:73
+#: core/kits/documents/tabs/theme-style-form-fields.php:90
+#: core/kits/documents/tabs/theme-style-form-fields.php:108
+#: core/kits/documents/tabs/theme-style-typography.php:19
+#: core/kits/documents/tabs/theme-style-typography.php:38
+#: core/kits/documents/tabs/theme-style-typography.php:68
+#: core/kits/documents/tabs/theme-style-typography.php:145
+#: core/kits/documents/tabs/theme-style-typography.php:175
+#: core/kits/documents/tabs/theme-style-typography.php:221
+#: core/schemes/typography.php:64 includes/elements/column.php:631
+#: includes/elements/section.php:1089 assets/js/editor-modules.js:2605
+#: assets/js/editor.js:37803
+msgid "Typography"
+msgstr "মুদ্রণবিদ্যা"
+
+#: includes/elements/section.php:531 includes/elements/section.php:539
+msgid "Structure"
+msgstr "গঠন"
+
+#: includes/widgets/image-gallery.php:133
+msgid "Attachment Page"
+msgstr "সংযুক্তি পৃষ্ঠা"
+
+#: includes/controls/gallery.php:88 includes/widgets/image-carousel.php:95
+#: includes/widgets/image-gallery.php:94
+msgid "Add Images"
+msgstr "ছবি যোগ করুন"
+
+#: includes/widgets/image-gallery.php:87
+msgid "Image Gallery"
+msgstr "ছবির গ্যালারি"
+
+#: includes/widgets/divider.php:677 includes/widgets/star-rating.php:246
+msgid "Gap"
+msgstr "ফাঁক"
+
+#: includes/widgets/divider.php:592 includes/widgets/icon-list.php:297
+msgid "Weight"
+msgstr "ওজন"
+
+#: includes/widgets/spacer.php:42 includes/widgets/spacer.php:101
+msgid "Spacer"
+msgstr "স্পেসার"
+
+#: includes/widgets/divider.php:46 includes/widgets/divider.php:356
+#: includes/widgets/divider.php:515 includes/widgets/divider.php:565
+#: includes/widgets/icon-list.php:261
+msgid "Divider"
+msgstr "বিভাজক"
+
+#: includes/widgets/counter.php:222
+msgid "Number"
+msgstr "সংখ্যা"
+
+#: includes/widgets/counter.php:203 includes/widgets/counter.php:204
+msgid "Cool Number"
+msgstr "Cool Number"
+
+#: includes/widgets/counter.php:152
+msgid "Plus"
+msgstr "যোগ"
+
+#: includes/widgets/counter.php:146
+msgid "Number Suffix"
+msgstr "সংখ্যা প্রত্যক্ষ"
+
+#: includes/widgets/counter.php:133
+msgid "Number Prefix"
+msgstr "সংখ্যা উপসর্গ"
+
+#: includes/widgets/counter.php:121
+msgid "Ending Number"
+msgstr "শেষ সংখ্যা"
+
+#: includes/widgets/counter.php:109
+msgid "Starting Number"
+msgstr "সূচনা সংখ্যা"
+
+#: core/kits/documents/tabs/settings-lightbox.php:56
+#: includes/widgets/counter.php:45 includes/widgets/counter.php:102
+msgid "Counter"
+msgstr "বিপরীত"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:78
+#: core/kits/documents/tabs/theme-style-typography.php:133
+#: core/kits/documents/tabs/theme-style-typography.php:163
+#: core/kits/documents/tabs/theme-style-typography.php:209
+#: includes/controls/box-shadow.php:104 includes/controls/text-shadow.php:97
+#: includes/elements/column.php:417 includes/elements/container.php:716
+#: includes/elements/container.php:1016 includes/elements/section.php:708
+#: includes/elements/section.php:978 includes/widgets/accordion.php:298
+#: includes/widgets/accordion.php:400 includes/widgets/accordion.php:463
+#: includes/widgets/divider.php:576 includes/widgets/divider.php:711
+#: includes/widgets/icon-box.php:554 includes/widgets/icon-box.php:605
+#: includes/widgets/icon-list.php:368 includes/widgets/icon-list.php:396
+#: includes/widgets/image-box.php:478 includes/widgets/image-box.php:521
+#: includes/widgets/image-carousel.php:450
+#: includes/widgets/image-carousel.php:514 includes/widgets/progress.php:186
+#: includes/widgets/progress.php:243 includes/widgets/social-icons.php:185
+#: includes/widgets/social-icons.php:343 includes/widgets/star-rating.php:309
+#: includes/widgets/tabs.php:312 includes/widgets/tabs.php:405
+#: includes/widgets/toggle.php:326 includes/widgets/toggle.php:419
+#: includes/widgets/toggle.php:482 includes/widgets/video.php:671
+#: modules/shapes/widgets/text-path.php:410
+#: modules/shapes/widgets/text-path.php:434
+#: modules/shapes/widgets/text-path.php:508
+#: modules/shapes/widgets/text-path.php:528
+#: modules/shapes/widgets/text-path.php:574
+#: modules/shapes/widgets/text-path.php:594 assets/js/editor.js:43118
+#: assets/js/editor.js:43164
+msgid "Color"
+msgstr "রঙ"
+
+#: includes/widgets/audio.php:144 includes/widgets/image-carousel.php:269
+#: includes/widgets/video.php:277
+msgid "Autoplay"
+msgstr "স্বয়ংক্রিয় চালু"
+
+#: includes/widgets/image-carousel.php:135
+msgid "Slides to Scroll"
+msgstr "স্লাইড স্ক্রোল"
+
+#: includes/widgets/image-carousel.php:119
+msgid "Slides to Show"
+msgstr "স্লাইড প্রদর্শন করুন"
+
+#: includes/controls/media.php:188 includes/widgets/image-box.php:95
+#: includes/widgets/image.php:111 includes/widgets/testimonial.php:108
+#: includes/widgets/video.php:562
+msgid "Choose Image"
+msgstr "ছবিটি নির্বাচন করুন"
+
+#: includes/widgets/common.php:1403 includes/widgets/image-box.php:217
+#: includes/widgets/image-carousel.php:545 includes/widgets/image.php:45
+#: includes/widgets/image.php:104 includes/widgets/image.php:247
+#: includes/widgets/testimonial.php:269
+msgid "Image"
+msgstr "ছবি"
+
+#: includes/elements/column.php:505 includes/elements/container.php:837
+#: includes/elements/section.php:812 includes/widgets/common.php:1256
+msgid "Border"
+msgstr "সীমান্ত"
+
+#: core/dynamic-tags/tag.php:102 includes/widgets/traits/button-trait.php:177
+msgid "After"
+msgstr "পরে"
+
+#: core/dynamic-tags/tag.php:95 includes/widgets/traits/button-trait.php:176
+msgid "Before"
+msgstr "আগে"
+
+#: includes/widgets/icon-box.php:184
+#: includes/widgets/traits/button-trait.php:172
+msgid "Icon Position"
+msgstr "আইকন অবস্থান"
+
+#: includes/widgets/accordion.php:149 includes/widgets/accordion.php:369
+#: includes/widgets/divider.php:487 includes/widgets/divider.php:548
+#: includes/widgets/divider.php:779 includes/widgets/icon-box.php:95
+#: includes/widgets/icon-box.php:240 includes/widgets/icon-list.php:134
+#: includes/widgets/icon-list.php:388 includes/widgets/icon.php:44
+#: includes/widgets/icon.php:103 includes/widgets/icon.php:110
+#: includes/widgets/icon.php:195 includes/widgets/social-icons.php:94
+#: includes/widgets/social-icons.php:335 includes/widgets/star-rating.php:123
+#: includes/widgets/toggle.php:153 includes/widgets/toggle.php:388
+#: includes/widgets/traits/button-trait.php:159
+msgid "Icon"
+msgstr "আইকন "
+
+#: includes/widgets/common.php:1441 includes/widgets/divider.php:617
+#: includes/widgets/divider.php:805 includes/widgets/heading.php:139
+#: includes/widgets/icon-box.php:369 includes/widgets/icon-list.php:425
+#: includes/widgets/icon.php:298 includes/widgets/image-carousel.php:430
+#: includes/widgets/image-carousel.php:494
+#: includes/widgets/social-icons.php:385 includes/widgets/star-rating.php:274
+#: includes/widgets/text-editor.php:316
+#: includes/widgets/traits/button-trait.php:147 includes/widgets/video.php:687
+#: modules/shapes/widgets/text-path.php:235
+msgid "Size"
+msgstr "আয়তন"
+
+#: includes/elements/column.php:705 includes/elements/section.php:1162
+#: includes/widgets/heading.php:192 includes/widgets/icon-box.php:500
+#: includes/widgets/image-box.php:424 includes/widgets/image-carousel.php:670
+#: includes/widgets/image-gallery.php:295 includes/widgets/image.php:543
+#: includes/widgets/star-rating.php:186 includes/widgets/tabs.php:183
+#: includes/widgets/tabs.php:213 includes/widgets/text-editor.php:204
+#: includes/widgets/traits/button-trait.php:134
+msgid "Justified"
+msgstr "সামঞ্জস্য"
+
+#: includes/widgets/heading.php:148
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/widgets/heading.php:147
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/heading.php:146 includes/widgets/traits/button-trait.php:36
+msgid "Large"
+msgstr "বড়"
+
+#: includes/widgets/heading.php:145 includes/widgets/traits/button-trait.php:35
+msgid "Medium"
+msgstr "মধ্যম"
+
+#: includes/widgets/heading.php:144 includes/widgets/traits/button-trait.php:34
+msgid "Small"
+msgstr "ছোট"
+
+#: includes/widgets/button.php:47 includes/widgets/button.php:84
+#: includes/widgets/button.php:95
+msgid "Button"
+msgstr "বোতাম"
+
+#: includes/widgets/accordion.php:380 includes/widgets/divider.php:448
+#: includes/widgets/heading.php:176 includes/widgets/icon-box.php:484
+#: includes/widgets/icon-list.php:238 includes/widgets/icon-list.php:449
+#: includes/widgets/icon.php:167 includes/widgets/image-box.php:408
+#: includes/widgets/image-carousel.php:654
+#: includes/widgets/image-gallery.php:279 includes/widgets/image.php:134
+#: includes/widgets/image.php:527 includes/widgets/social-icons.php:297
+#: includes/widgets/star-rating.php:170 includes/widgets/tabs.php:167
+#: includes/widgets/tabs.php:197 includes/widgets/tabs.php:368
+#: includes/widgets/testimonial.php:185 includes/widgets/text-editor.php:188
+#: includes/widgets/toggle.php:399 includes/widgets/traits/button-trait.php:118
+#: modules/shapes/widgets/text-path.php:156
+msgid "Alignment"
+msgstr "শ্রেণীবিন্যাস"
+
+#: core/common/modules/finder/categories/edit.php:30
+#: includes/controls/popover-toggle.php:68
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#: includes/managers/elements.php:334
+msgid "WordPress"
+msgstr "ওয়ার্ডপ্রেস"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:153
+#: core/kits/documents/tabs/theme-style-buttons.php:228
+#: core/kits/documents/tabs/theme-style-form-fields.php:222
+#: core/kits/documents/tabs/theme-style-images.php:83
+#: core/kits/documents/tabs/theme-style-images.php:154
+#: includes/elements/column.php:530 includes/elements/column.php:567
+#: includes/elements/container.php:864 includes/elements/container.php:903
+#: includes/elements/section.php:836 includes/elements/section.php:872
+#: includes/widgets/common.php:1281 includes/widgets/common.php:1318
+#: includes/widgets/divider.php:953 includes/widgets/icon-box.php:459
+#: includes/widgets/icon.php:372 includes/widgets/image-box.php:285
+#: includes/widgets/image-carousel.php:629
+#: includes/widgets/image-gallery.php:241 includes/widgets/image.php:491
+#: includes/widgets/progress.php:222 includes/widgets/social-icons.php:471
+#: includes/widgets/testimonial.php:307 includes/widgets/text-editor.php:358
+#: includes/widgets/traits/button-trait.php:385
+msgid "Border Radius"
+msgstr "বর্ডার রেডিয়াস"
+
+#: core/kits/documents/tabs/settings-lightbox.php:103
+#: core/kits/documents/tabs/settings-lightbox.php:113
+#: core/kits/documents/tabs/settings-lightbox.php:120
+#: includes/compatibility.php:151 includes/widgets/alert.php:253
+#: includes/widgets/icon-box.php:596 includes/widgets/image-box.php:512
+#: includes/widgets/image-carousel.php:234
+msgid "Description"
+msgstr "বিবরণ"
+
+#: core/kits/documents/tabs/global-colors.php:78
+#: core/kits/documents/tabs/global-typography.php:123 core/schemes/color.php:95
+msgid "Primary"
+msgstr "প্রধান"
+
+#: core/base/document.php:1581
+#: core/kits/documents/tabs/settings-lightbox.php:96
+#: core/kits/documents/tabs/settings-lightbox.php:100
+#: core/kits/documents/tabs/settings-lightbox.php:117
+#: includes/elements/column.php:122 includes/elements/section.php:236
+#: includes/widgets/accordion.php:279 includes/widgets/alert.php:213
+#: includes/widgets/common.php:181 includes/widgets/counter.php:197
+#: includes/widgets/counter.php:265 includes/widgets/heading.php:104
+#: includes/widgets/heading.php:111 includes/widgets/heading.php:217
+#: includes/widgets/icon-box.php:528 includes/widgets/image-box.php:452
+#: includes/widgets/image-carousel.php:232 includes/widgets/progress.php:95
+#: includes/widgets/star-rating.php:158 includes/widgets/star-rating.php:202
+#: includes/widgets/tabs.php:303 includes/widgets/testimonial.php:143
+#: includes/widgets/testimonial.php:367 includes/widgets/toggle.php:306
+msgid "Title"
+msgstr "শিরনাম"
+
+#: core/kits/documents/tabs/settings-lightbox.php:130
+#: core/kits/documents/tabs/theme-style-form-fields.php:189
+#: includes/widgets/alert.php:172 includes/widgets/image.php:572
+#: includes/widgets/progress.php:200 includes/widgets/tabs.php:291
+#: includes/widgets/video.php:742
+msgid "Background Color"
+msgstr "পেছনের রং"
+
+#: includes/widgets/alert.php:145 includes/widgets/audio.php:154
+#: includes/widgets/audio.php:165 includes/widgets/audio.php:176
+#: includes/widgets/audio.php:187 includes/widgets/audio.php:201
+#: includes/widgets/audio.php:212 includes/widgets/audio.php:223
+#: includes/widgets/audio.php:234 includes/widgets/counter.php:174
+#: includes/widgets/image-gallery.php:268 includes/widgets/progress.php:145
+#: includes/widgets/video.php:334 includes/widgets/video.php:349
+#: includes/widgets/video.php:376 includes/widgets/video.php:454
+#: includes/widgets/video.php:468 includes/widgets/video.php:482
+#: includes/widgets/video.php:508 includes/widgets/video.php:553
+msgid "Hide"
+msgstr "লুকান"
+
+#: includes/widgets/alert.php:144 includes/widgets/audio.php:155
+#: includes/widgets/audio.php:166 includes/widgets/audio.php:177
+#: includes/widgets/audio.php:188 includes/widgets/audio.php:202
+#: includes/widgets/audio.php:213 includes/widgets/audio.php:224
+#: includes/widgets/audio.php:235 includes/widgets/counter.php:173
+#: includes/widgets/image-gallery.php:267 includes/widgets/progress.php:144
+#: includes/widgets/video.php:335 includes/widgets/video.php:350
+#: includes/widgets/video.php:377 includes/widgets/video.php:455
+#: includes/widgets/video.php:469 includes/widgets/video.php:483
+#: includes/widgets/video.php:509 includes/widgets/video.php:554
+msgid "Show"
+msgstr "প্রদর্শনী"
+
+#: includes/widgets/alert.php:140
+msgid "Dismiss Button"
+msgstr "বোতামটি খারিজ করুন"
+
+#: includes/widgets/alert.php:128
+msgid "I am a description. Click the edit button to change this text."
+msgstr "আমি একটি বর্ণনা করছি এই পাঠ্য পরিবর্তন করতে সম্পাদনা বোতামটি ক্লিক করুন।"
+
+#: includes/widgets/accordion.php:97 includes/widgets/alert.php:111
+#: includes/widgets/icon-box.php:141 includes/widgets/image-box.php:118
+#: includes/widgets/tabs.php:98 includes/widgets/toggle.php:98
+msgid "Title & Description"
+msgstr "শিরোনাম এবং বর্ণনা"
+
+#: includes/widgets/alert.php:102 includes/widgets/progress.php:117
+#: includes/widgets/traits/button-trait.php:78
+msgid "Danger"
+msgstr "বিপদ"
+
+#: includes/widgets/alert.php:101 includes/widgets/progress.php:116
+#: includes/widgets/traits/button-trait.php:77
+msgid "Warning"
+msgstr "সতর্কতা"
+
+#: includes/widgets/alert.php:100 includes/widgets/progress.php:115
+#: includes/widgets/traits/button-trait.php:76
+msgid "Success"
+msgstr "সাফল্য"
+
+#: includes/widgets/alert.php:99 includes/widgets/progress.php:114
+#: includes/widgets/traits/button-trait.php:75 assets/js/app-packages.js:7215
+#: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:3475
+msgid "Info"
+msgstr "তথ্য"
+
+#: core/schemes/typography.php:93
+msgid "Primary Headline"
+msgstr "প্রাথমিক শিরোনাম"
+
+#: core/kits/documents/tabs/global-colors.php:88
+#: core/kits/documents/tabs/global-typography.php:137 core/schemes/color.php:97
+#: includes/widgets/divider.php:483 includes/widgets/divider.php:510
+#: includes/widgets/divider.php:700 includes/widgets/icon-list.php:120
+#: includes/widgets/icon-list.php:482
+#: includes/widgets/traits/button-trait.php:59
+#: modules/shapes/widgets/text-path.php:94
+#: modules/shapes/widgets/text-path.php:302
+msgid "Text"
+msgstr "পাঠ"
+
+#: core/kits/documents/tabs/global-colors.php:83
+#: core/kits/documents/tabs/global-typography.php:130 core/schemes/color.php:96
+msgid "Secondary"
+msgstr "মাধ্যমিক"
+
+#: includes/widgets/image-carousel.php:164
+#: includes/widgets/image-carousel.php:390
+msgid "Navigation"
+msgstr "ন্যাভিগেশন"
+
+#: includes/managers/elements.php:281
+msgid "Basic"
+msgstr "মৌলিক"
+
+#: includes/elements/container.php:1557 includes/elements/section.php:1339
+msgid "Visibility"
+msgstr "দৃষ্টিপাত"
+
+#: includes/editor-templates/templates.php:113
+#: includes/elements/container.php:1005 includes/elements/section.php:967
+#: includes/template-library/sources/local.php:1612
+#: includes/widgets/alert.php:95 includes/widgets/progress.php:109
+#: includes/widgets/traits/button-trait.php:70
+msgid "Type"
+msgstr "রুপ"
+
+#: includes/widgets/video.php:797
+msgid "Content Position"
+msgstr "বিষয়বস্তু অবস্থান"
+
+#: includes/widgets/alert.php:45 includes/widgets/alert.php:88
+#: includes/widgets/alert.php:164
+msgid "Alert"
+msgstr "সতর্ক"
+
+#: includes/widgets/accordion.php:313 includes/widgets/accordion.php:412
+#: includes/widgets/image-carousel.php:529 includes/widgets/tabs.php:326
+#: includes/widgets/toggle.php:341 includes/widgets/toggle.php:431
+msgid "Active Color"
+msgstr "সক্রিয় রঙ"
+
+#: includes/elements/column.php:189 includes/elements/section.php:427
+#: includes/elements/section.php:450 includes/widgets/icon-box.php:517
+#: includes/widgets/image-box.php:441
+msgid "Middle"
+msgstr "মধ্যম"
+
+#: includes/widgets/accordion.php:264 includes/widgets/alert.php:183
+#: includes/widgets/social-icons.php:524 includes/widgets/tabs.php:280
+#: includes/widgets/toggle.php:267 includes/widgets/traits/button-trait.php:347
+msgid "Border Color"
+msgstr "সীমান্ত রঙ"
+
+#: includes/elements/section.php:425
+msgid "Stretch"
+msgstr "প্রসারণ"
+
+#: includes/elements/section.php:421
+msgid "Column Position"
+msgstr "কলামের অবস্থান"
+
+#: includes/editor-templates/templates.php:109
+#: includes/widgets/testimonial.php:131 includes/widgets/testimonial.php:322
+msgid "Name"
+msgstr "নাম"
+
+#: includes/controls/switcher.php:73 includes/managers/icons.php:476
+#: includes/widgets/audio.php:127 includes/widgets/image-carousel.php:155
+#: includes/widgets/image-carousel.php:216
+#: includes/widgets/image-carousel.php:274
+#: includes/widgets/image-carousel.php:288
+#: includes/widgets/image-carousel.php:306
+#: includes/widgets/image-carousel.php:338
+#: includes/widgets/image-gallery.php:148 includes/widgets/image.php:225
+msgid "No"
+msgstr "না"
+
+#: includes/controls/switcher.php:74 includes/managers/icons.php:477
+#: includes/widgets/audio.php:126 includes/widgets/image-carousel.php:156
+#: includes/widgets/image-carousel.php:215
+#: includes/widgets/image-carousel.php:273
+#: includes/widgets/image-carousel.php:287
+#: includes/widgets/image-carousel.php:305
+#: includes/widgets/image-carousel.php:337
+#: includes/widgets/image-gallery.php:147 includes/widgets/image.php:224
+#: assets/js/app.js:11822
+msgid "Yes"
+msgstr "হাঁ"
+
+#: includes/widgets/accordion.php:112
+msgid "Accordion Content"
+msgstr "অ্যাকর্ডিয়ন বিষয়বস্তু"
+
+#: includes/widgets/accordion.php:99
+msgid "Accordion Title"
+msgstr "অ্যাকর্ডিয়ন শিরনাম"
+
+#: includes/widgets/accordion.php:129
+msgid "Accordion #2"
+msgstr "অ্যাকর্ডিয়ন # ২"
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion #1"
+msgstr "অ্যাকর্ডিয়ন # ১"
+
+#: includes/widgets/accordion.php:140 includes/widgets/alert.php:153
+#: includes/widgets/audio.php:251 includes/widgets/counter.php:211
+#: includes/widgets/divider.php:501 includes/widgets/divider.php:790
+#: includes/widgets/google-maps.php:189 includes/widgets/heading.php:206
+#: includes/widgets/icon-box.php:108 includes/widgets/icon.php:123
+#: includes/widgets/image-box.php:206 includes/widgets/image-carousel.php:242
+#: includes/widgets/image-gallery.php:172 includes/widgets/image.php:236
+#: includes/widgets/progress.php:167 includes/widgets/social-icons.php:324
+#: includes/widgets/spacer.php:133 includes/widgets/tabs.php:143
+#: includes/widgets/testimonial.php:212 includes/widgets/text-editor.php:263
+#: includes/widgets/toggle.php:144 includes/widgets/traits/button-trait.php:204
+#: includes/widgets/video.php:533
+msgid "View"
+msgstr "দর্শন করুন"
+
+#: includes/widgets/accordion.php:120
+msgid "Accordion Items"
+msgstr "অ্যাকর্ডিয়ন আইটেম"
+
+#: includes/widgets/accordion.php:45 includes/widgets/accordion.php:88
+#: includes/widgets/accordion.php:237
+msgid "Accordion"
+msgstr "অ্যাকর্ডিয়ন"
+
+#: core/admin/admin-notices.php:238
+msgid "Sure! I'd love to help"
+msgstr "নিশ্চিত! আমি সাহায্য করতে চাই"
+
+#: core/base/document.php:1573
+#: core/common/modules/finder/categories/settings.php:50
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+#: core/schemes/typography.php:95
+msgid "Body Text"
+msgstr "বডি টেক্সট"
+
+#: modules/system-info/module.php:181
+msgid "Download System Info"
+msgstr "সিস্টেম তথ্য ডাউনলোড করুন"
+
+#: modules/system-info/module.php:163
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "আপনি নীচের তথ্যটি Ctrl + C / Ctrl + V দিয়ে সহজ পাঠ হিসাবে কপি করতে পারেন:"
+
+#: core/schemes/typography.php:94
+msgid "Secondary Headline"
+msgstr "মাধ্যমিক শিরোনাম"
+
+#: includes/elements/section.php:347 includes/elements/section.php:396
+msgid "Minimum Height"
+msgstr "ন্যূনতম উচ্চতা"
+
+#: includes/elements/container.php:397 includes/elements/section.php:337
+#: includes/elements/section.php:386
+msgid "Min Height"
+msgstr "ন্যূনতম উচ্চতা"
+
+#: modules/system-info/module.php:161
+msgid "Copy & Paste Info"
+msgstr "অনুলিপি করুন এবং তথ্য পেস্ট করুন"
+
+#: core/common/modules/finder/categories/general.php:55
+#: modules/system-info/module.php:133 modules/system-info/module.php:159
+msgid "System Info"
+msgstr "সিস্টেমের তথ্য"
+
+#: includes/elements/section.php:336 includes/elements/section.php:385
+msgid "Fit To Screen"
+msgstr "সম্পূর্ণ পর্দা"
+
+#: core/role-manager/role-manager.php:65
+msgid "Exclude Roles"
+msgstr "ভূমিকাগুলি বাদ দিন"
+
+#: includes/settings/settings.php:460
+msgid "Post Types"
+msgstr "পোষ্ট টাইপ"
+
+#: core/schemes/typography.php:96
+msgid "Accent Text"
+msgstr "এক্সটেন টেক্সট"
+
+#: core/kits/documents/tabs/global-colors.php:93
+#: core/kits/documents/tabs/global-typography.php:144 core/schemes/color.php:98
+msgid "Accent"
+msgstr "রঙের ধরন"
+
+#: includes/controls/groups/background.php:465
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr "Repeat-x"
+
+#: includes/controls/groups/background.php:463
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr "No-repeat"
+
+#: includes/controls/groups/background.php:457
+#: includes/controls/groups/background.php:464
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Repeat"
+
+#: includes/controls/groups/background.php:433
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Fixed"
+
+#: includes/controls/groups/background.php:432
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Scroll"
+
+#: includes/controls/groups/background.php:427
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "এটাচমেন্ট"
+
+#: includes/controls/groups/background.php:236
+#: includes/controls/groups/background.php:281
+#: includes/controls/groups/background.php:743
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: includes/controls/groups/background.php:234
+#: includes/controls/groups/background.php:279
+#: includes/controls/groups/background.php:741
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Bottom Center"
+
+#: includes/controls/groups/background.php:235
+#: includes/controls/groups/background.php:280
+#: includes/controls/groups/background.php:742
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: includes/controls/groups/background.php:230
+#: includes/controls/groups/background.php:275
+#: includes/controls/groups/background.php:737
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Center Right"
+
+#: includes/controls/groups/background.php:228
+#: includes/controls/groups/background.php:273
+#: includes/controls/groups/background.php:735
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Center Center"
+
+#: includes/controls/groups/background.php:229
+#: includes/controls/groups/background.php:274
+#: includes/controls/groups/background.php:736
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Center Left"
+
+#: includes/controls/groups/background.php:233
+#: includes/controls/groups/background.php:278
+#: includes/controls/groups/background.php:740
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Top Right"
+
+#: includes/controls/groups/background.php:231
+#: includes/controls/groups/background.php:276
+#: includes/controls/groups/background.php:738
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Top Center"
+
+#: includes/controls/groups/background.php:466
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr "Repeat-y"
+
+#: includes/controls/groups/background.php:478
+msgctxt "Background Control"
+msgid "Size"
+msgstr "সাইজ"
+
+#: includes/controls/groups/background.php:485
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Cover"
+
+#: includes/controls/groups/typography.php:106
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Family"
+
+#: includes/controls/groups/typography.php:113
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "সাইজ"
+
+#: includes/controls/groups/border.php:76
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Width"

@@ -1,0 +1,245 @@
+# Translation of Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release) in Bengali (Bangladesh)
+# This file is distributed under the same license as the Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-24 05:54:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: bn_BD\n"
+"Project-Id-Version: Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 2000+ Free Designs! - Stable (latest release)\n"
+
+#: core/api/class-rest-api.php:148
+msgid "400 Bad Request."
+msgstr "400 Bad Request."
+
+#: core/api/class-api.php:1352
+msgid "You have no items in your cloud."
+msgstr "আপনার ক্লাউডে কোন আইটেম নাই। "
+
+#: core/api/class-rest-api.php:145
+msgid "Unathorized Access: You have to logged in first."
+msgstr "অননুমোদিত অ্যাক্সেসঃ   আপনাকে প্রথমে লগ ইন করতে হবে। "
+
+#. Description of the plugin
+msgid "The Best Templates Cloud for Elementor & Gutenberg. Get access to stunning templates, WorkSpace, Cloud Library & many more."
+msgstr "এলিমেন্টর এবং গুটেনবার্গের জন্য সেরা টেমপ্লেট ক্লাউড। অসাধারন সব টেমপ্লেট, ওয়ার্কস্পেস, ক্লাউড লাইব্রেরি এবং আরও অনেক কিছুতে অ্যাক্সেস নিন ৷"
+
+#: core/api/class-api.php:431 core/api/class-api.php:946
+msgid "Something went wrong with fetching dependencies data."
+msgstr "ডিপেন্ডেন্সি ডাটা পেতে সমস্যা হচ্ছে । "
+
+#: core/api/class-requirement-installer.php:99
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "ফাইল সিস্টেমের সাথে সংযোগ করতে অক্ষম ৷ অনুগ্রহ পুর্বক আপনার ক্রেডেন্সিয়াল নিশ্চিত করুন। "
+
+#: core/api/class-api.php:1106
+msgid "Something went wrong. Maybe Invalid Credentials."
+msgstr "কিছু ভুল হয়েছে। সম্ভবতঃ ক্রেডেন্সিয়ালটি সঠিক নয়। "
+
+#: core/admin/views/header.php:6
+msgid "Version"
+msgstr "সংস্করণ"
+
+#: core/admin/class-admin.php:65 core/api/class-api.php:839
+msgid "Elementor"
+msgstr "এলিমেন্টর"
+
+#: core/api/class-api.php:749 core/api/class-api.php:1123
+msgid "Something went wrong"
+msgstr "কিছু একটা ভুল হয়েছে"
+
+#: core/api/class-api.php:247
+msgid "Something Went Wrong"
+msgstr "কিছু একটা ভুল হয়েছে"
+
+#: core/api/class-api.php:1589 core/api/class-api.php:1623
+msgid "Workspace not found."
+msgstr "ওয়ার্কস্পেস পাওয়া যায়নি। "
+
+#: core/api/class-api.php:1741 core/api/class-api.php:1745
+msgid "Workspace Not Found."
+msgstr "ওয়ার্কস্পেস পাওয়া যায়নি। "
+
+#: core/admin/class-admin.php:64
+msgid "requires"
+msgstr "প্রয়োজন"
+
+#: core/api/class-api.php:1505 core/api/class-api.php:1541
+#: core/api/class-api.php:1569 core/api/class-api.php:1619
+#: core/api/class-api.php:1646 core/api/class-api.php:1678
+#: core/api/class-api.php:1716 core/api/class-api.php:1736
+msgid "You need to re-logged in."
+msgstr "আপনাকে পুনরায় লগ ইন করতে হবে।"
+
+#: core/api/class-api.php:1545 core/api/class-api.php:1573
+msgid "You have to give title at least."
+msgstr "আপনাকে অন্তত শিরোনাম দিতে হবে।"
+
+#: core/api/class-api.php:1312
+msgid "Successfully Deleted."
+msgstr "সফলভাবে মুছে ফেলা হয়েছে।"
+
+#: core/api/class-api.php:1380
+msgid "Logged Out"
+msgstr "লগ আউট করা হয়েছে। "
+
+#: core/api/class-api.php:1355
+msgid "You have to logged in first via your admin dashboard."
+msgstr "আপনাকে প্রথমে আপনার অ্যাডমিন ড্যাশবোর্ডের মাধ্যমে লগ ইন করতে হবে।"
+
+#: core/api/class-api.php:1760
+msgid "Something went wrong regarding adding files to your Workspace. Try again or contact with Templately Support."
+msgstr "আপনার ওয়ার্কস্পেসে ফাইল যোগ করার ক্ষেত্রে কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1730
+msgid "Something went wrong regarding collecting your usage limit. Try again or contact with Templately Support."
+msgstr "আপনার ব্যবহারের সীমা সংগ্রহের ক্ষেত্রে কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1710
+msgid "Something went wrong regarding loading your WorkSpace. Try again or contact with Templately Support."
+msgstr "আপনার ওয়ার্কস্পেস লোড করার সময় কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1682
+msgid "Slug can't be empty."
+msgstr "স্লাগ খালি থাকতে পারবে না।"
+
+#: core/api/class-api.php:1640
+msgid "Something went wrong regarding delete WorkSpace. Try again or contact with Templately Support."
+msgstr "ওয়ার্কস্পেস মুছে ফেলার ক্ষেত্রে কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1563
+msgid "Something went wrong regarding create WorkSpace. Try again or contact with Templately Support."
+msgstr "ওয়ার্কস্পেস তৈরি করার ক্ষেত্রে কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1535
+msgid "Something went wrong loading WorkSpace. Try again or contact with Templately Support."
+msgstr "ওয়ার্কস্পেস লোড করার সময় কিছু ভুল হয়েছে। আবার চেষ্টা করুন বা Templately Support এর সাথে যোগাযোগ করুন।"
+
+#: core/api/class-api.php:1444
+msgid "Something went wrong. Please, try logged in again."
+msgstr "কিছু একটা ভুল হয়েছে। অনুগ্রহ করে আবার লগ ইন করুন।"
+
+#: core/api/class-api.php:983
+msgid "Something went wrong with Import!"
+msgstr "ইমপোর্ট করতে কিছু একটা ভুল হয়েছে।"
+
+#: core/api/class-api.php:1449
+msgid "Item ID or Item Type is not found."
+msgstr "আইটেম আইডি বা আইটেম টাইপ পাওয়া যায়নি। "
+
+#: core/api/class-api.php:570
+msgid "Activate Your Account!"
+msgstr "আপনার একাউন্ট সক্রিয় করুন!"
+
+#: core/api/class-api.php:81 core/api/class-api.php:562
+#: core/api/class-api.php:782 core/api/class-api.php:819
+#: core/api/class-api.php:879 core/api/class-api.php:1499
+msgid "Something went wrong."
+msgstr "কিছু একটা ভুল হয়েছে।"
+
+#: core/api/class-api.php:250
+msgid "There is nothing to save in your template."
+msgstr "আপনার টেমপ্লেটে সংরক্ষণ করার মতো কিছু নেই।"
+
+#: core/api/class-api.php:1300
+msgid "Template ID is not found to delete"
+msgstr "মুছে ফেলার জন্য টেম্পলেট এর আইডি খুঁজে পাওয়া যায় নি । "
+
+#: core/api/class-api.php:730
+msgid "ID not found to push the item in cloud."
+msgstr "ক্লাউডে আইটেমটি পুশ করার জন্য আইডি পাওয়া যায়নি।"
+
+#: core/api/class-api.php:669
+msgid "Name can't be empty."
+msgstr "নাম খালি রাখা যাবে না।"
+
+#: core/api/class-api.php:1152
+msgid "Password Field Can't be Empty."
+msgstr "পাসওয়ার্ড এর ঘরটি খালি থাকতে পারবে না।"
+
+#: core/api/class-api.php:1145
+msgid "Email Field Can't be Empty."
+msgstr "ইমেইল এর ঘরটি খালি থাকতে পারবে না।"
+
+#. Author URI of the plugin
+msgid "https://templately.com/"
+msgstr "https://templately.com/"
+
+#. Plugin URI of the plugin
+msgid "https://templately.com"
+msgstr "https://templately.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: core/admin/class-admin.php:63 core/admin/views/header.php:3
+msgid "Templately"
+msgstr "টেমপ্লেটলি"
+
+#: core/api/class-api.php:253
+msgid "No ID found to save your template."
+msgstr "আপনার টেমপ্লেট সংরক্ষণ করার জন্য কোনো আইডি পাওয়া যায়নি।"
+
+#: core/api/class-api.php:615 core/api/class-api.php:626
+#: core/api/class-api.php:920 core/api/class-api.php:957
+#: core/api/class-api.php:997 core/api/class-api.php:1046
+msgid "Something went wrong!"
+msgstr "কিছু একটা ভুল হয়েছে"
+
+#: core/api/class-api.php:639
+msgid "Templates ID Not Found."
+msgstr "টেমপ্লেটস্‌ আইডি খুঁজে পাওয়া যায়নি।"
+
+#: core/api/class-api.php:77
+msgid "Something went wrong. Nonce Issue."
+msgstr "কিছু একটা ভুল হয়েছে। নন্স এর সমস্যা।"
+
+#: core/api/class-api.php:1271
+msgid "API Key is not found"
+msgstr "API কী খুঁজে পাওয়া যায়নি "
+
+#: core/api/class-api.php:1083 core/api/class-api.php:1148
+msgid "Make sure you have given a valid email address."
+msgstr "নিশ্চিত করুন যে আপনি একটি সঠিক ইমেল এড্রেস দিয়েছেন। "
+
+#: core/api/class-api.php:1072
+msgid "API Key Field Cannot be Empty."
+msgstr "API কী এর ঘরটি খালি থাকতে পারবে না। "
+
+#: core/api/class-api.php:761
+msgid "ID not found to remove Template from Cloud."
+msgstr "ক্লাউড থেকে টেমপ্লেট মুছার জন্য আইডি পাওয়া যায়নি।"
+
+#: core/api/class-api.php:683
+msgid "API Key is not found, try to re-login."
+msgstr "API কী পাওয়া যায়নি, পুনরায় লগইন করার চেষ্টা করুন।"
+
+#: core/api/class-api.php:1141
+msgid "Last Name Can't be Empty."
+msgstr "নামের শেষ অংশ খালি থাকতে পারবে না।"
+
+#: core/api/class-api.php:1138
+msgid "First Name Can't be Empty."
+msgstr "নামের প্রথমাংশ খালি থাকতে পারবে না।"
+
+#: core/api/class-api.php:1087
+msgid "Password Field Cannot be Empty."
+msgstr "পাসওয়ার্ড-এর ঘর ফাঁকা রাখা যাবেনা।"
+
+#: core/api/class-api.php:673
+msgid "Data has to be an array."
+msgstr "ডেটাটি অবশ্যই একটি অ্যারে হতে হবে।"
+
+#: core/api/class-api.php:676
+msgid "There is no data to push."
+msgstr "পুশ করার জন্য কোন ডেটা নেই।"
+
+#: core/api/class-api.php:1287
+msgid "Successfully Connected"
+msgstr "সফলভাবে সংযুক্ত হয়েছে"
+
+#: core/api/class-api.php:765
+msgid "You have no rights to delete file from Cloud. You have to logged in first"
+msgstr "আপনার ক্লাউড থেকে ফাইল মুছে ফেলার কোন অধিকার নেই। আপনাকে প্রথমে লগ ইন করতে হবে।"

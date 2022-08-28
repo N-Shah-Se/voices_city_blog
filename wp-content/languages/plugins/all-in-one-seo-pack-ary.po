@@ -1,0 +1,152 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Moroccan Arabic
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-26 15:26:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: ar_MA\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:63
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى Pro"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "مستندات المساعدة"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:553 app/Lite/Main/Filters.php:48
+msgid "SEO Settings"
+msgstr "إعدادات SEO"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+msgid "Post Types"
+msgstr "أنواع المقالات"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+msgid "Taxonomies"
+msgstr "التصنيفات"
+
+#: app/Common/Sitemap/Sitemap.php:491
+msgid "Additional Pages"
+msgstr "صفحات اضافية"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "عملي"
+
+#: app/Common/Admin/Admin.php:386 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "السيو"
+
+#: app/Common/Admin/Admin.php:534
+msgid "Edit SEO"
+msgstr "تعديل السيو"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "إضافة All in One SEO"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53
+msgid "Support"
+msgstr "الدعم"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "النسخة"
+
+#: app/Common/Admin/Admin.php:200
+msgid "Feature Manager"
+msgstr "إدارة الميزات"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "No"
+msgstr "لا"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "غير مضبوط"
+
+#: app/Common/Tools/SystemStatus.php:186
+msgid "N/A"
+msgstr "N/A"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "Yes"
+msgstr "نعم"
+
+#: app/Common/Tools/SystemStatus.php:177
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "نسخة PHP "
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "حد ذاكرة PHP"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "PHP الحجم الاقصى للتحميل"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "PHP الحجم الاقصى للمشاركة"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "رابط الموقع"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "رابط الصفحة الرئيسية"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "مواقع متعددة"
+
+#: app/Common/Tools/SystemStatus.php:243
+msgid "Active Theme"
+msgstr "القالب المفعل"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Disabled"
+msgstr "معطل"
+
+#: app/Common/Admin/Admin.php:301 app/Common/Models/Post.php:430
+#: app/Common/Views/sitemap/html/widget-options.php:8
+msgid "Title"
+msgstr "العنوان"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Description"
+msgstr "الوصف"
+
+#: app/Common/Admin/Admin.php:162
+msgid "General Settings"
+msgstr "الإعدادات العامة"

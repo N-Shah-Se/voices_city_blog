@@ -1,0 +1,33 @@
+/*
+	@name Settings
+	@version 1.0.0
+ */
+.auth-status {
+	margin-bottom: 2em;
+}
+.connected {
+	font-weight:bold;
+	color: green;				
+}
+.disconnected {
+	font-weight:bold;
+	color: red;				
+}
+
+.top-right { 
+	padding: 0 0 20px; 
+} 
+
+.disclaimer {
+    padding: 1em;
+    border: 1px solid rgb(251, 255, 100);
+    background-color: rgb(254, 255, 246);
+        
+}
+
+.postbox .amazon-auto-links-sectionset {
+    margin-bottom: 0;
+}
+.postbox .amazon-auto-links-section {
+    margi-bottom: 1em;
+}

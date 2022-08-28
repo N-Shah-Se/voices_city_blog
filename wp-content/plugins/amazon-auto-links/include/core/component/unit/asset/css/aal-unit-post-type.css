@@ -1,0 +1,71 @@
+/**
+ * @name Unit Post Type
+ * @version 1.1.1
+ */
+#post-body-content {
+    margin-bottom: 10px;
+}
+#edit-slug-box {
+    display: none;
+}
+
+/* Hide the submit button for the post type drop-down filter */
+#post-query-submit {
+    display: none;
+}            
+/* List Table Columns */
+.column-status {
+    width: 5.2%;
+    text-align: center;  
+}            
+.column-unit_type, 
+.column-template {
+    width:10%; 
+}
+.column-feed {
+    width: 5%;
+}
+/* Feed column */
+.column-feed { 
+    text-align: center 
+}
+.feed-icon {
+    display: inline-block;
+    margin-top: 0.4em;
+    margin-right: 0.8em;
+}
+/* Labels (taxonomy tag ) column */
+.column-amazon_auto_links_tag {
+    width: 12%;
+}
+/* Status Circle */
+.circle {
+    height: 1em;
+    width: 1em;              
+    border-radius: 50%;
+    display: inline-block;                                
+}
+.green {            
+    background-color: #339933;
+}
+.gray {
+    background-color: #999999;
+}
+.red {
+    background-color: red;
+}
+.unknown {
+    background-color: #DDD;
+} 
+.column-status .circle {
+    margin-top: 0.4em;
+}
+
+/* Details Column */
+tr.type-amazon_auto_links:first-child td ul {
+    margin-bottom: 0.1em;
+}
+
+.warning-tooltip-content {
+    display: none;
+}

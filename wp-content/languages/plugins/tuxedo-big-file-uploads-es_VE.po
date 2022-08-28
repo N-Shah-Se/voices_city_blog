@@ -1,0 +1,28 @@
+# Translation of Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release) in Spanish (Venezuela)
+# This file is distributed under the same license as the Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-28 19:31:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_VE\n"
+"Project-Id-Version: Plugins - Big File Uploads &#8211; Increase Maximum File Upload Size - Stable (latest release)\n"
+
+#. translators: %s: Name of the file that failed to upload.
+#: tuxedo_big_file_uploads.php:511 tuxedo_big_file_uploads.php:576
+#: tuxedo_big_file_uploads.php:613 tuxedo_big_file_uploads.php:660
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "«%s» no se ha podido subir."
+
+#: tuxedo_big_file_uploads.php:325 tuxedo_big_file_uploads.php:507
+#: tuxedo_big_file_uploads.php:572 tuxedo_big_file_uploads.php:609
+#: tuxedo_big_file_uploads.php:656
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: tuxedo_big_file_uploads.php:496 tuxedo_big_file_uploads.php:514
+msgid "The file size has exceeded the maximum file size setting."
+msgstr "El fichero supera el tamaño de archivo máximo establecido."

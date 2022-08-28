@@ -1,0 +1,1586 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-02 02:16:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:563
+msgid "of"
+msgstr "of"
+
+#: app/Common/Schema/Context.php:224
+msgid "Not Found"
+msgstr "Not Found"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name
+#. ("AIOSEO"), 3 - Opening link tag, 4 - Closing link tag.
+#: app/Common/Migration/GeneralSettings.php:457
+msgid "%1$s migrated all your title formats, some of which were blank. If you were purposely using blank formats in the previous version of %2$s and want WordPress to handle your titles, you can safely dismiss this message. For more information, check out our documentation on %3$sblank title formats%4$s."
+msgstr "%1$s migrated all your title formats, some of which were blank. If you were purposely using blank formats in the previous version of %2$s and want WordPress to handle your titles, you can safely dismiss this message. For more information, check out our documentation on %3$sblank title formats%4$s."
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:202
+msgid "Question"
+msgstr "Question"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - Opening link tag, 3 -
+#. Closing link tag.
+#: app/Common/Admin/Notices/Notices.php:567
+msgid "Warning: %1$s has detected the use of filters that have been deprecated on your site. These filters may be in use by another plugin or your theme. If that is the case, these filters most likely will not work with this plugin. Please make sure you have updated all your plugins. If you have manually added these filters, please %2$scheck out our documentation%3$s for the updated filters to use."
+msgstr "Warning: %1$s has detected the use of filters that have been deprecated on your site. These filters may be in use by another plugin or your theme. If that is the case, these filters most likely will not work with this plugin. Please make sure you have updated all your plugins. If you have manually added these filters, please %2$scheck out our documentation%3$s for the updated filters to use."
+
+#: app/Common/Utils/Tags.php:315
+msgid "The first name of the post author."
+msgstr "The first name of the post author."
+
+#: app/Common/Utils/Tags.php:310
+msgid "The display name of the post author."
+msgstr "The display name of the post author."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - Same as previous, 3
+#. - Same as previous.
+#: app/init/notices.php:227
+msgid "Your site already has %1$s Pro activated. If you want to switch to %2$s Lite, please first go to Plugins > Installed Plugins and deactivate %1$s. Then, you can activate %3$s Lite."
+msgstr "Your site already has %1$s Pro activated. If you want to switch to %2$s Lite, please first go to Plugins > Installed Plugins and deactivate %1$s. Then, you can activate %3$s Lite."
+
+#: app/init/notices.php:225
+msgid "Heads up!"
+msgstr "Heads up!"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:113
+msgid "%1$sNote:%2$s Support for PHP 5.4 will be discontinued in 2021. After this, if no further action is taken, %3$s functionality will be disabled. %4$sRead more for additional information.%5$s"
+msgstr "%1$sNote:%2$s Support for PHP 5.4 will be discontinued in 2021. After this, if no further action is taken, %3$s functionality will be disabled. %4$sRead more for additional information.%5$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 -
+#. Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:90
+msgid "Your site is running an %1$soutdated version%2$s of PHP that is no longer supported and may cause issues with %3$s. Please contact your web hosting provider to update your PHP version or switch to a %4$srecommended WordPress hosting company%5$s."
+msgstr "Your site is running an %1$soutdated version%2$s of PHP that is no longer supported and may cause issues with %3$s. Please contact your web hosting provider to update your PHP version or switch to a %4$srecommended WordPress hosting company%5$s."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:46
+msgid "%1$sNote:%2$s %3$s plugin is disabled on your site until you fix the issue. %4$sRead more for additional information.%5$s"
+msgstr "%1$sNote:%2$s %3$s plugin is disabled on your site until you fix the issue. %4$sRead more for additional information.%5$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 -
+#. Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:24
+msgid "Your site is running an %1$sinsecure version%2$s of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a %3$srecommended WordPress hosting company%4$s."
+msgstr "Your site is running an %1$sinsecure version%2$s of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a %3$srecommended WordPress hosting company%4$s."
+
+#: app/Common/Utils/Tags.php:978
+msgid "Sample Taxonomy Name Value"
+msgstr "Sample Taxonomy Name Value"
+
+#: app/Common/Utils/Tags.php:976
+msgid "Sample Custom Field Value"
+msgstr "Sample Custom Field Value"
+
+#: app/Common/Utils/Tags.php:974
+msgid "Example search string"
+msgstr "Example search string"
+
+#: app/Common/Utils/Tags.php:934
+msgid "Sample author biography"
+msgstr "Sample author biography"
+
+#: app/Common/Utils/Tags.php:926
+msgid "Sample Archive Title"
+msgstr "Sample Archive Title"
+
+#: app/Common/Utils/Tags.php:906
+msgid "Sample taxonomy description"
+msgstr "Sample taxonomy description"
+
+#: app/Common/Utils/Tags.php:889
+msgid "Sample Category 1, Sample Category 2"
+msgstr "Sample Category 1, Sample Category 2"
+
+#: app/Common/Utils/Tags.php:886
+msgid "Sample Taxonomy Title"
+msgstr "Sample Taxonomy Title"
+
+#: app/Common/Utils/Tags.php:881
+msgid "An example of content from your page/post."
+msgstr "An example of content from your page/post."
+
+#: app/Common/Utils/Tags.php:869 app/Common/Utils/Tags.php:872
+msgid "Sample excerpt from a page/post."
+msgstr "Sample excerpt from a page/post."
+
+#: app/Common/Utils/Tags.php:822
+msgid "Sample Parent"
+msgstr "Sample Parent"
+
+#: app/Common/Utils/Tags.php:819
+msgid "Sample Post"
+msgstr "Sample Post"
+
+#: app/Common/Utils/Tags.php:804
+msgid "Sample caption for media."
+msgstr "Sample caption for media."
+
+#: app/Common/Utils/Tags.php:799
+msgid "A sample alt tag for your image"
+msgstr "A sample alt tag for your image"
+
+#: app/Common/Utils/Tags.php:532
+msgid "All categories that are assigned to the current post, comma-separated."
+msgstr "All categories that are assigned to the current post, comma-separated."
+
+#: app/Common/Utils/Tags.php:527
+msgid "The title of the parent post of the current page/post."
+msgstr "The title of the parent post of the current page/post."
+
+#: app/Common/Utils/Tags.php:526
+msgid "Parent Title"
+msgstr "Parent Title"
+
+#: app/Common/Utils/Tags.php:522
+msgid "The meta description for the current page/post."
+msgstr "The meta description for the current page/post."
+
+#: app/Common/Utils/Tags.php:516
+msgid "The name of the first term of a given taxonomy that is assigned to the current page/post."
+msgstr "The name of the first term of a given taxonomy that is assigned to the current page/post."
+
+#: app/Common/Utils/Tags.php:515
+msgid "Taxonomy Name"
+msgstr "Taxonomy Name"
+
+#: app/Common/Utils/Tags.php:511
+msgid "The term the user is searching for."
+msgstr "The term the user is searching for."
+
+#: app/Common/Utils/Tags.php:510
+msgid "Search Term"
+msgstr "Search Term"
+
+#: app/Common/Utils/Tags.php:505
+msgid "A custom field from the current page/post."
+msgstr "A custom field from the current page/post."
+
+#: app/Common/Utils/Tags.php:504
+msgid "Custom Field"
+msgstr "Custom Field"
+
+#: app/Common/Utils/Tags.php:500
+msgid "The tagline for your site, set in the general settings."
+msgstr "The tagline for your site, set in the general settings."
+
+#: app/Common/Utils/Tags.php:499
+msgid "Tagline"
+msgstr "Tagline"
+
+#: app/Common/Utils/Tags.php:494
+msgid "The description for your site."
+msgstr "The description for your site."
+
+#: app/Common/Utils/Tags.php:470 app/Common/Utils/Tags.php:482
+msgid "Site link (link as text)."
+msgstr "Site link (link as text)."
+
+#: app/Common/Utils/Tags.php:469
+msgid "Site Link (Alt)"
+msgstr "Site Link (Alt)"
+
+#: app/Common/Utils/Tags.php:464
+msgid "Site link (name as text)."
+msgstr "Site link (name as text)."
+
+#: app/Common/Utils/Tags.php:463 app/Common/Utils/Tags.php:481
+msgid "Site Link"
+msgstr "Site Link"
+
+#: app/Common/Utils/Tags.php:459
+msgid "The separator defined in the search appearance settings."
+msgstr "The separator defined in the search appearance settings."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:130 app/Common/Utils/Tags.php:454
+msgid "The original title of the current post."
+msgstr "The original title of the current post."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:447
+msgid "Post link (link as text)."
+msgstr "Post link (link as text)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:440
+msgid "Post link (name as text)."
+msgstr "Post link (name as text)."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:434
+msgid "The year when the page/post was published, localized."
+msgstr "The year when the page/post was published, localized."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:433
+msgid "%1$s Year"
+msgstr "%1$s Year"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:428
+msgid "The month when the page/post was published, localized."
+msgstr "The month when the page/post was published, localized."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:427
+msgid "%1$s Month"
+msgstr "%1$s Month"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:422
+msgid "The day of the month when the page/post was published, localized."
+msgstr "The day of the month when the page/post was published, localized."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:421
+msgid "%1$s Day"
+msgstr "%1$s Day"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:416
+msgid "The date when the page/post was published, localized."
+msgstr "The date when the page/post was published, localized."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:415
+msgid "%1$s Date"
+msgstr "%1$s Date"
+
+#: app/Common/Utils/Tags.php:410
+msgid "The date of the current archive, localized."
+msgstr "The date of the current archive, localized."
+
+#: app/Common/Utils/Tags.php:409
+msgid "Archive Date"
+msgstr "Archive Date"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:405
+msgid "The content of your page/post."
+msgstr "The content of your page/post."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:404
+msgid "%1$s Content"
+msgstr "%1$s Content"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:399
+msgid "The excerpt defined on your page/post. Will not fall back to the post content."
+msgstr "The excerpt defined on your page/post. Will not fall back to the post content."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:398
+msgid "%1$s Excerpt Only"
+msgstr "%1$s Excerpt Only"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:393
+msgid "The excerpt defined on your page/post."
+msgstr "The excerpt defined on your page/post."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:392
+msgid "%1$s Excerpt"
+msgstr "%1$s Excerpt"
+
+#: app/Common/Utils/Tags.php:387
+msgid "The current year, localized."
+msgstr "The current year, localized."
+
+#: app/Common/Utils/Tags.php:386
+msgid "Current Year"
+msgstr "Current Year"
+
+#: app/Common/Utils/Tags.php:382
+msgid "The current month, localized."
+msgstr "The current month, localized."
+
+#: app/Common/Utils/Tags.php:381
+msgid "Current Month"
+msgstr "Current Month"
+
+#: app/Common/Utils/Tags.php:377
+msgid "The current day of the month, localized."
+msgstr "The current day of the month, localized."
+
+#: app/Common/Utils/Tags.php:376
+msgid "Current Day"
+msgstr "Current Day"
+
+#: app/Common/Utils/Tags.php:372
+msgid "The current date, localized."
+msgstr "The current date, localized."
+
+#: app/Common/Utils/Tags.php:371
+msgid "Current Date"
+msgstr "Current Date"
+
+#: app/Common/Utils/Tags.php:367
+msgid "The page number for the current paginated page."
+msgstr "The page number for the current paginated page."
+
+#: app/Common/Breadcrumbs/Tags.php:196 app/Common/Utils/Tags.php:366
+msgid "Page Number"
+msgstr "Page Number"
+
+#: app/Common/Utils/Tags.php:362
+msgid "The permalink for the current page/post."
+msgstr "The permalink for the current page/post."
+
+#: app/Common/Breadcrumbs/Tags.php:118 app/Common/Utils/Tags.php:361
+msgid "Permalink"
+msgstr "Permalink"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:356
+msgid "Current or first category link (link as text)."
+msgstr "Current or first category link (link as text)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:355 app/Common/Utils/Tags.php:446
+msgid "%1$s Link (Alt)"
+msgstr "%1$s Link (Alt)"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:349
+msgid "Current or first category link (name as text)."
+msgstr "Current or first category link (name as text)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:348 app/Common/Utils/Tags.php:439
+msgid "%1$s Link"
+msgstr "%1$s Link"
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:343
+msgid "Current or first category description."
+msgstr "Current or first category description."
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:342
+msgid "%1$s Description"
+msgstr "%1$s Description"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:330 app/Common/Utils/Tags.php:337
+msgid "Current or first category title."
+msgstr "Current or first category title."
+
+#: app/Common/Utils/Tags.php:325
+msgid "The title of the current archive."
+msgstr "The title of the current archive."
+
+#: app/Common/Utils/Tags.php:324
+msgid "Archive Title"
+msgstr "Archive Title"
+
+#: app/Common/Breadcrumbs/Tags.php:161 app/Common/Utils/Tags.php:319
+msgid "Author Last Name"
+msgstr "Author Last Name"
+
+#: app/Common/Breadcrumbs/Tags.php:156 app/Common/Utils/Tags.php:314
+msgid "Author First Name"
+msgstr "Author First Name"
+
+#: app/Common/Utils/Tags.php:309
+msgid "Author Name"
+msgstr "Author Name"
+
+#: app/Common/Utils/Tags.php:305
+msgid "The biography of the author."
+msgstr "The biography of the author."
+
+#: app/Common/Utils/Tags.php:304
+msgid "Author Biography"
+msgstr "Author Biography"
+
+#: app/Common/Utils/Tags.php:300
+msgid "Author archive link (link as text)."
+msgstr "Author archive link (link as text)."
+
+#: app/Common/Utils/Tags.php:299
+msgid "Author Link (Alt)"
+msgstr "Author Link (Alt)"
+
+#: app/Common/Utils/Tags.php:295
+msgid "Author archive link (name as text)."
+msgstr "Author archive link (name as text)."
+
+#: app/Common/Utils/Tags.php:294
+msgid "Author Link"
+msgstr "Author Link"
+
+#: app/Common/Utils/Tags.php:290
+msgid "Caption for the current media file."
+msgstr "Caption for the current media file."
+
+#: app/Common/Utils/Tags.php:289
+msgid "Media Caption"
+msgstr "Media Caption"
+
+#: app/Common/Utils/Tags.php:284
+msgid "Image Alt Tag"
+msgstr "Image Alt Tag"
+
+#: app/Common/Options/Options.php:529
+msgid "Archives for"
+msgstr "Archives for"
+
+#: app/Common/Traits/Helpers/Wp.php:184
+msgid "Attachments"
+msgstr "Attachments"
+
+#. Translators: 1 - "statically" or "dynamically", 2 - The date, 3 - The  time,
+#. 4 - The plugin name ("All in One SEO").
+#: app/Common/Sitemap/Output.php:37
+msgid "This sitemap was %1$s generated on %2$s at %3$s by %4$s - the original SEO plugin for WordPress."
+msgstr "This sitemap was %1$s generated on %2$s at %3$s by %4$s - the original SEO plugin for WordPress."
+
+#: app/Common/Sitemap/Output.php:32
+msgid "statically"
+msgstr "statically"
+
+#: app/Common/Sitemap/Sitemap.php:155
+msgid "Delete Static Files"
+msgstr "Delete Static Files"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Sitemap/Sitemap.php:148
+msgid ""
+"%1$s has detected static sitemap files in the root folder of your WordPress installation.\n"
+"\t\t\t\tAs long as these files are present, %2$s is not able to dynamically generate your sitemap."
+msgstr ""
+"%1$s has detected static sitemap files in the root folder of your WordPress installation.\n"
+"\t\t\t\tAs long as these files are present, %2$s is not able to dynamically generate your sitemap."
+
+#: app/Common/Sitemap/Sitemap.php:145
+msgid "Static sitemap files detected"
+msgstr "Static sitemap files detected"
+
+#. Translators: 1 - The phone number.
+#: app/Common/ImportExport/RankMath/TitleMeta.php:409
+msgid ""
+"We were unable to import the phone number that you previously entered for your Knowledge Graph schema markup.\n"
+"\t\t\t\t\tAs it needs to be internationally formatted, please enter it (%1$s) with the country code, e.g. +1 (555) 555-1234."
+msgstr ""
+"We were unable to import the phone number that you previously entered for your Knowledge Graph schema markup.\n"
+"\t\t\t\t\tAs it needs to be internationally formatted, please enter it (%1$s) with the country code, e.g. +1 (555) 555-1234."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Api/Wizard.php:264
+msgid "You selected to install the free MonsterInsights Analytics plugin during the setup of %1$s, but there was an issue during installation. Click below to manually install."
+msgstr "You selected to install the free MonsterInsights Analytics plugin during the setup of %1$s, but there was an issue during installation. Click below to manually install."
+
+#: app/Common/Api/Wizard.php:261 app/Common/Api/Wizard.php:269
+msgid "Install MonsterInsights"
+msgstr "Install MonsterInsights"
+
+#: app/Common/Api/Wizard.php:57
+msgid "Try Again"
+msgstr "Try Again"
+
+#: app/Common/Api/Wizard.php:54
+msgid "Unfortunately, there was an error importing your SEO plugin settings. This could be due to an incompatibility in the version installed. Make sure you are on the latest version of the plugin and try again."
+msgstr "Unfortunately, there was an error importing your SEO plugin settings. This could be due to an incompatibility in the version installed. Make sure you are on the latest version of the plugin and try again."
+
+#: app/Common/Api/Wizard.php:53
+msgid "SEO Plugin Import Failed"
+msgstr "SEO Plugin Import Failed"
+
+#: app/Common/Api/Tools.php:224
+msgid "An error occurred while trying to write to the .htaccess file. Please try again later."
+msgstr "An error occurred while trying to write to the .htaccess file. Please try again later."
+
+#: app/Common/Api/Tools.php:121
+msgid "Unable to send debug email, please check your email send settings and try again."
+msgstr "Unable to send debug email, please check your email send settings and try again."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The Site URL.
+#: app/Common/Api/Tools.php:100
+msgid "%1$s Debug Info from %2$s"
+msgstr "%1$s Debug Info from %2$s"
+
+#: app/Common/Api/Tools.php:42 app/Common/Api/Tools.php:66
+msgid "There was an error deleting the physical robots.txt file."
+msgstr "There was an error deleting the physical robots.txt file."
+
+#: app/Common/Api/Tools.php:33
+msgid "There was an error importing the physical robots.txt file."
+msgstr "There was an error importing the physical robots.txt file."
+
+#: app/Common/Api/Plugins.php:126 app/Common/Api/Sitemaps.php:84
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "Deactivation failed. Please check permissions and try again."
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr "Installation failed. Please check permissions and try again."
+
+#: app/Common/Api/PostsTerms.php:225
+msgid "Post ID is missing."
+msgstr "Post ID is missing."
+
+#: app/Common/Api/PostsTerms.php:136 app/Common/Api/PostsTerms.php:168
+msgid "No post ID was provided."
+msgstr "No post ID was provided."
+
+#: app/Common/Migration/SocialMeta.php:106
+msgid "Review Your Facebook Open Graph Titles and Descriptions"
+msgstr "Review Your Facebook Open Graph Titles and Descriptions"
+
+#: app/Common/Migration/SocialMeta.php:90
+msgid "Due to some changes in how our Open Graph integration works, your Facebook Titles and Descriptions may have changed. You were using the following options that have been removed:"
+msgstr "Due to some changes in how our Open Graph integration works, your Facebook Titles and Descriptions may have changed. You were using the following options that have been removed:"
+
+#. Translators: 1 - The phone number.
+#: app/Common/Migration/GeneralSettings.php:740
+msgid "The phone number that you previously entered for your Knowledge Graph schema markup is invalid. As it needs to be internationally formatted, please enter it (%1$s) again with the country code, e.g. +1 (555) 555-1234."
+msgstr "The phone number that you previously entered for your Knowledge Graph schema markup is invalid. As it needs to be internationally formatted, please enter it (%1$s) again with the country code, e.g. +1 (555) 555-1234."
+
+#: app/Common/ImportExport/RankMath/TitleMeta.php:406
+#: app/Common/Migration/GeneralSettings.php:737
+msgid "Invalid Phone Number for Knowledge Graph"
+msgstr "Invalid Phone Number for Knowledge Graph"
+
+#: app/Common/Migration/GeneralSettings.php:467
+msgid "Blank Title Formats Detected"
+msgstr "Blank Title Formats Detected"
+
+#: app/Common/Migration/GeneralSettings.php:375
+msgid "Review Now"
+msgstr "Review Now"
+
+#. Translators: 1 - All in One SEO.
+#: app/Common/Migration/GeneralSettings.php:370
+msgid "Due to a bug in the previous version of %1$s, your homepage title and description may have changed. Please take a minute to review your homepage settings to verify that they are correct."
+msgstr "Due to a bug in the previous version of %1$s, your homepage title and description may have changed. Please take a minute to review your homepage settings to verify that they are correct."
+
+#: app/Common/Migration/GeneralSettings.php:367
+msgid "Review Your Homepage Title & Description"
+msgstr "Review Your Homepage Title & Description"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Migration/Helpers.php:161
+msgid ""
+"%1$s has detected that you have one or more custom fields with spaces in their name.\n"
+"\t\t\t\t\t\t\t\tIn order for %2$s to correctly parse these custom fields, their names cannot contain any spaces."
+msgstr ""
+"%1$s has detected that you have one or more custom fields with spaces in their name.\n"
+"\t\t\t\t\t\t\t\tIn order for %2$s to correctly parse these custom fields, their names cannot contain any spaces."
+
+#: app/Common/Migration/Helpers.php:158
+msgid "Custom field names with spaces detected"
+msgstr "Custom field names with spaces detected"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/header.php:26
+msgid "You can find more information about XML Sitemaps at %1$ssitemaps.org%2$s."
+msgstr "You can find more information about XML Sitemaps at %1$ssitemaps.org%2$s."
+
+#: app/Common/Tools/RobotsTxt.php:363
+msgid "Physical Robots.txt File Detected"
+msgstr "Physical Robots.txt File Detected"
+
+#: app/Common/Tools/SystemStatus.php:296 app/Common/Tools/SystemStatus.php:328
+msgid "needs update"
+msgstr "needs update"
+
+#: app/Common/Tools/SystemStatus.php:194
+msgid "Not Set"
+msgstr "Not Set"
+
+#: app/Common/Tools/SystemStatus.php:193
+msgid "MySQL SQL Mode"
+msgstr "MySQL SQL Mode"
+
+#: app/Common/Tools/SystemStatus.php:182
+msgid "unknown"
+msgstr "unknown"
+
+#: app/Common/Tools/SystemStatus.php:181
+msgid "Web Server"
+msgstr "Web Server"
+
+#: app/Common/Tools/SystemStatus.php:121
+msgid "Constants"
+msgstr "Constants"
+
+#: app/Common/Tools/SystemStatus.php:106
+msgid "Base URL:"
+msgstr "Base URL:"
+
+#: app/Common/Tools/SystemStatus.php:105
+msgid "Base Directory:"
+msgstr "Base Directory:"
+
+#: app/Common/Tools/SystemStatus.php:104
+msgid "Url:"
+msgstr "Url:"
+
+#: app/Common/Tools/SystemStatus.php:103
+msgid "Path:"
+msgstr "Path:"
+
+#: app/Common/Tools/SystemStatus.php:101
+msgid "Upload Directory Info"
+msgstr "Upload Directory Info"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Hidden"
+msgstr "Hidden"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Visible"
+msgstr "Visible"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Front Page Info"
+msgstr "Front Page Info"
+
+#: app/Common/Tools/SystemStatus.php:89
+msgid "User Count"
+msgstr "User Count"
+
+#: app/Common/Tools/SystemStatus.php:77
+msgid "Permalink Structure"
+msgstr "Permalink Structure"
+
+#: app/Common/Tools/SystemStatus.php:61
+msgid "User Language"
+msgstr "User Language"
+
+#: app/Common/Tools/SystemStatus.php:42
+msgid "Latest version:"
+msgstr "Latest version:"
+
+#: app/Common/Tools/BadBotBlocker.php:223
+msgid "(Invalid IP)"
+msgstr "(Invalid IP)"
+
+#. Translators: 1 - The estimated reading time.
+#: app/Common/Social/Twitter.php:239
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s minute"
+msgstr[1] "%1$s minutes"
+
+#: app/Common/Social/Twitter.php:237
+msgid "Est. reading time"
+msgstr "Est. reading time"
+
+#: app/Common/Social/Twitter.php:228
+msgid "Written by"
+msgstr "Written by"
+
+#. Translators: 1 - The date the article was published on.
+#: app/Common/Schema/Graphs/NewsArticle.php:31
+msgid "Published on %1$s."
+msgstr "Published on %1$s."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:134
+msgid "%1$s Settings"
+msgstr "%1$s Settings"
+
+#: app/Common/Admin/SiteHealth.php:379
+msgid "Your entire site is set to globally nofollow content."
+msgstr "Your entire site is set to globally nofollow content."
+
+#: app/Common/Admin/SiteHealth.php:313
+msgid "Your entire site is set to globally noindex content."
+msgstr "Your entire site is set to globally noindex content."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:292
+msgid "%1$s is updated to the latest version"
+msgstr "%1$s is updated to the latest version"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:275
+msgid "%1$s needs to be updated"
+msgstr "%1$s needs to be updated"
+
+#: app/Common/Admin/SiteHealth.php:200 app/Common/Admin/SiteHealth.php:235
+msgid "Go to Schema Settings"
+msgstr "Go to Schema Settings"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:52
+msgid "%1$s Schema Markup"
+msgstr "%1$s Schema Markup"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:46
+msgid "%1$s Plugin Update"
+msgstr "%1$s Plugin Update"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:41
+msgid "%1$s Site Info"
+msgstr "%1$s Site Info"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:36
+msgid "%1$s Site Public"
+msgstr "%1$s Site Public"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Standalone/SetupWizard.php:173
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; Onboarding Wizard"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:998
+msgid "%1$s Score"
+msgstr "%1$s Score"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Standalone/DetailsColumn.php:114
+msgid "%1$s Details"
+msgstr "%1$s Details"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), - 2 - This placeholder
+#. will be replaced with star icons, - 3 - "WordPress.org" - 4 - The plugin
+#. name ("All in One SEO").
+#: app/Common/Admin/Admin.php:937
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+msgstr "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:310
+msgid "%1$sAdd %2$srel=\"UGC\"%3$s to link"
+msgstr "%1$sAdd %2$srel=\"UGC\"%3$s to link"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:308
+msgid "%1$sAdd %2$srel=\"sponsored\"%3$s to link"
+msgstr "%1$sAdd %2$srel=\"sponsored\"%3$s to link"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:306
+msgid "%1$sAdd %2$srel=\"nofollow\"%3$s to link"
+msgstr "%1$sAdd %2$srel=\"nofollow\"%3$s to link"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:45
+msgid "This notice will automatically disappear as soon as the migration has completed. Meanwhile, everything should continue to work as expected."
+msgstr "This notice will automatically disappear as soon as the migration has completed. Meanwhile, everything should continue to work as expected."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:44
+msgid "%1$s is currently upgrading your database and migrating your SEO data in the background."
+msgstr "%1$s is currently upgrading your database and migrating your SEO data in the background."
+
+#. Translators: 1 - The plugin name ("AIOSEO).
+#: app/Common/Admin/Notices/Migration.php:42
+msgid "%1$s V3->V4 Migration In Progress"
+msgstr "%1$s V3->V4 Migration In Progress"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:41
+msgid "This notice will automatically disappear as soon as the import has completed. Meanwhile, everything should continue to work as expected."
+msgstr "This notice will automatically disappear as soon as the import has completed. Meanwhile, everything should continue to work as expected."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:40
+msgid "%1$s is importing your existing SEO data in the background."
+msgstr "%1$s is importing your existing SEO data in the background."
+
+#: app/Common/Admin/Notices/Import.php:38
+msgid "SEO Meta Import In Progress"
+msgstr "SEO Meta Import In Progress"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99
+msgid "CEO of %1$s"
+msgstr "CEO of %1$s"
+
+#: app/Common/Admin/Notices/Notices.php:592
+msgid "Deprecated Filters Detected"
+msgstr "Deprecated Filters Detected"
+
+#: app/Common/Admin/Notices/Notices.php:535
+msgid "Conflicting Plugins Detected"
+msgstr "Conflicting Plugins Detected"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:458
+msgid "Warning: %1$s has detected that you may have an invalid description format. This could lead to descriptions not being properly applied to your content."
+msgstr "Warning: %1$s has detected that you may have an invalid description format. This could lead to descriptions not being properly applied to your content."
+
+#: app/Common/Admin/Notices/Notices.php:455
+msgid "Invalid Description Format"
+msgstr "Invalid Description Format"
+
+#: app/Common/Admin/Notices/Notices.php:414
+#: app/Common/Admin/Notices/Notices.php:463
+#: app/Common/Admin/Notices/Notices.php:539
+#: app/Common/ImportExport/RankMath/TitleMeta.php:415
+#: app/Common/Migration/GeneralSettings.php:745
+msgid "Fix Now"
+msgstr "Fix Now"
+
+#: app/Common/Admin/Notices/Notices.php:406
+msgid "Search Engines Blocked"
+msgstr "Search Engines Blocked"
+
+#: app/AIOSEO.php:239
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "Plugin is missing required dependencies. Please contact support for more information."
+
+#. Translators: 1 - "WooCommerce".
+#: app/Lite/Admin/Notices/Notices.php:78
+msgid "Advanced %1$s Support"
+msgstr "Advanced %1$s Support"
+
+#: app/Lite/Admin/Connect.php:391
+msgid "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+
+#: app/Lite/Admin/Connect.php:317
+msgid "You are not licensed."
+msgstr "You are not licensed."
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:287
+msgid "Could not install upgrade. Please download from %1$s and install manually."
+msgstr "Could not install upgrade. Please download from %1$s and install manually."
+
+#: app/Lite/Admin/Connect.php:233
+msgid "Pro version is already installed."
+msgstr "Pro version is already installed."
+
+#: app/Lite/Admin/Connect.php:221
+msgid "Please enter your license key to connect."
+msgstr "Please enter your license key to connect."
+
+#: app/Lite/Admin/Connect.php:215
+msgid "You are not allowed to install plugins."
+msgstr "You are not allowed to install plugins."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:161
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; Connect"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:208
+msgid "General"
+msgstr "General"
+
+#: app/Common/Models/Post.php:431
+msgid "Please add a title first."
+msgstr "Please add a title first."
+
+#: app/Common/Models/Post.php:422 app/Common/Models/Post.php:440
+msgid "Please add some content first."
+msgstr "Please add some content first."
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:499
+#: app/Common/Options/Options.php:528 app/Common/Schema/Breadcrumb.php:306
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+msgid "Home"
+msgstr "Home"
+
+#: app/Common/Breadcrumbs/Tags.php:171
+msgid "404 Error Format"
+msgstr "404 Error Format"
+
+#: app/Common/Breadcrumbs/Tags.php:141 app/Common/Utils/Tags.php:458
+msgid "Separator"
+msgstr "Separator"
+
+#: app/Common/Views/sitemap/html/widget-options.php:128
+msgid "ID"
+msgstr "ID"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:129 app/Common/Breadcrumbs/Tags.php:135
+#: app/Common/Utils/Tags.php:336 app/Common/Utils/Tags.php:453
+msgid "%1$s Title"
+msgstr "%1$s Title"
+
+#: app/Common/Tools/RobotsTxt.php:372
+msgid "Import and Delete"
+msgstr "Import and Delete"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name
+#. ("AIOSEO").
+#: app/Common/Tools/RobotsTxt.php:366
+msgid "%1$s has detected a physical robots.txt file in the root folder of your WordPress installation. We recommend removing this file as it could cause conflicts with WordPress' dynamically generated one. %2$s can import this file and delete it, or you can simply delete it."
+msgstr "%1$s has detected a physical robots.txt file in the root folder of your WordPress installation. We recommend removing this file as it could cause conflicts with WordPress' dynamically generated one. %2$s can import this file and delete it, or you can simply delete it."
+
+#: app/Common/Admin/Admin.php:188
+msgid "Local SEO"
+msgstr "Local SEO"
+
+#: app/Common/Tools/SystemStatus.php:273
+msgid "Must-Use Plugins"
+msgstr "Must-Use Plugins"
+
+#: app/Common/Tools/SystemStatus.php:174
+msgid "Server Info"
+msgstr "Server Info"
+
+#: app/Common/Admin/Admin.php:174
+msgid "Sitemaps"
+msgstr "Sitemaps"
+
+#: app/Common/Admin/Admin.php:170
+msgid "Social Networks"
+msgstr "Social Networks"
+
+#: app/Common/Admin/Notices/Notices.php:460
+msgid "A Description tag is required in order to properly display your meta descriptions on your site."
+msgstr "A Description tag is required in order to properly display your meta descriptions on your site."
+
+#: app/Common/Tools/RobotsTxt.php:374
+msgid "Delete"
+msgstr "Delete"
+
+#: app/Common/Tools/SystemStatus.php:65
+msgid "Timezone"
+msgstr "Timezone"
+
+#: app/Common/Breadcrumbs/Widget.php:104
+msgid "Title:"
+msgstr "Title:"
+
+#: app/Common/Admin/Admin.php:158
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: app/Common/Admin/Admin.php:166
+msgid "Search Appearance"
+msgstr "Search Appearance"
+
+#: app/Common/Admin/Admin.php:204
+msgid "Analytics"
+msgstr "Analytics"
+
+#: app/Common/Admin/Admin.php:196
+msgid "Tools"
+msgstr "Tools"
+
+#: app/Common/Admin/Admin.php:192
+msgid "SEO Analysis"
+msgstr "SEO Analysis"
+
+#: app/Common/Admin/Admin.php:184
+msgid "Redirects"
+msgstr "Redirects"
+
+#: app/Common/Options/Options.php:520
+msgid "default"
+msgstr "default"
+
+#: app/Common/Views/sitemap/html/widget-options.php:144
+msgid "Exclude Posts / Pages"
+msgstr "Exclude Posts / Pages"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/SiteHealth.php:329 app/Common/Admin/SiteHealth.php:395
+msgid "Search Page"
+msgstr "Search Page"
+
+#: app/Common/Admin/SiteHealth.php:328 app/Common/Admin/SiteHealth.php:394
+msgid "Date Archives"
+msgstr "Date Archives"
+
+#: app/Common/Admin/SiteHealth.php:327 app/Common/Admin/SiteHealth.php:393
+msgid "Author Archives"
+msgstr "Author Archives"
+
+#: app/Common/Admin/SiteHealth.php:323 app/Common/Admin/SiteHealth.php:389
+msgid "Paginated Content"
+msgstr "Paginated Content"
+
+#: app/Common/Utils/Tags.php:531
+msgid "Categories"
+msgstr "Categories"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:94
+msgid "The fields below contain important SEO information from %1$s that may effect your site."
+msgstr "The fields below contain important SEO information from %1$s that may effect your site."
+
+#: app/Common/Admin/SiteHealth.php:81
+msgid "Nofollowed content"
+msgstr "Nofollowed content"
+
+#: app/Common/Admin/SiteHealth.php:73
+msgid "Noindexed content"
+msgstr "Noindexed content"
+
+#: app/Common/Admin/SiteHealth.php:295
+msgid "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+msgstr "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+
+#: app/Common/Admin/SiteHealth.php:283
+msgid "Go to Plugins"
+msgstr "Go to Plugins"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:280
+msgid "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+msgstr "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:245
+msgid "Awesome! These are required for %1$s's Person schema markup."
+msgstr "Awesome! These are required for %1$s's Person schema markup."
+
+#: app/Common/Admin/SiteHealth.php:242
+msgid "Your Person Name and Image are set"
+msgstr "Your Person Name and Image are set"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:232
+msgid "Your Person Name and/or Image are blank. These values are required for %1$s's Person schema markup."
+msgstr "Your Person Name and/or Image are blank. These values are required for %1$s's Person schema markup."
+
+#: app/Common/Admin/SiteHealth.php:229
+msgid "Your Person Name and/or Image are blank"
+msgstr "Your Person Name and/or Image are blank"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:210
+msgid "Awesome! These are required for %1$s's Organization schema markup."
+msgstr "Awesome! These are required for %1$s's Organization schema markup."
+
+#: app/Common/Admin/SiteHealth.php:207
+msgid "Your Organization Name and Logo are set"
+msgstr "Your Organization Name and Logo are set"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:197
+msgid "Your Organization Name and/or Logo are blank. These values are required for %1$s's Organization schema markup."
+msgstr "Your Organization Name and/or Logo are blank. These values are required for %1$s's Organization schema markup."
+
+#: app/Common/Admin/SiteHealth.php:194
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Your Organization Name and/or Logo are blank"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:167
+msgid "Great! These are required for %1$s's schema markup and are often used as fallback values for various other features."
+msgstr "Great! These are required for %1$s's schema markup and are often used as fallback values for various other features."
+
+#: app/Common/Admin/SiteHealth.php:164
+msgid "Your Site Title and Tagline are set"
+msgstr "Your Site Title and Tagline are set"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:151
+msgid "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+msgstr "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+
+#: app/Common/Admin/SiteHealth.php:148
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "Your Site Title and/or Tagline are blank"
+
+#: app/Common/Admin/SiteHealth.php:129
+msgid "Your site is set to public. Search engines will index your website and it will appear in search results."
+msgstr "Your site is set to public. Search engines will index your website and it will appear in search results."
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "Your site appears in search results"
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "Go to Settings > Reading"
+
+#: app/Common/Admin/SiteHealth.php:120
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "Your site does not appear in search results"
+
+#: app/Common/Utils/Tags.php:320
+msgid "The last name of the post author."
+msgstr "The last name of the post author."
+
+#: app/Common/Migration/GeneralSettings.php:471
+#: app/Common/Migration/SocialMeta.php:110
+msgid "Learn More"
+msgstr "Learn More"
+
+#: app/Common/Admin/Admin.php:500
+msgid "LinkedIn Post Inspector"
+msgstr "LinkedIn Post Inspector"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "Go to Settings > General"
+
+#: app/Common/Admin/Admin.php:394 app/Common/Admin/Admin.php:669
+msgid "Notifications"
+msgstr "Notifications"
+
+#: app/Common/Admin/Notices/Review.php:92
+msgid "Not Really..."
+msgstr "Not Really..."
+
+#: app/Common/Admin/Notices/Review.php:91
+msgid "Yes I love it"
+msgstr "Yes I love it"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:288
+msgid "Plugin installed & activated."
+msgstr "Plugin installed & activated."
+
+#: app/Common/Admin/Admin.php:304
+msgid "Link has been inserted."
+msgstr "Link has been inserted."
+
+#: app/Common/Admin/Admin.php:302
+msgid "No results found."
+msgstr "No results found."
+
+#: app/Common/Admin/Admin.php:300
+msgid "(no title)"
+msgstr "(no title)"
+
+#: app/Common/Admin/Admin.php:299
+msgid "Add Link"
+msgstr "Add Link"
+
+#: app/Common/Admin/Admin.php:298
+msgid "Update"
+msgstr "Update"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:512
+msgid "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+msgstr "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+
+#: app/Common/Admin/Admin.php:920
+msgid "Give us a 5-star rating!"
+msgstr "Give us a 5-star rating!"
+
+#: app/Common/Admin/Admin.php:495
+msgid "Mobile-Friendly Test"
+msgstr "Mobile-Friendly Test"
+
+#: app/Common/Admin/Admin.php:490
+msgid "Google Page Speed Test"
+msgstr "Google Page Speed Test"
+
+#: app/Common/Admin/Admin.php:485
+msgid "CSS Validator"
+msgstr "CSS Validator"
+
+#: app/Common/Admin/Admin.php:480
+msgid "HTML Validator"
+msgstr "HTML Validator"
+
+#: app/Common/Admin/Admin.php:475
+msgid "Pinterest Rich Pins Validator"
+msgstr "Pinterest Rich Pins Validator"
+
+#: app/Common/Admin/Admin.php:470
+msgid "Facebook Debugger"
+msgstr "Facebook Debugger"
+
+#: app/Common/Admin/Admin.php:465
+msgid "Google Structured Data Test"
+msgstr "Google Structured Data Test"
+
+#: app/Common/Admin/Admin.php:460
+msgid "Check Google Cache"
+msgstr "Check Google Cache"
+
+#: app/Common/Admin/Admin.php:455
+msgid "Check links to this URL"
+msgstr "Check links to this URL"
+
+#: app/Common/Admin/Admin.php:447
+msgid "Analyze this page"
+msgstr "Analyze this page"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:30
+msgid "Suggest a Feature"
+msgstr "Suggest a Feature"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:600
+msgid "never"
+msgstr "never"
+
+#: app/Common/Utils/Tags.php:285
+msgid "Your image's alt tag attribute."
+msgstr "Your image's alt tag attribute."
+
+#. Translators: 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84
+msgid "Upgrade to %1$s"
+msgstr "Upgrade to %1$s"
+
+#: app/Common/Admin/Admin.php:208
+msgid "About Us"
+msgstr "About Us"
+
+#: app/Common/Admin/Notices/Review.php:102
+msgid "I already did"
+msgstr "I already did"
+
+#: app/Common/Admin/Notices/Review.php:101
+msgid "Nope, maybe later"
+msgstr "Nope, maybe later"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:100
+msgid "Ok, you deserve it"
+msgstr "Ok, you deserve it"
+
+#: app/Common/Admin/Notices/Review.php:97
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Give feedback"
+msgstr "Give feedback"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:94
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:88
+msgid "Are you enjoying %1$s?"
+msgstr "Are you enjoying %1$s?"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "All in One SEO Team"
+
+#: app/Common/Utils/Tags.php:329
+msgid "Category"
+msgstr "Category"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "Page"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:637
+msgid "year"
+msgstr "year"
+
+#: app/Common/Admin/Dashboard.php:150
+msgid "Temporarily unable to load feed."
+msgstr "Temporarily unable to load feed."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:409
+msgid "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+
+#: app/Common/Admin/Notices/Notices.php:416
+#: app/Common/Admin/Notices/Notices.php:465
+#: app/Common/Admin/Notices/Notices.php:541
+#: app/Common/Admin/Notices/Notices.php:596 app/Common/Api/Wizard.php:271
+#: app/Common/ImportExport/RankMath/TitleMeta.php:417
+#: app/Common/Migration/GeneralSettings.php:747
+#: app/Common/Migration/Helpers.php:168
+msgid "Remind Me Later"
+msgstr "Remind Me Later"
+
+#: app/Common/Admin/Notices/Review.php:96
+msgid "No thanks"
+msgstr "No thanks"
+
+#. Translators: 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:80
+msgid "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+msgstr "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+
+#: app/Common/Views/sitemap/html/widget-options.php:158
+msgid "Exclude Terms"
+msgstr "Exclude Terms"
+
+#. Translators: 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:116
+msgid "%1$s Debug Info"
+msgstr "%1$s Debug Info"
+
+#: app/Common/Tools/SystemStatus.php:337
+msgid "Inactive Plugins"
+msgstr "Inactive Plugins"
+
+#: app/Common/Tools/SystemStatus.php:305
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: app/Common/Utils/Tags.php:476 app/Common/Utils/Tags.php:488
+msgid "Your site title."
+msgstr "Your site title."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "sitemaps"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "This sitemap index contains"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+msgid "URLs"
+msgstr "URLs"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "This sitemap contains"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "Generated by"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "Search Engine Visibility"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "Site Language"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:475
+#: app/Common/Utils/Tags.php:487
+msgid "Site Title"
+msgstr "Site Title"
+
+#: app/Common/Migration/SocialMeta.php:75
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "Use Content for Autogenerated Descriptions"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:63
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "Documentation"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:553 app/Lite/Main/Filters.php:48
+msgid "SEO Settings"
+msgstr "SEO Settings"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "dynamically"
+
+#: app/Common/Sitemap/Sitemap.php:491
+msgid "Additional Pages"
+msgstr "Additional Pages"
+
+#: app/Common/Views/sitemap/xsl/default.php:293
+msgid "Change Frequency"
+msgstr "Change Frequency"
+
+#: app/Common/Views/sitemap/xsl/default.php:306
+msgid "Priority"
+msgstr "Priority"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+msgid "Post Types"
+msgstr "Post Types"
+
+#: app/Common/Tools/SystemStatus.php:243
+msgid "Active Theme"
+msgstr "Active Theme"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Multisite"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "Home URL"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "Site URL"
+
+#: app/Common/Tools/SystemStatus.php:225
+msgid "PHP XML Support"
+msgstr "PHP XML Support"
+
+#: app/Common/Tools/SystemStatus.php:221
+msgid "PHP IPTC Support"
+msgstr "PHP IPTC Support"
+
+#: app/Common/Tools/SystemStatus.php:217
+msgid "PHP Exif Support"
+msgstr "PHP Exif Support"
+
+#: app/Common/Tools/SystemStatus.php:213
+msgid "PHP Max Script Execution Time"
+msgstr "PHP Max Script Execution Time"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: app/Common/Tools/SystemStatus.php:189
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: app/Common/Tools/SystemStatus.php:185
+msgid "Memory Usage"
+msgstr "Memory Usage"
+
+#: app/Common/Tools/SystemStatus.php:177
+msgid "Operating System"
+msgstr "Operating System"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "Yes"
+msgstr "Yes"
+
+#: app/Common/Tools/SystemStatus.php:186
+msgid "N/A"
+msgstr "N/A"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "Not set"
+
+#: app/Common/Tools/SystemStatus.php:78
+msgid "Default"
+msgstr "Default"
+
+#: app/Common/Utils/Tags.php:493
+msgid "Site Description"
+msgstr "Site Description"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "Run Shortcodes in Description"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "Run Shortcodes in Title"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "No"
+msgstr "No"
+
+#: app/Common/Admin/Admin.php:200
+msgid "Feature Manager"
+msgstr "Feature Manager"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "Version"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53
+msgid "Support"
+msgstr "Support"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: app/Common/Admin/Admin.php:534
+msgid "Edit SEO"
+msgstr "Edit SEO"
+
+#: app/Common/Admin/Admin.php:386 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Description"
+msgstr "Description"
+
+#: app/Common/Admin/Admin.php:301 app/Common/Models/Post.php:430
+#: app/Common/Views/sitemap/html/widget-options.php:8
+msgid "Title"
+msgstr "Title"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Disabled"
+msgstr "Disabled"
+
+#: app/Common/Admin/Admin.php:162
+msgid "General Settings"
+msgstr "General Settings"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
